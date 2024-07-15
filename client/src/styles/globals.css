@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
   
+@layer components {
+  .bg-box {
+    background: url('/box.png') repeat center center;
+  }
+}
