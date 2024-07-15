@@ -1,7 +1,4 @@
 [{
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a34"
-  },
   "videos": [
     "https://www.handspeak.com/word/r/rea/rear-facing-carseat.mp4",
     "https://www.handspeak.com/word/r/rea/rearfacing-camera.mp4"
@@ -9,10 +6,7 @@
   "images": [],
   "word": "REAR-FACING"
 },
-{
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a2a"
-  },
+{ 
   "videos": [
     "https://www.handspeak.com/word/a/aba/abandon.mp4"
   ],
@@ -22,19 +16,13 @@
   "word": "ABANDON"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a2f"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/abo/above.mp4"
   ],
   "images": [],
-  "word": "ABOVE sign language"
+  "word": "ABOVE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a37"
-  },
   "videos": [
     "https://www.handspeak.com/word/b/bac/back-forth.mp4"
   ],
@@ -44,9 +32,6 @@
   "word": "BACK AND FORTH"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a4b"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/adv/adventure-fs.mp4",
     "https://www.handspeak.com/word/a/adv/adventure.mp4"
@@ -55,9 +40,6 @@
   "word": "ADVENTURE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a50"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/aesthetics.mp4"
   ],
@@ -65,9 +47,6 @@
   "word": "AESTHETICS"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a52"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/aff/affiliate.mp4"
   ],
@@ -75,9 +54,6 @@
   "word": "AFFILIATE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a5c"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/agg/aggressive.mp4"
   ],
@@ -85,9 +61,6 @@
   "word": "AGGRESSIVE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a5d"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/agr/agree.mp4",
     "https://www.handspeak.com/word/a/agr/agree-with-you.mp4"
@@ -98,9 +71,6 @@
   "word": "AGREE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a5e"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/ahe/ahead.mp4",
     "https://www.handspeak.com/word/a/ahe/ahead2.mp4"
@@ -111,9 +81,6 @@
   "word": "AHEAD"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a60"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/air/airport.mp4"
   ],
@@ -123,9 +90,6 @@
   "word": "AIRPORT"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a2b"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/abb/abbreviate.mp4"
   ],
@@ -136,9 +100,6 @@
   "word": "ABBREVIATE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a35"
-  },
   "videos": [
     "https://www.handspeak.com/word/b/bac/backbone.mp4",
     "https://www.handspeak.com/word/b/bac/backbone2.mp4",
@@ -148,9 +109,6 @@
   "word": "BACKBONE, SPINAL COLUMN, SPINE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a36"
-  },
   "videos": [
     "https://www.handspeak.com/word/b/bac/backstroke.mp4"
   ],
@@ -158,9 +116,6 @@
   "word": "BACKSTROKE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a39"
-  },
   "videos": [
     "https://www.handspeak.com/word/c/cal/calculator.mp4"
   ],
@@ -171,9 +126,6 @@
   "word": "CALCULATOR"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a3a"
-  },
   "videos": [
     "https://www.handspeak.com/word/c/cal/calgary.mp4",
     "https://www.handspeak.com/word/c/cal/calgary-c.mp4"
@@ -184,9 +136,6 @@
   "word": "CALGARY"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a46"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/adm/admire.mp4"
   ],
@@ -194,9 +143,6 @@
   "word": "ADMIRE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a4a"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/arb/arbitrate.mp4"
   ],
@@ -204,9 +150,6 @@
   "word": "ARBITRATE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a51"
-  },
   "videos": [
     "https://www.handspeak.com/word/h/har/harvest-reap.mp4"
   ],
@@ -214,9 +157,6 @@
   "word": "HARVEST"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a53"
-  },
   "videos": [
     "https://www.handspeak.com/word/u/upd/update.mp4",
     "https://www.handspeak.com/word/u/upd/update-fs.mp4"
@@ -227,9 +167,6 @@
   "word": "UPDATE, UP TO DATE"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a55"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/afg/afghanistan.mp4"
   ],
@@ -237,9 +174,6 @@
   "word": "AFGHANISTAN CITIES"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a65"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/all/all-right.mp4"
   ],
@@ -249,9 +183,6 @@
   "word": "ALL RIGHT"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a3d"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/acc/accidental.mp4"
   ],
@@ -259,9 +190,6 @@
   "word": "ACCIDENTAL"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a41"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/act/activity.mp4"
   ],
@@ -269,9 +197,6 @@
   "word": "ACTIVITY"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a45"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/add/address.mp4",
     "https://www.handspeak.com/word/a/add/address-speak.mp4"
@@ -283,9 +208,6 @@
   "word": "ADDRESS"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a4f"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/adv/advocacy-support.mp4",
     "https://www.handspeak.com/word/a/adv/advocacy.mp4"
@@ -294,9 +216,6 @@
   "word": "ADVOCACY"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a62"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/ano/anonymous.mp4"
   ],
@@ -304,9 +223,6 @@
   "word": "ANONYMOUS"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a66"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/all/allergy.mp4",
     "https://www.handspeak.com/word/a/all/allergy-ca.mp4",
@@ -318,9 +234,6 @@
   "word": "ALLERGY"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a31"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/acc/accept.mp4"
   ],
@@ -332,9 +245,6 @@
   "word": "ACCEPT"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a3f"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/across.mp4",
     "https://www.handspeak.com/word/a/across-opposite.mp4"
@@ -342,12 +252,9 @@
   "images": [
     "https://www.handspeak.com/word/a/acr/across.jpg"
   ],
-  "word": "CROSS, ACROSS sign language"
+  "word": "CROSS, ACROSS"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a2c"
-  },
   "videos": [
     "https://www.handspeak.com/word/s/sti/stillborn.mp4",
     "https://www.handspeak.com/word/s/sti/stillborn2.mp4"
@@ -356,9 +263,6 @@
   "word": "STILLBORN"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a3b"
-  },
   "videos": [
     "https://www.handspeak.com/word/c/cal/calgary-flames.mp4"
   ],
@@ -368,21 +272,15 @@
   "word": "CALGARY FLAMES"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a47"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/adm/admit.mp4"
   ],
   "images": [
     "https://www.handspeak.com/word/a/adm/admit.jpg"
   ],
-  "word": "ADMIT sign language"
+  "word": "ADMIT"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a48"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/adu/adult-education.mp4"
   ],
@@ -390,9 +288,6 @@
   "word": "ANDRAGOGY, ADULT EDUCATION"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a57"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/afr/africa.mp4",
     "https://www.handspeak.com/word/a/afr/africa2-emmanuelsohou.mp4"
@@ -403,9 +298,6 @@
   "word": "AFRICA"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a59"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/aft/afternoon.mp4",
     "https://www.handspeak.com/word/a/aft/afternoon-all.mp4",
@@ -417,9 +309,6 @@
   "word": "AFTERNOON"
 },
 {
-  "_id": {
-    "$oid": "668f0029f4fc3b5c8b173a5b"
-  },
   "videos": [
     "https://www.handspeak.com/word/a/aga/against.mp4"
   ],
@@ -547,7 +436,7 @@
     "https://www.handspeak.com/word/a/aft/after.mp4"
   ],
   "images": [],
-  "word": "AFTER sign language"
+  "word": "AFTER"
 },
 {
   "_id": {
@@ -1186,7 +1075,7 @@
     "https://www.handspeak.com/word/a/ang/angel-screenshot.jpg",
     "https://www.handspeak.com/word/a/ang/angel-aslwrite.jpg"
   ],
-  "word": "ANGEL in Sign Language"
+  "word": "ANGEL"
 },
 {
   "_id": {
@@ -1313,7 +1202,7 @@
     "https://www.handspeak.com/word/a/app/appoint-reserve.mp4"
   ],
   "images": [],
-  "word": "ASL signs for APPOINT, APPOINTMENT"
+  "word": "ASL APPOINT, APPOINTMENT"
 },
 {
   "_id": {
@@ -1469,7 +1358,7 @@
     "https://www.handspeak.com/word/a/asl/asl-anim2018.gif",
     "https://www.handspeak.com/word/a/asl/asl-write.jpg"
   ],
-  "word": "ASL / American Sign Language / Ameslan"
+  "word": "ASL / American / Ameslan"
 },
 {
   "_id": {
@@ -1656,7 +1545,7 @@
     "https://www.handspeak.com/word/b/bet/between.mp4"
   ],
   "images": [],
-  "word": "ASL signs for BETWEEN"
+  "word": "ASL BETWEEN"
 },
 {
   "_id": {
@@ -1971,7 +1860,7 @@
     "https://www.handspeak.com/word/b/bas/baseball.mp4"
   ],
   "images": [],
-  "word": "ASL signs for BASEBALL"
+  "word": "ASL BASEBALL"
 },
 {
   "_id": {
@@ -2447,7 +2336,7 @@
     "https://www.handspeak.com/word/b/bir/bird-johnbrewster.jpg",
     "https://www.handspeak.com/word/b/bir/bird-aslwrite.jpg"
   ],
-  "word": "BIRD in Sign Language"
+  "word": "BIRD"
 },
 {
   "_id": {
@@ -3078,7 +2967,7 @@
     "https://www.handspeak.com/word/d/dis/discolor-change.mp4"
   ],
   "images": [],
-  "word": "DISCOLOR sign language"
+  "word": "DISCOLOR"
 },
 {
   "_id": {
@@ -5124,7 +5013,7 @@
     "https://www.handspeak.com/word/c/cong/congratulation-plu.mp4"
   ],
   "images": [],
-  "word": "ASL signs for CONGRATULATION"
+  "word": "ASL CONGRATULATION"
 },
 {
   "_id": {
@@ -5254,7 +5143,7 @@
     "https://www.handspeak.com/word/c/conf/confused.mp4"
   ],
   "images": [],
-  "word": "CONFUSED sign language"
+  "word": "CONFUSED"
 },
 {
   "_id": {
@@ -7001,7 +6890,7 @@
     "https://www.handspeak.com/word/d/dre/dress.mp4"
   ],
   "images": [],
-  "word": "ASL signs for DRESS"
+  "word": "ASL DRESS"
 },
 {
   "_id": {
@@ -7122,7 +7011,7 @@
     "https://www.handspeak.com/word/d/dis/disagree.mp4"
   ],
   "images": [],
-  "word": "DISAGREE sign language"
+  "word": "DISAGREE"
 },
 {
   "_id": {
@@ -8449,7 +8338,7 @@
     "https://www.handspeak.com/word/f/far/fart2.mp4"
   ],
   "images": [],
-  "word": "Signs for FART"
+  "word": "FART"
 },
 {
   "_id": {
@@ -8469,7 +8358,7 @@
     "https://www.handspeak.com/word/f/fas/fashionable.mp4"
   ],
   "images": [],
-  "word": "Signs for FASHIONABLE, STYLISH"
+  "word": "FASHIONABLE, STYLISH"
 },
 {
   "_id": {
@@ -8479,7 +8368,7 @@
     "https://www.handspeak.com/word/f/fas/fast-food.mp4"
   ],
   "images": [],
-  "word": "Signs for FAST FOOD"
+  "word": "FAST FOOD"
 },
 {
   "_id": {
@@ -8528,7 +8417,7 @@
     "https://www.handspeak.com/word/d/daddy.mp4"
   ],
   "images": [],
-  "word": "Signs for DADDY"
+  "word": "DADDY"
 },
 {
   "_id": {
@@ -8558,7 +8447,7 @@
     "https://www.handspeak.com/word/f/fed/fed-up.mp4"
   ],
   "images": [],
-  "word": "Signs for FED UP"
+  "word": "FED UP"
 },
 {
   "_id": {
@@ -8568,7 +8457,7 @@
     "https://www.handspeak.com/word/f/fed/federation.mp4"
   ],
   "images": [],
-  "word": "Signs for FEDERATION"
+  "word": "FEDERATION"
 },
 {
   "_id": {
@@ -8590,7 +8479,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for CIRCUIT"
+  "word": "CIRCUIT"
 },
 {
   "_id": {
@@ -8613,7 +8502,7 @@
     "https://www.handspeak.com/word/u/und/undergo2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNDERGO"
+  "word": "UNDERGO"
 },
 {
   "_id": {
@@ -8624,7 +8513,7 @@
     "https://www.handspeak.com/word/f/fee/feel-good2.mp4"
   ],
   "images": [],
-  "word": "Signs for FEEL-GOOD"
+  "word": "FEEL-GOOD"
 },
 {
   "_id": {
@@ -8644,7 +8533,7 @@
     "https://www.handspeak.com/word/f/fed/fed-up.mp4"
   ],
   "images": [],
-  "word": "Signs for FED UP"
+  "word": "FED UP"
 },
 {
   "_id": {
@@ -8654,7 +8543,7 @@
     "https://www.handspeak.com/word/f/fed/federation.mp4"
   ],
   "images": [],
-  "word": "Signs for FEDERATION"
+  "word": "FEDERATION"
 },
 {
   "_id": {
@@ -8676,7 +8565,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for CIRCUIT"
+  "word": "CIRCUIT"
 },
 {
   "_id": {
@@ -8699,7 +8588,7 @@
     "https://www.handspeak.com/word/u/und/undergo2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNDERGO"
+  "word": "UNDERGO"
 },
 {
   "_id": {
@@ -8710,7 +8599,7 @@
     "https://www.handspeak.com/word/f/fee/feel-good2.mp4"
   ],
   "images": [],
-  "word": "Signs for FEEL-GOOD"
+  "word": "FEEL-GOOD"
 },
 {
   "_id": {
@@ -8720,7 +8609,7 @@
     "https://www.handspeak.com/word/s/stu/stupefy.mp4"
   ],
   "images": [],
-  "word": "Signs for STUPEFY"
+  "word": "STUPEFY"
 },
 {
   "_id": {
@@ -8730,7 +8619,7 @@
     "https://www.handspeak.com/word/d/des/desensitize.mp4"
   ],
   "images": [],
-  "word": "Signs for DESENSITIZE"
+  "word": "DESENSITIZE"
 },
 {
   "_id": {
@@ -8741,7 +8630,7 @@
     "https://www.handspeak.com/word/g/gra/gratify.mp4"
   ],
   "images": [],
-  "word": "Signs for GRATIFY, GRATIFIED"
+  "word": "GRATIFY, GRATIFIED"
 },
 {
   "_id": {
@@ -8775,7 +8664,7 @@
     "https://www.handspeak.com/word/f/fem/feminism.mp4"
   ],
   "images": [],
-  "word": "Signs for FEMINISM"
+  "word": "FEMINISM"
 },
 {
   "_id": {
@@ -8786,7 +8675,7 @@
     "https://www.handspeak.com/word/p/pic/picket-fence.mp4"
   ],
   "images": [],
-  "word": "FENCE sign language"
+  "word": "FENCE"
 },
 {
   "_id": {
@@ -8824,7 +8713,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for FIGHTER"
+  "word": "FIGHTER"
 },
 {
   "_id": {
@@ -8835,7 +8724,7 @@
     "https://www.handspeak.com/word/f/feud-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for FEUD"
+  "word": "FEUD"
 },
 {
   "_id": {
@@ -8862,7 +8751,7 @@
     "https://www.handspeak.com/word/f/fil/file-nail2.mp4"
   ],
   "images": [],
-  "word": "Signs for FILE"
+  "word": "FILE"
 },
 {
   "_id": {
@@ -8883,7 +8772,7 @@
     "https://www.handspeak.com/word/f/fil/filthy.mp4"
   ],
   "images": [],
-  "word": "Signs for FILTHY"
+  "word": "FILTHY"
 },
 {
   "_id": {
@@ -8915,7 +8804,7 @@
     "https://www.handspeak.com/word/l/loc/locate-specific.mp4"
   ],
   "images": [],
-  "word": "Signs for LOCATE"
+  "word": "LOCATE"
 },
 {
   "_id": {
@@ -8925,7 +8814,7 @@
     "https://www.handspeak.com/word/f/fin/fine-art.mp4"
   ],
   "images": [],
-  "word": "Signs for FINE ART"
+  "word": "FINE ART"
 },
 {
   "_id": {
@@ -8948,7 +8837,7 @@
     "https://www.handspeak.com/word/f/fin/finish-line.mp4"
   ],
   "images": [],
-  "word": "Signs for FINISH LINE"
+  "word": "FINISH LINE"
 },
 {
   "_id": {
@@ -8974,7 +8863,7 @@
     "https://www.handspeak.com/word/f/fee/fee-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for FEE"
+  "word": "FEE"
 },
 {
   "_id": {
@@ -8994,7 +8883,7 @@
     "https://www.handspeak.com/word/f/fin/finland.mp4"
   ],
   "images": [],
-  "word": "Signs for FINLAND, FINNISH"
+  "word": "FINLAND, FINNISH"
 },
 {
   "_id": {
@@ -9038,7 +8927,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for AWARD-WINNING"
+  "word": "AWARD-WINNING"
 },
 {
   "_id": {
@@ -9048,7 +8937,7 @@
     "https://www.handspeak.com/word/c/cal/call-names.mp4"
   ],
   "images": [],
-  "word": "Signs for CALL NAMES"
+  "word": "CALL NAMES"
 },
 {
   "_id": {
@@ -9062,7 +8951,7 @@
     "https://www.handspeak.com/word/f/fis/fish-screenshot.jpg",
     "https://www.handspeak.com/word/f/fis/fish-art-fischer.jpg"
   ],
-  "word": "FISH in Sign Language and Deaf Culture"
+  "word": "FISH"
 },
 {
   "_id": {
@@ -9072,7 +8961,7 @@
     "https://www.handspeak.com/word/f/fis/fishing.mp4"
   ],
   "images": [],
-  "word": "Signs for FISHING"
+  "word": "FISHING"
 },
 {
   "_id": {
@@ -9095,7 +8984,7 @@
     "https://www.handspeak.com/word/f/fla/flatline-growth.mp4"
   ],
   "images": [],
-  "word": "Signs for FLATLINE"
+  "word": "FLATLINE"
 },
 {
   "_id": {
@@ -9117,7 +9006,7 @@
     "https://www.handspeak.com/word/f/fla/flat-out.mp4"
   ],
   "images": [],
-  "word": "Signs for FLAT OUT"
+  "word": "FLAT OUT"
 },
 {
   "_id": {
@@ -9129,7 +9018,7 @@
     "https://www.handspeak.com/word/f/fla/flatten-curve2.mp4"
   ],
   "images": [],
-  "word": "Signs for FLATTEN"
+  "word": "FLATTEN"
 },
 {
   "_id": {
@@ -9151,7 +9040,7 @@
     "https://www.handspeak.com/word/f/fla/flat-rate.mp4"
   ],
   "images": [],
-  "word": "Signs for FLAT RATE"
+  "word": "FLAT RATE"
 },
 {
   "_id": {
@@ -9162,7 +9051,7 @@
     "https://www.handspeak.com/word/f/fla/flash-lamp2.mp4"
   ],
   "images": [],
-  "word": "Signs for FLASHLAMP"
+  "word": "FLASHLAMP"
 },
 {
   "_id": {
@@ -9173,7 +9062,7 @@
     "https://www.handspeak.com/word/s/sta/stagger2.mp4"
   ],
   "images": [],
-  "word": "Signs for STAGGER"
+  "word": "STAGGER"
 },
 {
   "_id": {
@@ -9186,7 +9075,7 @@
     "https://www.handspeak.com/word/f/fla/flashing-light.mp4"
   ],
   "images": [],
-  "word": "Signs for FLASH"
+  "word": "FLASH"
 },
 {
   "_id": {
@@ -9196,7 +9085,7 @@
     "https://www.handspeak.com/word/f/fle/flee.mp4"
   ],
   "images": [],
-  "word": "Signs for FLEE"
+  "word": "FLEE"
 },
 {
   "_id": {
@@ -9226,7 +9115,7 @@
     "https://www.handspeak.com/word/f/flo/float.mp4"
   ],
   "images": [],
-  "word": "Signs for FLOAT"
+  "word": "FLOAT"
 },
 {
   "_id": {
@@ -9236,7 +9125,7 @@
     "https://www.handspeak.com/word/r/rea/real-life.mp4"
   ],
   "images": [],
-  "word": "Signs for REAL-LIFE, REAL-WORLD"
+  "word": "REAL-LIFE, REAL-WORLD"
 },
 {
   "_id": {
@@ -9246,7 +9135,7 @@
     "https://www.handspeak.com/word/s/soa/soar.mp4"
   ],
   "images": [],
-  "word": "Signs for SOAR"
+  "word": "SOAR"
 },
 {
   "_id": {
@@ -9259,7 +9148,7 @@
   "images": [
     "https://www.handspeak.com/word/f/foc/focus-aslwrite.jpg"
   ],
-  "word": "Signs for FOCUS"
+  "word": "FOCUS"
 },
 {
   "_id": {
@@ -9269,7 +9158,7 @@
     "https://www.handspeak.com/word/f/foc/focal-point.mp4"
   ],
   "images": [],
-  "word": "Signs for FOCAL POINT"
+  "word": "FOCAL POINT"
 },
 {
   "_id": {
@@ -9317,7 +9206,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for FLAVORFUL, FLAVORSOME"
+  "word": "FLAVORFUL, FLAVORSOME"
 },
 {
   "_id": {
@@ -9327,7 +9216,7 @@
     "https://www.handspeak.com/word/f/foo/foolish.mp4"
   ],
   "images": [],
-  "word": "Signs for FOOLISH, GOOFY"
+  "word": "FOOLISH, GOOFY"
 },
 {
   "_id": {
@@ -9338,7 +9227,7 @@
     "https://www.handspeak.com/word/j/jes/jester-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for JOKER, JESTER"
+  "word": "JOKER, JESTER"
 },
 {
   "_id": {
@@ -9350,7 +9239,7 @@
     "https://www.handspeak.com/word/t/tri/trick-joke.mp4"
   ],
   "images": [],
-  "word": "Signs for TRICK"
+  "word": "TRICK"
 },
 {
   "_id": {
@@ -9360,7 +9249,7 @@
     "https://www.handspeak.com/word/f/fre/free-kick.mp4"
   ],
   "images": [],
-  "word": "Signs for FREE KICK"
+  "word": "FREE KICK"
 },
 {
   "_id": {
@@ -9383,7 +9272,7 @@
     "https://www.handspeak.com/word/w/wor/workforce.mp4"
   ],
   "images": [],
-  "word": "Signs for WORKFORCE"
+  "word": "WORKFORCE"
 },
 {
   "_id": {
@@ -9393,7 +9282,7 @@
     "https://www.handspeak.com/word/f/for/for-sure.mp4"
   ],
   "images": [],
-  "word": "Signs for FOR SURE, CERTAINLY, DEFINITELY..."
+  "word": "FOR SURE, CERTAINLY, DEFINITELY..."
 },
 {
   "_id": {
@@ -9414,7 +9303,7 @@
     "https://www.handspeak.com/word/f/for/force2.mp4"
   ],
   "images": [],
-  "word": "Signs for FORCE"
+  "word": "FORCE"
 },
 {
   "_id": {
@@ -9435,7 +9324,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for UNREMITTING"
+  "word": "UNREMITTING"
 },
 {
   "_id": {
@@ -9445,7 +9334,7 @@
     "https://www.handspeak.com/word/f/for/formula.mp4"
   ],
   "images": [],
-  "word": "Signs for FORMULA"
+  "word": "FORMULA"
 },
 {
   "_id": {
@@ -9455,7 +9344,7 @@
     "https://www.handspeak.com/word/f/for/forsake-disown.mp4"
   ],
   "images": [],
-  "word": "Signs for FORSAKE"
+  "word": "FORSAKE"
 },
 {
   "_id": {
@@ -9465,7 +9354,7 @@
     "https://www.handspeak.com/word/f/fou/fountain-pen.mp4"
   ],
   "images": [],
-  "word": "Signs for FOUNTAIN PEN"
+  "word": "FOUNTAIN PEN"
 },
 {
   "_id": {
@@ -9475,7 +9364,7 @@
     "https://www.handspeak.com/word/f/fou/fountain.mp4"
   ],
   "images": [],
-  "word": "Signs for FOUNTAIN"
+  "word": "FOUNTAIN"
 },
 {
   "_id": {
@@ -9485,7 +9374,7 @@
     "https://www.handspeak.com/word/d/dri/drinking-fountain.mp4"
   ],
   "images": [],
-  "word": "Signs for DRINKING FOUNTAIN"
+  "word": "DRINKING FOUNTAIN"
 },
 {
   "_id": {
@@ -9530,7 +9419,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for COMMODITY"
+  "word": "COMMODITY"
 },
 {
   "_id": {
@@ -9540,7 +9429,7 @@
     "https://www.handspeak.com/word/f/fre/freestyle-swim.mp4"
   ],
   "images": [],
-  "word": "Signs for FREESTYLE"
+  "word": "FREESTYLE"
 },
 {
   "_id": {
@@ -9573,7 +9462,7 @@
     "https://www.handspeak.com/word/f/fre/freshman2.mp4"
   ],
   "images": [],
-  "word": "Signs for FRESHMAN"
+  "word": "FRESHMAN"
 },
 {
   "_id": {
@@ -9581,7 +9470,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for UNLUCKY"
+  "word": "UNLUCKY"
 },
 {
   "_id": {
@@ -9639,7 +9528,7 @@
     "https://www.handspeak.com/word/f/fro/from-now-on.mp4"
   ],
   "images": [],
-  "word": "Signs for FROM NOW ON"
+  "word": "FROM NOW ON"
 },
 {
   "_id": {
@@ -9671,7 +9560,7 @@
     "https://www.handspeak.com/word/v/vex/vexed.mp4"
   ],
   "images": [],
-  "word": "Signs for VEXED"
+  "word": "VEXED"
 },
 {
   "_id": {
@@ -9692,7 +9581,7 @@
     "https://www.handspeak.com/word/d/dis/disgruntled2.mp4"
   ],
   "images": [],
-  "word": "Signs for DISGRUNTLED"
+  "word": "DISGRUNTLED"
 },
 {
   "_id": {
@@ -9732,7 +9621,7 @@
     "https://www.handspeak.com/word/b/bri/brimful.mp4"
   ],
   "images": [],
-  "word": "Signs for BRIMFUL"
+  "word": "BRIMFUL"
 },
 {
   "_id": {
@@ -9755,7 +9644,7 @@
     "https://www.handspeak.com/word/f/fun/funeral.mp4"
   ],
   "images": [],
-  "word": "Signs for FUNERAL"
+  "word": "FUNERAL"
 },
 {
   "_id": {
@@ -9778,7 +9667,7 @@
     "https://www.handspeak.com/word/h/hil/hilarious.mp4"
   ],
   "images": [],
-  "word": "Signs for HILARIOUS"
+  "word": "HILARIOUS"
 },
 {
   "_id": {
@@ -9789,7 +9678,7 @@
     "https://www.handspeak.com/word/h/heh-sick.mp4"
   ],
   "images": [],
-  "word": "Signs for HEH (INTERJECTION)"
+  "word": "HEH (INTERJECTION)"
 },
 {
   "_id": {
@@ -9835,7 +9724,7 @@
     "https://www.handspeak.com/word/k/kick-out.mp4"
   ],
   "images": [],
-  "word": "Signs for KICK OUT"
+  "word": "KICK OUT"
 },
 {
   "_id": {
@@ -9847,7 +9736,7 @@
   "images": [
     "https://www.handspeak.com/word/g/gam/game-aslwrite.jpg"
   ],
-  "word": "ASL Signs for GAME"
+  "word": "ASL GAME"
 },
 {
   "_id": {
@@ -9857,7 +9746,7 @@
     "https://www.handspeak.com/word/g/gam/gammel-dansk.mp4"
   ],
   "images": [],
-  "word": "Signs for GAMMEL DANSK"
+  "word": "GAMMEL DANSK"
 },
 {
   "_id": {
@@ -9881,7 +9770,7 @@
     "https://www.handspeak.com/word/g/gar/garbage.mp4"
   ],
   "images": [],
-  "word": "Signs for GARBAGE"
+  "word": "GARBAGE"
 },
 {
   "_id": {
@@ -9892,7 +9781,7 @@
     "https://www.handspeak.com/word/g/gay/gay-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for GAY"
+  "word": "GAY"
 },
 {
   "_id": {
@@ -9902,7 +9791,7 @@
     "https://www.handspeak.com/word/g/gen/gene-biology.mp4"
   ],
   "images": [],
-  "word": "Signs for GENE"
+  "word": "GENE"
 },
 {
   "_id": {
@@ -9912,7 +9801,7 @@
     "https://www.handspeak.com/word/g/gen/general.mp4"
   ],
   "images": [],
-  "word": "Signs for GENERAL"
+  "word": "GENERAL"
 },
 {
   "_id": {
@@ -9924,7 +9813,7 @@
   "images": [
     "https://www.handspeak.com/word/g/gen/generation-aslwrite.jpg"
   ],
-  "word": "Signs for GENERATION"
+  "word": "GENERATION"
 },
 {
   "_id": {
@@ -9934,7 +9823,7 @@
     "https://www.handspeak.com/word/g/gen/geneva-ch.mp4"
   ],
   "images": [],
-  "word": "Signs for GENEVA (SWITZERLAND)"
+  "word": "GENEVA (SWITZERLAND)"
 },
 {
   "_id": {
@@ -9958,7 +9847,7 @@
     "https://www.handspeak.com/word/g/ger/german.mp4"
   ],
   "images": [],
-  "word": "Signs for GERMAN"
+  "word": "GERMAN"
 },
 {
   "_id": {
@@ -9990,7 +9879,7 @@
     "https://www.handspeak.com/word/g/get/get-even.mp4"
   ],
   "images": [],
-  "word": "Signs for GET EVEN"
+  "word": "GET EVEN"
 },
 {
   "_id": {
@@ -10037,7 +9926,7 @@
     "https://www.handspeak.com/word/t/tap/tapir.mp4"
   ],
   "images": [],
-  "word": "Signs for TAPIR"
+  "word": "TAPIR"
 },
 {
   "_id": {
@@ -10087,7 +9976,7 @@
     "https://www.handspeak.com/word/d/des/desist.mp4"
   ],
   "images": [],
-  "word": "Signs for DESIST"
+  "word": "DESIST"
 },
 {
   "_id": {
@@ -10098,7 +9987,7 @@
     "https://www.handspeak.com/word/g/giv/give-in-give.mp4"
   ],
   "images": [],
-  "word": "Signs for GIVE IN"
+  "word": "GIVE IN"
 },
 {
   "_id": {
@@ -10119,7 +10008,7 @@
     "https://www.handspeak.com/word/r/ref/refrain.mp4"
   ],
   "images": [],
-  "word": "Signs for REFRAIN, FORBEAR"
+  "word": "REFRAIN, FORBEAR"
 },
 {
   "_id": {
@@ -10142,7 +10031,7 @@
     "https://www.handspeak.com/word/a/ari/arise-getup.mp4"
   ],
   "images": [],
-  "word": "Signs for ARISE"
+  "word": "ARISE"
 },
 {
   "_id": {
@@ -10152,7 +10041,7 @@
     "https://www.handspeak.com/word/g/go/go-out.mp4"
   ],
   "images": [],
-  "word": "Signs for GO OUT"
+  "word": "GO OUT"
 },
 {
   "_id": {
@@ -10177,7 +10066,7 @@
   "images": [
     "https://www.handspeak.com/word/g/go-ahead-aslwrite.jpg"
   ],
-  "word": "Signs for GO AHEAD"
+  "word": "GO AHEAD"
 },
 {
   "_id": {
@@ -10189,7 +10078,7 @@
     "https://www.handspeak.com/word/g/goa/goal-hockey.mp4"
   ],
   "images": [],
-  "word": "Signs for GOAL"
+  "word": "GOAL"
 },
 {
   "_id": {
@@ -10199,7 +10088,7 @@
     "https://www.handspeak.com/word/y/yea/yearning.mp4"
   ],
   "images": [],
-  "word": "Signs for YEARNING"
+  "word": "YEARNING"
 },
 {
   "_id": {
@@ -10220,7 +10109,7 @@
     "https://www.handspeak.com/word/f/fal/fall-apart.mp4"
   ],
   "images": [],
-  "word": "Signs for FALL APART"
+  "word": "FALL APART"
 },
 {
   "_id": {
@@ -10268,7 +10157,7 @@
     "https://www.handspeak.com/word/g/goo/good-enough.mp4"
   ],
   "images": [],
-  "word": "Signs for GOOD ENOUGH"
+  "word": "GOOD ENOUGH"
 },
 {
   "_id": {
@@ -10289,7 +10178,7 @@
     "https://www.handspeak.com/word/e/eat/eat-out.mp4"
   ],
   "images": [],
-  "word": "Signs for EAT OUT"
+  "word": "EAT OUT"
 },
 {
   "_id": {
@@ -10301,7 +10190,7 @@
   "images": [
     "https://www.handspeak.com/word/g/goo/goosebump-aslwrite.jpg"
   ],
-  "word": "Signs for GOOSEBUMPS"
+  "word": "GOOSEBUMPS"
 },
 {
   "_id": {
@@ -10322,7 +10211,7 @@
     "https://www.handspeak.com/word/g/gov/government-ca.mp4"
   ],
   "images": [],
-  "word": "GOVERNMENT sign language"
+  "word": "GOVERNMENT"
 },
 {
   "_id": {
@@ -10332,7 +10221,7 @@
     "https://www.handspeak.com/word/g/gov/govern.mp4"
   ],
   "images": [],
-  "word": "Signs for GOVERN"
+  "word": "GOVERN"
 },
 {
   "_id": {
@@ -10342,7 +10231,7 @@
     "https://www.handspeak.com/word/s/sho/showcase.mp4"
   ],
   "images": [],
-  "word": "Signs for SHOWCASE"
+  "word": "SHOWCASE"
 },
 {
   "_id": {
@@ -10352,7 +10241,7 @@
     "https://www.handspeak.com/word/s/sho/show-up.mp4"
   ],
   "images": [],
-  "word": "Signs for SHOW UP"
+  "word": "SHOW UP"
 },
 {
   "_id": {
@@ -10373,7 +10262,7 @@
     "https://www.handspeak.com/word/g/gra/grab-seize2.mp4"
   ],
   "images": [],
-  "word": "Signs for GRAB THE OPPORTUNITY/CHANCE, CARPE DIEM"
+  "word": "GRAB THE OPPORTUNITY/CHANCE, CARPE DIEM"
 },
 {
   "_id": {
@@ -10383,7 +10272,7 @@
     "https://www.handspeak.com/word/s/sei/seize-the-day.mp4"
   ],
   "images": [],
-  "word": "Signs for SEIZE THE DAY"
+  "word": "SEIZE THE DAY"
 },
 {
   "_id": {
@@ -10446,7 +10335,7 @@
     "https://www.handspeak.com/word/g/gra/gray-matter.mp4"
   ],
   "images": [],
-  "word": "Signs for GRAY MATTER"
+  "word": "GRAY MATTER"
 },
 {
   "_id": {
@@ -10479,7 +10368,7 @@
     "https://www.handspeak.com/word/g/gre/greek.mp4"
   ],
   "images": [],
-  "word": "Signs for GREEK"
+  "word": "GREEK"
 },
 {
   "_id": {
@@ -10512,7 +10401,7 @@
     "https://www.handspeak.com/word/g/gre/gretzky.mp4"
   ],
   "images": [],
-  "word": "Signs for GRETZKY, WAYNE"
+  "word": "GRETZKY, WAYNE"
 },
 {
   "_id": {
@@ -10522,7 +10411,7 @@
     "https://www.handspeak.com/word/g/gri/grief.mp4"
   ],
   "images": [],
-  "word": "Signs for GRIEF"
+  "word": "GRIEF"
 },
 {
   "_id": {
@@ -10549,7 +10438,7 @@
     "https://www.handspeak.com/word/f/flo/flourish-grow.mp4"
   ],
   "images": [],
-  "word": "Signs for FLOURISH"
+  "word": "FLOURISH"
 },
 {
   "_id": {
@@ -10561,7 +10450,7 @@
   "images": [
     "https://www.handspeak.com/word/g/gue/guess-aslwrite.jpg"
   ],
-  "word": "Signs for GUESS"
+  "word": "GUESS"
 },
 {
   "_id": {
@@ -10573,7 +10462,7 @@
     "https://www.handspeak.com/word/t/tra/travel-guide.mp4"
   ],
   "images": [],
-  "word": "Signs for GUIDE"
+  "word": "GUIDE"
 },
 {
   "_id": {
@@ -10583,7 +10472,7 @@
     "https://www.handspeak.com/word/g/gui/guideline.mp4"
   ],
   "images": [],
-  "word": "Signs for GUIDELINE"
+  "word": "GUIDELINE"
 },
 {
   "_id": {
@@ -10606,7 +10495,7 @@
     "https://www.handspeak.com/word/c/cop/cope-how.mp4"
   ],
   "images": [],
-  "word": "Signs for COPE"
+  "word": "COPE"
 },
 {
   "_id": {
@@ -10663,7 +10552,7 @@
     "https://www.handspeak.com/word/g/gro/group.mp4"
   ],
   "images": [],
-  "word": "Signs for ENSEMBLE"
+  "word": "ENSEMBLE"
 },
 {
   "_id": {
@@ -10673,7 +10562,7 @@
     "https://www.handspeak.com/word/h/ha-ha.mp4"
   ],
   "images": [],
-  "word": "Signs for HA HA"
+  "word": "HA HA"
 },
 {
   "_id": {
@@ -10696,7 +10585,7 @@
     "https://www.handspeak.com/word/t/tra/trait.mp4"
   ],
   "images": [],
-  "word": "Signs for TRAIT"
+  "word": "TRAIT"
 },
 {
   "_id": {
@@ -10706,7 +10595,7 @@
     "https://www.handspeak.com/word/c/cre/crewcut.mp4"
   ],
   "images": [],
-  "word": "Signs for CREWCUT"
+  "word": "CREWCUT"
 },
 {
   "_id": {
@@ -10718,7 +10607,7 @@
     "https://www.handspeak.com/word/c/cur/curly-strand.mp4"
   ],
   "images": [],
-  "word": "Signs for CURLY"
+  "word": "CURLY"
 },
 {
   "_id": {
@@ -10728,7 +10617,7 @@
     "https://www.handspeak.com/word/f/fri/frizzy-hair.mp4"
   ],
   "images": [],
-  "word": "Signs for FRIZZY"
+  "word": "FRIZZY"
 },
 {
   "_id": {
@@ -10738,7 +10627,7 @@
     "https://www.handspeak.com/word/h/hai/hair-highlighting.mp4"
   ],
   "images": [],
-  "word": "Signs for STREAK"
+  "word": "STREAK"
 },
 {
   "_id": {
@@ -10763,7 +10652,7 @@
     "https://www.handspeak.com/word/h/hal/half-b.mp4"
   ],
   "images": [],
-  "word": "Signs for HALF"
+  "word": "HALF"
 },
 {
   "_id": {
@@ -10774,7 +10663,7 @@
     "https://www.handspeak.com/word/h/hal/half-hour2.mp4"
   ],
   "images": [],
-  "word": "Signs for HALF-HOUR"
+  "word": "HALF-HOUR"
 },
 {
   "_id": {
@@ -10785,7 +10674,7 @@
     "https://www.handspeak.com/word/h/hal/halfway-time.mp4"
   ],
   "images": [],
-  "word": "Signs for HALFWAY"
+  "word": "HALFWAY"
 },
 {
   "_id": {
@@ -10824,7 +10713,7 @@
     "https://www.handspeak.com/word/c/cos/costume-halloween.mp4"
   ],
   "images": [],
-  "word": "Signs for COSTUME"
+  "word": "COSTUME"
 },
 {
   "_id": {
@@ -10834,7 +10723,7 @@
     "https://www.handspeak.com/word/h/ham/hamburg-de.mp4"
   ],
   "images": [],
-  "word": "Signs for HAMBURG (GERMANY)"
+  "word": "HAMBURG (GERMANY)"
 },
 {
   "_id": {
@@ -10846,7 +10735,7 @@
   "images": [
     "https://www.handspeak.com/word/h/han/hands-off-aslwrite.jpg"
   ],
-  "word": "Signs for HANDS OFF"
+  "word": "HANDS OFF"
 },
 {
   "_id": {
@@ -10857,7 +10746,7 @@
     "https://www.handspeak.com/word/u/use/useful.mp4"
   ],
   "images": [],
-  "word": "Signs for HANDY, USEFUL, PRACTICAL"
+  "word": "HANDY, USEFUL, PRACTICAL"
 },
 {
   "_id": {
@@ -10868,7 +10757,7 @@
     "https://www.handspeak.com/word/h/han/handshake2.mp4"
   ],
   "images": [],
-  "word": "Signs for HANDSHAKE, SHAKE HANDS"
+  "word": "HANDSHAKE, SHAKE HANDS"
 },
 {
   "_id": {
@@ -10878,7 +10767,7 @@
     "https://www.handspeak.com/word/h/han/hands-on.mp4"
   ],
   "images": [],
-  "word": "Signs for HANDS-ON"
+  "word": "HANDS-ON"
 },
 {
   "_id": {
@@ -10928,7 +10817,7 @@
     "https://www.handspeak.com/word/h/har/hardship.mp4"
   ],
   "images": [],
-  "word": "Signs for HARDSHIP"
+  "word": "HARDSHIP"
 },
 {
   "_id": {
@@ -10964,7 +10853,7 @@
     "https://www.handspeak.com/word/u/umpire.mp4"
   ],
   "images": [],
-  "word": "Signs for UMPIRE"
+  "word": "UMPIRE"
 },
 {
   "_id": {
@@ -11001,7 +10890,7 @@
     "https://www.handspeak.com/word/h/hav/have-beento.mp4"
   ],
   "images": [],
-  "word": "Signs for HAVE BEEN TO"
+  "word": "HAVE BEEN TO"
 },
 {
   "_id": {
@@ -11009,7 +10898,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for BEHOLD"
+  "word": "BEHOLD"
 },
 {
   "_id": {
@@ -11021,7 +10910,7 @@
     "https://www.handspeak.com/word/c/com/comprise-have.mp4"
   ],
   "images": [],
-  "word": "Signs for COMPRISE"
+  "word": "COMPRISE"
 },
 {
   "_id": {
@@ -11035,7 +10924,7 @@
   "images": [
     "https://www.handspeak.com/word/h/hav/havenot-art.jpg"
   ],
-  "word": "Signs for NOT HAVE, HAVE-NOT"
+  "word": "NOT HAVE, HAVE-NOT"
 },
 {
   "_id": {
@@ -11053,7 +10942,7 @@
     "https://www.handspeak.com/word/r/ret/retain-memory2.mp4"
   ],
   "images": [],
-  "word": "Signs for RETAIN, RETENTION"
+  "word": "RETAIN, RETENTION"
 },
 {
   "_id": {
@@ -11063,7 +10952,7 @@
     "https://www.handspeak.com/word/h/hea/head.mp4"
   ],
   "images": [],
-  "word": "Signs for HEAD"
+  "word": "HEAD"
 },
 {
   "_id": {
@@ -11075,7 +10964,7 @@
   "images": [
     "https://www.handspeak.com/word/h/hea/heal-aslwrite.jpg"
   ],
-  "word": "Signs for HEAL"
+  "word": "HEAL"
 },
 {
   "_id": {
@@ -11098,7 +10987,7 @@
     "https://www.handspeak.com/word/h/hea/hearsay.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARSAY (HERESAY)"
+  "word": "HEARSAY (HERESAY)"
 },
 {
   "_id": {
@@ -11108,7 +10997,7 @@
     "https://www.handspeak.com/word/h/hea/hear-none2.mp4"
   ],
   "images": [],
-  "word": "Signs for HEAR NONE"
+  "word": "HEAR NONE"
 },
 {
   "_id": {
@@ -11161,7 +11050,7 @@
     "https://www.handspeak.com/word/h/hea/heartwrenching.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTWRENCHING"
+  "word": "HEARTWRENCHING"
 },
 {
   "_id": {
@@ -11171,7 +11060,7 @@
     "https://www.handspeak.com/word/h/hea/heart-attack.mp4"
   ],
   "images": [],
-  "word": "Signs for HEART ATTACK"
+  "word": "HEART ATTACK"
 },
 {
   "_id": {
@@ -11181,7 +11070,7 @@
     "https://www.handspeak.com/word/h/hea/heartbreak-grief.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTBREAK, BROKEN-HEARTED"
+  "word": "HEARTBREAK, BROKEN-HEARTED"
 },
 {
   "_id": {
@@ -11191,7 +11080,7 @@
     "https://www.handspeak.com/word/h/hea/heartache.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTACHE"
+  "word": "HEARTACHE"
 },
 {
   "_id": {
@@ -11202,7 +11091,7 @@
     "https://www.handspeak.com/word/h/hea/heartless2.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTLESS, IRON-HEARTED"
+  "word": "HEARTLESS, IRON-HEARTED"
 },
 {
   "_id": {
@@ -11212,7 +11101,7 @@
     "https://www.handspeak.com/word/h/hea/hearing-minded.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARING-MINDED"
+  "word": "HEARING-MINDED"
 },
 {
   "_id": {
@@ -11222,7 +11111,7 @@
     "https://www.handspeak.com/word/h/hea/heartfelt.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTFELT"
+  "word": "HEARTFELT"
 },
 {
   "_id": {
@@ -11286,7 +11175,7 @@
     "https://www.handspeak.com/word/h/his/his2.mp4"
   ],
   "images": [],
-  "word": "Signs for HIS"
+  "word": "HIS"
 },
 {
   "_id": {
@@ -11312,7 +11201,7 @@
     "https://www.handspeak.com/word/s/suc/succor.mp4"
   ],
   "images": [],
-  "word": "Signs for SUCCOR"
+  "word": "SUCCOR"
 },
 {
   "_id": {
@@ -11322,7 +11211,7 @@
     "https://www.handspeak.com/word/a/ant/antigravity.mp4"
   ],
   "images": [],
-  "word": "Signs for ANTIGRAVITY"
+  "word": "ANTIGRAVITY"
 },
 {
   "_id": {
@@ -11332,7 +11221,7 @@
     "https://www.handspeak.com/word/h/hai/hair-dryer.mp4"
   ],
   "images": [],
-  "word": "Signs for HAIR DRYER, BLOW DRYER"
+  "word": "HAIR DRYER, BLOW DRYER"
 },
 {
   "_id": {
@@ -11342,7 +11231,7 @@
     "https://www.handspeak.com/word/h/hel/helpless.mp4"
   ],
   "images": [],
-  "word": "Signs for HELPLESS"
+  "word": "HELPLESS"
 },
 {
   "_id": {
@@ -11352,7 +11241,7 @@
     "https://www.handspeak.com/word/h/her/her.mp4"
   ],
   "images": [],
-  "word": "Signs for HER (POSSESSIVE)"
+  "word": "HER (POSSESSIVE)"
 },
 {
   "_id": {
@@ -11396,7 +11285,7 @@
     "https://www.handspeak.com/word/i/ind/indolent.mp4"
   ],
   "images": [],
-  "word": "Signs for INDOLENT"
+  "word": "INDOLENT"
 },
 {
   "_id": {
@@ -11406,7 +11295,7 @@
     "https://www.handspeak.com/word/h/hey.mp4"
   ],
   "images": [],
-  "word": "Signs for HEY"
+  "word": "HEY"
 },
 {
   "_id": {
@@ -11445,7 +11334,7 @@
     "https://www.handspeak.com/word/b/bur/burkha-mesh.mp4"
   ],
   "images": [],
-  "word": "Signs for NIQAB, CHADOR, ABAYA"
+  "word": "NIQAB, CHADOR, ABAYA"
 },
 {
   "_id": {
@@ -11455,7 +11344,7 @@
     "https://www.handspeak.com/word/a/al-amira.mp4"
   ],
   "images": [],
-  "word": "Signs for AL-AMIRA"
+  "word": "AL-AMIRA"
 },
 {
   "_id": {
@@ -11466,7 +11355,7 @@
     "https://www.handspeak.com/word/h/hik/hike2.mp4"
   ],
   "images": [],
-  "word": "Signs for HIKE, HIKING"
+  "word": "HIKE, HIKING"
 },
 {
   "_id": {
@@ -11477,7 +11366,7 @@
     "https://www.handspeak.com/word/h/hin/hinder-delay.mp4"
   ],
   "images": [],
-  "word": "Signs for HINDER"
+  "word": "HINDER"
 },
 {
   "_id": {
@@ -11487,7 +11376,7 @@
     "https://www.handspeak.com/word/h/hin/hinduism.mp4"
   ],
   "images": [],
-  "word": "Signs for HINDUISM"
+  "word": "HINDUISM"
 },
 {
   "_id": {
@@ -11497,7 +11386,7 @@
     "https://www.handspeak.com/word/h/hip/hippie.mp4"
   ],
   "images": [],
-  "word": "Signs for HIPPIE"
+  "word": "HIPPIE"
 },
 {
   "_id": {
@@ -11529,7 +11418,7 @@
     "https://www.handspeak.com/word/s/swa/swat.mp4"
   ],
   "images": [],
-  "word": "Signs for SWAT"
+  "word": "SWAT"
 },
 {
   "_id": {
@@ -11537,7 +11426,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for HITLER, ADOLF"
+  "word": "HITLER, ADOLF"
 },
 {
   "_id": {
@@ -11547,7 +11436,7 @@
     "https://www.handspeak.com/word/n/nazi-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for NAZI"
+  "word": "NAZI"
 },
 {
   "_id": {
@@ -11557,7 +11446,7 @@
     "https://www.handspeak.com/word/h/hoard.mp4"
   ],
   "images": [],
-  "word": "Signs for HOARD"
+  "word": "HOARD"
 },
 {
   "_id": {
@@ -11567,7 +11456,7 @@
     "https://www.handspeak.com/word/h/hoc/hockey.mp4"
   ],
   "images": [],
-  "word": "Signs for HOCKEY"
+  "word": "HOCKEY"
 },
 {
   "_id": {
@@ -11625,7 +11514,7 @@
     "https://www.handspeak.com/word/w/who/wholehearted.mp4"
   ],
   "images": [],
-  "word": "Signs for WHOLEHEARTED"
+  "word": "WHOLEHEARTED"
 },
 {
   "_id": {
@@ -11635,7 +11524,7 @@
     "https://www.handspeak.com/word/h/hea/heartburn.mp4"
   ],
   "images": [],
-  "word": "Signs for HEARTBURN"
+  "word": "HEARTBURN"
 },
 {
   "_id": {
@@ -11645,7 +11534,7 @@
     "https://www.handspeak.com/word/h/hon/hong-kong.mp4"
   ],
   "images": [],
-  "word": "Signs for HONG KONG"
+  "word": "HONG KONG"
 },
 {
   "_id": {
@@ -11656,7 +11545,7 @@
     "https://www.handspeak.com/word/r/res/respect-mateobonn.mp4"
   ],
   "images": [],
-  "word": "Signs for KUDOS"
+  "word": "KUDOS"
 },
 {
   "_id": {
@@ -11677,7 +11566,7 @@
     "https://www.handspeak.com/word/h/hop/hopeless.mp4"
   ],
   "images": [],
-  "word": "Signs for HOPELESS"
+  "word": "HOPELESS"
 },
 {
   "_id": {
@@ -11700,7 +11589,7 @@
     "https://www.handspeak.com/word/c/cam/camel.mp4"
   ],
   "images": [],
-  "word": "Signs for CAMEL"
+  "word": "CAMEL"
 },
 {
   "_id": {
@@ -11737,7 +11626,7 @@
     "https://www.handspeak.com/word/h/hos/hospice-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for HOSPICE"
+  "word": "HOSPICE"
 },
 {
   "_id": {
@@ -11750,7 +11639,7 @@
   "images": [
     "https://www.handspeak.com/word/h/hos/hospital-aslwrite.jpg"
   ],
-  "word": "Signs for HOSPITAL"
+  "word": "HOSPITAL"
 },
 {
   "_id": {
@@ -11774,7 +11663,7 @@
     "https://www.handspeak.com/word/h/hot/hotline-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for HOTLINE"
+  "word": "HOTLINE"
 },
 {
   "_id": {
@@ -11796,7 +11685,7 @@
     "https://www.handspeak.com/word/h/hot/hot-flashes2.mp4"
   ],
   "images": [],
-  "word": "Signs for HOT FLASHES"
+  "word": "HOT FLASHES"
 },
 {
   "_id": {
@@ -11820,7 +11709,7 @@
     "https://www.handspeak.com/word/t/tri/triad.mp4"
   ],
   "images": [],
-  "word": "Signs for TRIAD"
+  "word": "TRIAD"
 },
 {
   "_id": {
@@ -11902,7 +11791,7 @@
     "https://www.handspeak.com/word/c/cud/cuddle.mp4"
   ],
   "images": [],
-  "word": "Signs for CUDDLE"
+  "word": "CUDDLE"
 },
 {
   "_id": {
@@ -11912,7 +11801,7 @@
     "https://www.handspeak.com/word/h/hug/huggle.mp4"
   ],
   "images": [],
-  "word": "Signs for HUGGLE"
+  "word": "HUGGLE"
 },
 {
   "_id": {
@@ -11922,7 +11811,7 @@
     "https://www.handspeak.com/word/h/hum/human-right.mp4"
   ],
   "images": [],
-  "word": "Signs for HUMAN RIGHT"
+  "word": "HUMAN RIGHT"
 },
 {
   "_id": {
@@ -11981,7 +11870,7 @@
     "https://www.handspeak.com/word/h/her/hers.mp4"
   ],
   "images": [],
-  "word": "Signs for HERS"
+  "word": "HERS"
 },
 {
   "_id": {
@@ -11991,7 +11880,7 @@
     "https://www.handspeak.com/word/h/hiv-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for HIV"
+  "word": "HIV"
 },
 {
   "_id": {
@@ -12026,7 +11915,7 @@
     "https://www.handspeak.com/word/h/hus/hussein-saddam.mp4"
   ],
   "images": [],
-  "word": "Signs for HUSSEIN, SADDAM"
+  "word": "HUSSEIN, SADDAM"
 },
 {
   "_id": {
@@ -12047,7 +11936,7 @@
     "https://www.handspeak.com/word/h/has/hasty.mp4"
   ],
   "images": [],
-  "word": "Signs for HASTY"
+  "word": "HASTY"
 },
 {
   "_id": {
@@ -12057,7 +11946,7 @@
     "https://www.handspeak.com/word/h/hig/high-five.mp4"
   ],
   "images": [],
-  "word": "Signs for HIGH FIVE"
+  "word": "HIGH FIVE"
 },
 {
   "_id": {
@@ -12104,7 +11993,7 @@
     "https://www.handspeak.com/word/a/ana/analogous.mp4"
   ],
   "images": [],
-  "word": "Signs for ANALOGY, ANALOGOUS"
+  "word": "ANALOGY, ANALOGOUS"
 },
 {
   "_id": {
@@ -12116,7 +12005,7 @@
     "https://www.handspeak.com/word/r/rec/recall-product.mp4"
   ],
   "images": [],
-  "word": "Signs for RECALL"
+  "word": "RECALL"
 },
 {
   "_id": {
@@ -12137,7 +12026,7 @@
     "https://www.handspeak.com/word/d/dia/diabetes.mp4"
   ],
   "images": [],
-  "word": "Signs for DIABETES"
+  "word": "DIABETES"
 },
 {
   "_id": {
@@ -12192,7 +12081,7 @@
     "https://www.handspeak.com/word/a/alb/albeit.mp4"
   ],
   "images": [],
-  "word": "Signs for ALBEIT"
+  "word": "ALBEIT"
 },
 {
   "_id": {
@@ -12205,7 +12094,7 @@
   "images": [
     "https://www.handspeak.com/word/i/ily.jpg"
   ],
-  "word": "Signs for ILY (I LOVE YOU)"
+  "word": "ILY (I LOVE YOU)"
 },
 {
   "_id": {
@@ -12215,7 +12104,7 @@
     "https://www.handspeak.com/word/i/ily-french.mp4"
   ],
   "images": [],
-  "word": "Signs for ILY (LSQ)"
+  "word": "ILY (LSQ)"
 },
 {
   "_id": {
@@ -12226,7 +12115,7 @@
     "https://www.handspeak.com/word/e/emulate2.mp4"
   ],
   "images": [],
-  "word": "Signs for EMULATE"
+  "word": "EMULATE"
 },
 {
   "_id": {
@@ -12257,7 +12146,7 @@
     "https://www.handspeak.com/word/i/imm/imminent.mp4"
   ],
   "images": [],
-  "word": "Signs for IMMINENT, IMPENDING"
+  "word": "IMMINENT, IMPENDING"
 },
 {
   "_id": {
@@ -12267,7 +12156,7 @@
     "https://www.handspeak.com/word/i/imp/impact.mp4"
   ],
   "images": [],
-  "word": "Signs for IMPACT"
+  "word": "IMPACT"
 },
 {
   "_id": {
@@ -12288,7 +12177,7 @@
     "https://www.handspeak.com/word/s/six/six-thousand.mp4"
   ],
   "images": [],
-  "word": "Signs for THOUSAND"
+  "word": "THOUSAND"
 },
 {
   "_id": {
@@ -12298,7 +12187,7 @@
     "https://www.handspeak.com/word/i/imp/impossible.mp4"
   ],
   "images": [],
-  "word": "Signs for IMPOSSIBLE"
+  "word": "IMPOSSIBLE"
 },
 {
   "_id": {
@@ -12320,7 +12209,7 @@
     "https://www.handspeak.com/word/i/imp/impress.mp4"
   ],
   "images": [],
-  "word": "Signs for IMPRESS"
+  "word": "IMPRESS"
 },
 {
   "_id": {
@@ -12350,7 +12239,7 @@
     "https://www.handspeak.com/word/i/ins/inside.mp4"
   ],
   "images": [],
-  "word": "Signs for INSIDE"
+  "word": "INSIDE"
 },
 {
   "_id": {
@@ -12360,7 +12249,7 @@
     "https://www.handspeak.com/word/i/inc/increment.mp4"
   ],
   "images": [],
-  "word": "Signs for INCREMENT"
+  "word": "INCREMENT"
 },
 {
   "_id": {
@@ -12380,7 +12269,7 @@
     "https://www.handspeak.com/word/i/ind/independent.mp4"
   ],
   "images": [],
-  "word": "Signs for INDEPENDENT"
+  "word": "INDEPENDENT"
 },
 {
   "_id": {
@@ -12390,7 +12279,7 @@
     "https://www.handspeak.com/word/n/nav/navel.mp4"
   ],
   "images": [],
-  "word": "Signs for NAVEL, BELLY BUTTON"
+  "word": "NAVEL, BELLY BUTTON"
 },
 {
   "_id": {
@@ -12411,7 +12300,7 @@
     "https://www.handspeak.com/word/a/alt/alter.mp4"
   ],
   "images": [],
-  "word": "Signs for ALTER"
+  "word": "ALTER"
 },
 {
   "_id": {
@@ -12433,7 +12322,7 @@
     "https://www.handspeak.com/word/i/int/intel.mp4"
   ],
   "images": [],
-  "word": "Signs for INTEL, INTELLIGENCE"
+  "word": "INTEL, INTELLIGENCE"
 },
 {
   "_id": {
@@ -12444,7 +12333,7 @@
     "https://www.handspeak.com/word/s/sto/stop.mp4"
   ],
   "images": [],
-  "word": "Signs for HALT"
+  "word": "HALT"
 },
 {
   "_id": {
@@ -12475,7 +12364,7 @@
     "https://www.handspeak.com/word/i/inn/inner.mp4"
   ],
   "images": [],
-  "word": "Signs for INNER"
+  "word": "INNER"
 },
 {
   "_id": {
@@ -12508,7 +12397,7 @@
     "https://www.handspeak.com/word/i/ins/insignificant.mp4"
   ],
   "images": [],
-  "word": "Signs for INSIGNIFICANT"
+  "word": "INSIGNIFICANT"
 },
 {
   "_id": {
@@ -12518,7 +12407,7 @@
     "https://www.handspeak.com/word/i/ine/inept.mp4"
   ],
   "images": [],
-  "word": "Signs for INEPT"
+  "word": "INEPT"
 },
 {
   "_id": {
@@ -12529,7 +12418,7 @@
     "https://www.handspeak.com/word/u/underqualified.mp4"
   ],
   "images": [],
-  "word": "Signs for UNQUALIFIED"
+  "word": "UNQUALIFIED"
 },
 {
   "_id": {
@@ -12551,7 +12440,7 @@
     "https://www.handspeak.com/word/p/pro/provoke-insult.mp4"
   ],
   "images": [],
-  "word": "Signs for PROVOKE"
+  "word": "PROVOKE"
 },
 {
   "_id": {
@@ -12581,7 +12470,7 @@
     "https://www.handspeak.com/word/i/int/intercourse.mp4"
   ],
   "images": [],
-  "word": "Signs for INTERCOURSE, SEXUAL INTERCOURSE"
+  "word": "INTERCOURSE, SEXUAL INTERCOURSE"
 },
 {
   "_id": {
@@ -12591,7 +12480,7 @@
     "https://www.handspeak.com/word/i/ins/inspirit.mp4"
   ],
   "images": [],
-  "word": "Signs for INSPIRIT"
+  "word": "INSPIRIT"
 },
 {
   "_id": {
@@ -12611,7 +12500,7 @@
     "https://www.handspeak.com/word/i/ins/instead-of.mp4"
   ],
   "images": [],
-  "word": "Signs for INSTEAD, INSTEAD OF"
+  "word": "INSTEAD, INSTEAD OF"
 },
 {
   "_id": {
@@ -12636,7 +12525,7 @@
     "https://www.handspeak.com/word/e/ent/enthralled.mp4"
   ],
   "images": [],
-  "word": "Signs for ENTHRALL"
+  "word": "ENTHRALL"
 },
 {
   "_id": {
@@ -12648,7 +12537,7 @@
   "images": [
     "https://www.handspeak.com/word/i/int/interest-pay.jpg"
   ],
-  "word": "Signs for INTEREST (FINANCE)"
+  "word": "INTEREST (FINANCE)"
 },
 {
   "_id": {
@@ -12658,7 +12547,7 @@
     "https://www.handspeak.com/word/i/int/intranet.mp4"
   ],
   "images": [],
-  "word": "Signs for INTRANET"
+  "word": "INTRANET"
 },
 {
   "_id": {
@@ -12682,7 +12571,7 @@
     "https://www.handspeak.com/word/i/int/internet-cafe.mp4"
   ],
   "images": [],
-  "word": "Signs for CYBERCAFE, INTERNET CAFE"
+  "word": "CYBERCAFE, INTERNET CAFE"
 },
 {
   "_id": {
@@ -12695,7 +12584,7 @@
   "images": [
     "https://www.handspeak.com/word/i/int/interpreting-aslwrite.jpg"
   ],
-  "word": "Signs for INTERPRET"
+  "word": "INTERPRET"
 },
 {
   "_id": {
@@ -12720,7 +12609,7 @@
   "images": [
     "https://www.handspeak.com/word/i/int/interpreter-aslwrite.jpg"
   ],
-  "word": "Signs for INTERPRETER"
+  "word": "INTERPRETER"
 },
 {
   "_id": {
@@ -12740,7 +12629,7 @@
     "https://www.handspeak.com/word/j/jun/junction.mp4"
   ],
   "images": [],
-  "word": "Signs for JUNCTION"
+  "word": "JUNCTION"
 },
 {
   "_id": {
@@ -12751,7 +12640,7 @@
     "https://www.handspeak.com/word/i/int/interview-media.mp4"
   ],
   "images": [],
-  "word": "Signs for INTERVIEW"
+  "word": "INTERVIEW"
 },
 {
   "_id": {
@@ -12771,7 +12660,7 @@
     "https://www.handspeak.com/word/i/int/intuition.mp4"
   ],
   "images": [],
-  "word": "Signs for INTUITION, INTUITIVE"
+  "word": "INTUITION, INTUITIVE"
 },
 {
   "_id": {
@@ -12792,7 +12681,7 @@
     "https://www.handspeak.com/word/v/ven/venture-risk.mp4"
   ],
   "images": [],
-  "word": "Signs for VENTURE"
+  "word": "VENTURE"
 },
 {
   "_id": {
@@ -12804,7 +12693,7 @@
     "https://www.handspeak.com/word/i/inv/invest-stock.mp4"
   ],
   "images": [],
-  "word": "Signs for INVEST"
+  "word": "INVEST"
 },
 {
   "_id": {
@@ -12815,7 +12704,7 @@
     "https://www.handspeak.com/word/s/sto/stock-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for STOCK"
+  "word": "STOCK"
 },
 {
   "_id": {
@@ -12847,7 +12736,7 @@
     "https://www.handspeak.com/word/b/bes/bespeak-indicate.mp4"
   ],
   "images": [],
-  "word": "Signs for BESPEAK"
+  "word": "BESPEAK"
 },
 {
   "_id": {
@@ -12860,7 +12749,7 @@
     "https://www.handspeak.com/word/l/lur/lurch-car2.mp4"
   ],
   "images": [],
-  "word": "Signs for LURCH"
+  "word": "LURCH"
 },
 {
   "_id": {
@@ -12870,7 +12759,7 @@
     "https://www.handspeak.com/word/i/iro/irony.mp4"
   ],
   "images": [],
-  "word": "Signs for IRONY, IRONICAL"
+  "word": "IRONY, IRONICAL"
 },
 {
   "_id": {
@@ -12880,7 +12769,7 @@
     "https://www.handspeak.com/word/i/irr/irrelevant.mp4"
   ],
   "images": [],
-  "word": "Signs for IRRELEVANT"
+  "word": "IRRELEVANT"
 },
 {
   "_id": {
@@ -12893,7 +12782,7 @@
     "https://www.handspeak.com/word/i/iso/isolated3.mp4"
   ],
   "images": [],
-  "word": "Signs for ISOLATE, ISOLATION"
+  "word": "ISOLATE, ISOLATION"
 },
 {
   "_id": {
@@ -12915,7 +12804,7 @@
     "https://www.handspeak.com/word/i/its/itself.mp4"
   ],
   "images": [],
-  "word": "Signs for ITSELF"
+  "word": "ITSELF"
 },
 {
   "_id": {
@@ -12962,7 +12851,7 @@
     "https://www.handspeak.com/word/a/acq/acquisitive-greed.mp4"
   ],
   "images": [],
-  "word": "Signs for ACQUISITIVE"
+  "word": "ACQUISITIVE"
 },
 {
   "_id": {
@@ -12997,7 +12886,7 @@
     "https://www.handspeak.com/word/j/jog/jog.mp4"
   ],
   "images": [],
-  "word": "Signs for JOG"
+  "word": "JOG"
 },
 {
   "_id": {
@@ -13008,7 +12897,7 @@
     "https://www.handspeak.com/word/j/joi/join-me.mp4"
   ],
   "images": [],
-  "word": "Signs for JOIN"
+  "word": "JOIN"
 },
 {
   "_id": {
@@ -13018,7 +12907,7 @@
     "https://www.handspeak.com/word/j/jor/jordan-isl.mp4"
   ],
   "images": [],
-  "word": "Signs for JORDAN"
+  "word": "JORDAN"
 },
 {
   "_id": {
@@ -13041,7 +12930,7 @@
     "https://www.handspeak.com/word/m/mag/magistrate.mp4"
   ],
   "images": [],
-  "word": "Signs for JUDGE, MAGISTRATE"
+  "word": "JUDGE, MAGISTRATE"
 },
 {
   "_id": {
@@ -13088,7 +12977,7 @@
     "https://www.handspeak.com/word/t/thr/thrash.mp4"
   ],
   "images": [],
-  "word": "Signs for THRASH"
+  "word": "THRASH"
 },
 {
   "_id": {
@@ -13099,7 +12988,7 @@
     "https://www.handspeak.com/word/m/mid/middle-school.mp4"
   ],
   "images": [],
-  "word": "Signs for JUNIOR HIGH SCHOOL, MIDDLE SCHOOL"
+  "word": "JUNIOR HIGH SCHOOL, MIDDLE SCHOOL"
 },
 {
   "_id": {
@@ -13110,7 +12999,7 @@
     "https://www.handspeak.com/word/j/jun/junior-jr.mp4"
   ],
   "images": [],
-  "word": "Signs for JUNIOR"
+  "word": "JUNIOR"
 },
 {
   "_id": {
@@ -13120,7 +13009,7 @@
     "https://www.handspeak.com/word/k/kangaroo.mp4"
   ],
   "images": [],
-  "word": "Signs for KANGAROO"
+  "word": "KANGAROO"
 },
 {
   "_id": {
@@ -13140,7 +13029,7 @@
     "https://www.handspeak.com/word/k/kathmandu.mp4"
   ],
   "images": [],
-  "word": "Signs for KATHMANDU (NEPAL)"
+  "word": "KATHMANDU (NEPAL)"
 },
 {
   "_id": {
@@ -13152,7 +13041,7 @@
     "https://www.handspeak.com/word/t/tic/tick-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for TICK"
+  "word": "TICK"
 },
 {
   "_id": {
@@ -13173,7 +13062,7 @@
     "https://www.handspeak.com/word/k/key/keyword.mp4"
   ],
   "images": [],
-  "word": "Signs for KEYWORD"
+  "word": "KEYWORD"
 },
 {
   "_id": {
@@ -13198,7 +13087,7 @@
     "https://www.handspeak.com/word/k/key/keyboard.mp4"
   ],
   "images": [],
-  "word": "Signs for KEYBOARD"
+  "word": "KEYBOARD"
 },
 {
   "_id": {
@@ -13221,7 +13110,7 @@
     "https://www.handspeak.com/word/f/flu/flutter-kicks.mp4"
   ],
   "images": [],
-  "word": "Signs for FLUTTER KICK"
+  "word": "FLUTTER KICK"
 },
 {
   "_id": {
@@ -13231,7 +13120,7 @@
     "https://www.handspeak.com/word/f/fro/frog-kick.mp4"
   ],
   "images": [],
-  "word": "Signs for FROG KICK"
+  "word": "FROG KICK"
 },
 {
   "_id": {
@@ -13241,7 +13130,7 @@
     "https://www.handspeak.com/word/b/but/butterfly-stroke.mp4"
   ],
   "images": [],
-  "word": "Signs for BUTTERFLY STROKE"
+  "word": "BUTTERFLY STROKE"
 },
 {
   "_id": {
@@ -13252,7 +13141,7 @@
     "https://www.handspeak.com/word/d/dol/dolphin-kick2.mp4"
   ],
   "images": [],
-  "word": "Signs for DOLPHIN KICK"
+  "word": "DOLPHIN KICK"
 },
 {
   "_id": {
@@ -13287,7 +13176,7 @@
     "https://www.handspeak.com/word/s/smo/smooch.mp4"
   ],
   "images": [],
-  "word": "Signs for SMOOCH"
+  "word": "SMOOCH"
 },
 {
   "_id": {
@@ -13297,7 +13186,7 @@
     "https://www.handspeak.com/word/f/fre/french-kiss.mp4"
   ],
   "images": [],
-  "word": "Signs for FRENCH KISS, SOUL KISS"
+  "word": "FRENCH KISS, SOUL KISS"
 },
 {
   "_id": {
@@ -13319,7 +13208,7 @@
     "https://www.handspeak.com/word/k/kne/kneel.mp4"
   ],
   "images": [],
-  "word": "Signs for KNEEL"
+  "word": "KNEEL"
 },
 {
   "_id": {
@@ -13353,7 +13242,7 @@
     "https://www.handspeak.com/word/k/kno/knock-on-wood.mp4"
   ],
   "images": [],
-  "word": "Signs for KNOCK ON WOOD"
+  "word": "KNOCK ON WOOD"
 },
 {
   "_id": {
@@ -13374,7 +13263,7 @@
     "https://www.handspeak.com/word/d/dunno.mp4"
   ],
   "images": [],
-  "word": "Signs for DUNNO, NOT KNOW"
+  "word": "DUNNO, NOT KNOW"
 },
 {
   "_id": {
@@ -13384,7 +13273,7 @@
     "https://www.handspeak.com/word/u/unknown.mp4"
   ],
   "images": [],
-  "word": "Signs for UNKNOWN"
+  "word": "UNKNOWN"
 },
 {
   "_id": {
@@ -13395,7 +13284,7 @@
     "https://www.handspeak.com/word/k/kno/know-nothing2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNINFORMED"
+  "word": "UNINFORMED"
 },
 {
   "_id": {
@@ -13406,7 +13295,7 @@
     "https://www.handspeak.com/word/u/une/uneducated-fair.mp4"
   ],
   "images": [],
-  "word": "Signs for UNEDUCATED"
+  "word": "UNEDUCATED"
 },
 {
   "_id": {
@@ -13414,7 +13303,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for INFORMAL"
+  "word": "INFORMAL"
 },
 {
   "_id": {
@@ -13424,7 +13313,7 @@
     "https://www.handspeak.com/word/k/koala-au.mp4"
   ],
   "images": [],
-  "word": "Signs for KOALA"
+  "word": "KOALA"
 },
 {
   "_id": {
@@ -13445,7 +13334,7 @@
     "https://www.handspeak.com/word/s/sou/south-korea.mp4"
   ],
   "images": [],
-  "word": "Signs for SOUTH KOREA"
+  "word": "SOUTH KOREA"
 },
 {
   "_id": {
@@ -13455,7 +13344,7 @@
     "https://www.handspeak.com/word/k/krishna.mp4"
   ],
   "images": [],
-  "word": "Signs for KRISHNA"
+  "word": "KRISHNA"
 },
 {
   "_id": {
@@ -13465,7 +13354,7 @@
     "https://www.handspeak.com/word/k/kur/kurta-surwal.mp4"
   ],
   "images": [],
-  "word": "Signs for KURTA SURWAL"
+  "word": "KURTA SURWAL"
 },
 {
   "_id": {
@@ -13477,7 +13366,7 @@
   "images": [
     "https://www.handspeak.com/word/r/rad/radio-aslwrite.jpg"
   ],
-  "word": "Signs for RADIO"
+  "word": "RADIO"
 },
 {
   "_id": {
@@ -13487,7 +13376,7 @@
     "https://www.handspeak.com/word/k/kumari.mp4"
   ],
   "images": [],
-  "word": "Signs for KUMARI"
+  "word": "KUMARI"
 },
 {
   "_id": {
@@ -13497,7 +13386,7 @@
     "https://www.handspeak.com/word/c/car/card-paper.mp4"
   ],
   "images": [],
-  "word": "Signs for CARD"
+  "word": "CARD"
 },
 {
   "_id": {
@@ -13508,7 +13397,7 @@
     "https://www.handspeak.com/word/k/kuw/kuwait2.mp4"
   ],
   "images": [],
-  "word": "Signs for KUWAIT"
+  "word": "KUWAIT"
 },
 {
   "_id": {
@@ -13518,7 +13407,7 @@
     "https://www.handspeak.com/word/k/kuw/kuwait-city.mp4"
   ],
   "images": [],
-  "word": "Signs for KUWAIT CITY"
+  "word": "KUWAIT CITY"
 },
 {
   "_id": {
@@ -13528,7 +13417,7 @@
     "https://www.handspeak.com/word/e/else-other.mp4"
   ],
   "images": [],
-  "word": "Signs for ELSE"
+  "word": "ELSE"
 },
 {
   "_id": {
@@ -13550,7 +13439,7 @@
     "https://www.handspeak.com/word/l/lan/landscape.mp4"
   ],
   "images": [],
-  "word": "Signs for LANDSCAPE"
+  "word": "LANDSCAPE"
 },
 {
   "_id": {
@@ -13560,7 +13449,7 @@
     "https://www.handspeak.com/word/l/lap/lapitur-np.mp4"
   ],
   "images": [],
-  "word": "Signs for LAPITUR, NEPAL"
+  "word": "LAPITUR, NEPAL"
 },
 {
   "_id": {
@@ -13599,7 +13488,7 @@
   "images": [
     "https://www.handspeak.com/word/l/las/lasagna-aslwrite.jpg"
   ],
-  "word": "Signs for LASAGNA"
+  "word": "LASAGNA"
 },
 {
   "_id": {
@@ -13611,7 +13500,7 @@
     "https://www.handspeak.com/word/l/las/lash-out-approach.mp4"
   ],
   "images": [],
-  "word": "Signs for LASH OUT"
+  "word": "LASH OUT"
 },
 {
   "_id": {
@@ -13621,7 +13510,7 @@
     "https://www.handspeak.com/word/e/eye/eyeshadow.mp4"
   ],
   "images": [],
-  "word": "Signs for EYESHADOW"
+  "word": "EYESHADOW"
 },
 {
   "_id": {
@@ -13641,7 +13530,7 @@
     "https://www.handspeak.com/word/l/lau/lausanne-ch.mp4"
   ],
   "images": [],
-  "word": "Signs for LAUSANNE (SWITZERLAND)"
+  "word": "LAUSANNE (SWITZERLAND)"
 },
 {
   "_id": {
@@ -13664,7 +13553,7 @@
     "https://www.handspeak.com/word/b/bel/belated-late2.mp4"
   ],
   "images": [],
-  "word": "Signs for BELATED"
+  "word": "BELATED"
 },
 {
   "_id": {
@@ -13686,7 +13575,7 @@
     "https://www.handspeak.com/word/s/suc/succeeding.mp4"
   ],
   "images": [],
-  "word": "Signs for SUCCEEDING"
+  "word": "SUCCEEDING"
 },
 {
   "_id": {
@@ -13696,7 +13585,7 @@
     "https://www.handspeak.com/word/s/sub/subsequent-from.mp4"
   ],
   "images": [],
-  "word": "Signs for SUBSEQUENT"
+  "word": "SUBSEQUENT"
 },
 {
   "_id": {
@@ -13706,7 +13595,7 @@
     "https://www.handspeak.com/word/l/law/law.mp4"
   ],
   "images": [],
-  "word": "Signs for LAW"
+  "word": "LAW"
 },
 {
   "_id": {
@@ -13716,7 +13605,7 @@
     "https://www.handspeak.com/word/l/lay/lay-off.mp4"
   ],
   "images": [],
-  "word": "Signs for LAY OFF, LAYOFF"
+  "word": "LAY OFF, LAYOFF"
 },
 {
   "_id": {
@@ -13747,7 +13636,7 @@
     "https://www.handspeak.com/word/l/lea/leader.mp4"
   ],
   "images": [],
-  "word": "Signs for LEADER"
+  "word": "LEADER"
 },
 {
   "_id": {
@@ -13757,7 +13646,7 @@
     "https://www.handspeak.com/word/h/han/handshape.mp4"
   ],
   "images": [],
-  "word": "Signs for HANDSHAPE"
+  "word": "HANDSHAPE"
 },
 {
   "_id": {
@@ -13769,7 +13658,7 @@
   "images": [
     "https://www.handspeak.com/word/l/lea/leaf-aslwrite.jpg"
   ],
-  "word": "Signs for LEAF, LEAVES"
+  "word": "LEAF, LEAVES"
 },
 {
   "_id": {
@@ -13781,7 +13670,7 @@
     "https://www.handspeak.com/word/l/lea/leak-nose.mp4"
   ],
   "images": [],
-  "word": "Signs for LEAK"
+  "word": "LEAK"
 },
 {
   "_id": {
@@ -13792,7 +13681,7 @@
     "https://www.handspeak.com/word/e/exude-body.mp4"
   ],
   "images": [],
-  "word": "Signs for EXUDE"
+  "word": "EXUDE"
 },
 {
   "_id": {
@@ -13803,7 +13692,7 @@
     "https://www.handspeak.com/word/b/ble/bleed2.mp4"
   ],
   "images": [],
-  "word": "Signs for BLEED"
+  "word": "BLEED"
 },
 {
   "_id": {
@@ -13813,7 +13702,7 @@
     "https://www.handspeak.com/word/o/ooze.mp4"
   ],
   "images": [],
-  "word": "Signs for OOZE"
+  "word": "OOZE"
 },
 {
   "_id": {
@@ -13838,7 +13727,7 @@
     "https://www.handspeak.com/word/r/rel/relearn.mp4"
   ],
   "images": [],
-  "word": "Signs for RELEARN"
+  "word": "RELEARN"
 },
 {
   "_id": {
@@ -13848,7 +13737,7 @@
     "https://www.handspeak.com/word/l/lea/leash.mp4"
   ],
   "images": [],
-  "word": "Signs for LEASH"
+  "word": "LEASH"
 },
 {
   "_id": {
@@ -13871,7 +13760,7 @@
     "https://www.handspeak.com/word/m/mis/misplace.mp4"
   ],
   "images": [],
-  "word": "Signs for MISPLACE, MISLAY"
+  "word": "MISPLACE, MISLAY"
 },
 {
   "_id": {
@@ -13881,7 +13770,7 @@
     "https://www.handspeak.com/word/b/bequeath.mp4"
   ],
   "images": [],
-  "word": "Signs for BEQUEATH"
+  "word": "BEQUEATH"
 },
 {
   "_id": {
@@ -13925,7 +13814,7 @@
     "https://www.handspeak.com/word/l/les/lesbian-destinyslater.mp4"
   ],
   "images": [],
-  "word": "Signs for LESBIAN"
+  "word": "LESBIAN"
 },
 {
   "_id": {
@@ -13947,7 +13836,7 @@
     "https://www.handspeak.com/word/s/sub/subordinate.mp4"
   ],
   "images": [],
-  "word": "Signs for SUBORDINATE"
+  "word": "SUBORDINATE"
 },
 {
   "_id": {
@@ -13973,7 +13862,7 @@
     "https://www.handspeak.com/word/l/let/leave-go.mp4"
   ],
   "images": [],
-  "word": "Signs for LET'S GO"
+  "word": "LET'S GO"
 },
 {
   "_id": {
@@ -13994,7 +13883,7 @@
     "https://www.handspeak.com/word/l/lev/level.mp4"
   ],
   "images": [],
-  "word": "Signs for LEVEL"
+  "word": "LEVEL"
 },
 {
   "_id": {
@@ -14007,7 +13896,7 @@
   "images": [
     "https://www.handspeak.com/word/l/lic/license-aslwrite.jpg"
   ],
-  "word": "Signs for LICENSE"
+  "word": "LICENSE"
 },
 {
   "_id": {
@@ -14017,7 +13906,7 @@
     "https://www.handspeak.com/word/l/lic/license-suspended.mp4"
   ],
   "images": [],
-  "word": "Signs for LICENSE SUSPENDED"
+  "word": "LICENSE SUSPENDED"
 },
 {
   "_id": {
@@ -14027,7 +13916,7 @@
     "https://www.handspeak.com/word/c/com/communion.mp4"
   ],
   "images": [],
-  "word": "Signs for COMMUNION"
+  "word": "COMMUNION"
 },
 {
   "_id": {
@@ -14037,7 +13926,7 @@
     "https://www.handspeak.com/word/d/dis/dishonest.mp4"
   ],
   "images": [],
-  "word": "Signs for DISHONEST"
+  "word": "DISHONEST"
 },
 {
   "_id": {
@@ -14063,7 +13952,7 @@
     "https://www.handspeak.com/word/l/lie/lie-down.mp4"
   ],
   "images": [],
-  "word": "Signs for LIE DOWN"
+  "word": "LIE DOWN"
 },
 {
   "_id": {
@@ -14086,7 +13975,7 @@
     "https://www.handspeak.com/word/l/lig/lighter.mp4"
   ],
   "images": [],
-  "word": "Signs for LIGHTER"
+  "word": "LIGHTER"
 },
 {
   "_id": {
@@ -14097,7 +13986,7 @@
     "https://www.handspeak.com/word/l/lig/light-out.mp4"
   ],
   "images": [],
-  "word": "Signs for LIGHT OUT"
+  "word": "LIGHT OUT"
 },
 {
   "_id": {
@@ -14141,7 +14030,7 @@
     "https://www.handspeak.com/word/c/cho/choir.mp4"
   ],
   "images": [],
-  "word": "Signs for CHOIR"
+  "word": "CHOIR"
 },
 {
   "_id": {
@@ -14153,7 +14042,7 @@
   "images": [
     "https://www.handspeak.com/word/l/lim/limit-aslwrite.jpg"
   ],
-  "word": "Signs for LIMIT"
+  "word": "LIMIT"
 },
 {
   "_id": {
@@ -14176,7 +14065,7 @@
     "https://www.handspeak.com/word/l/lin/link-to.mp4"
   ],
   "images": [],
-  "word": "Signs for LINK"
+  "word": "LINK"
 },
 {
   "_id": {
@@ -14196,7 +14085,7 @@
     "https://www.handspeak.com/word/l/lis/list.mp4"
   ],
   "images": [],
-  "word": "Signs for LIST"
+  "word": "LIST"
 },
 {
   "_id": {
@@ -14206,7 +14095,7 @@
     "https://www.handspeak.com/word/l/lip/lipread.mp4"
   ],
   "images": [],
-  "word": "Signs for LIPREAD"
+  "word": "LIPREAD"
 },
 {
   "_id": {
@@ -14232,7 +14121,7 @@
   "images": [
     "https://www.handspeak.com/word/o/ove/over-one-head-aslwrite.jpg"
   ],
-  "word": "Signs for OVER ONE'S HEAD"
+  "word": "OVER ONE'S HEAD"
 },
 {
   "_id": {
@@ -14243,7 +14132,7 @@
     "https://www.handspeak.com/word/l/lit/literacy-vision.mp4"
   ],
   "images": [],
-  "word": "Signs for LITERACY, LITERATE"
+  "word": "LITERACY, LITERATE"
 },
 {
   "_id": {
@@ -14269,7 +14158,7 @@
     "https://www.handspeak.com/word/l/loa/loathe-hate.mp4"
   ],
   "images": [],
-  "word": "Signs for LOATHE"
+  "word": "LOATHE"
 },
 {
   "_id": {
@@ -14293,7 +14182,7 @@
     "https://www.handspeak.com/word/l/lif/life-insurance2.mp4"
   ],
   "images": [],
-  "word": "Signs for LIFE INSURANCE"
+  "word": "LIFE INSURANCE"
 },
 {
   "_id": {
@@ -14303,7 +14192,7 @@
     "https://www.handspeak.com/word/l/llama.mp4"
   ],
   "images": [],
-  "word": "Signs for LLAMA"
+  "word": "LLAMA"
 },
 {
   "_id": {
@@ -14313,7 +14202,7 @@
     "https://www.handspeak.com/word/a/abhor.mp4"
   ],
   "images": [],
-  "word": "Signs for ABHOR"
+  "word": "ABHOR"
 },
 {
   "_id": {
@@ -14324,7 +14213,7 @@
     "https://www.handspeak.com/word/l/lob/lobster.mp4"
   ],
   "images": [],
-  "word": "Signs for LOBSTER"
+  "word": "LOBSTER"
 },
 {
   "_id": {
@@ -14334,7 +14223,7 @@
     "https://www.handspeak.com/word/t/tra/trap.mp4"
   ],
   "images": [],
-  "word": "Signs for SNARE"
+  "word": "SNARE"
 },
 {
   "_id": {
@@ -14344,7 +14233,7 @@
     "https://www.handspeak.com/word/l/loc/location.mp4"
   ],
   "images": [],
-  "word": "Signs for LOCATION"
+  "word": "LOCATION"
 },
 {
   "_id": {
@@ -14354,7 +14243,7 @@
     "https://www.handspeak.com/word/l/loc/lockout.mp4"
   ],
   "images": [],
-  "word": "Signs for LOCKOUT"
+  "word": "LOCKOUT"
 },
 {
   "_id": {
@@ -14387,7 +14276,7 @@
     "https://www.handspeak.com/word/l/lon/long-for.mp4"
   ],
   "images": [],
-  "word": "Signs for LONGING"
+  "word": "LONGING"
 },
 {
   "_id": {
@@ -14397,7 +14286,7 @@
     "https://www.handspeak.com/word/l/loo/look-ahead.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK AHEAD"
+  "word": "LOOK AHEAD"
 },
 {
   "_id": {
@@ -14433,7 +14322,7 @@
     "https://www.handspeak.com/word/l/loo/lookat-eachother2.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK AT"
+  "word": "LOOK AT"
 },
 {
   "_id": {
@@ -14444,7 +14333,7 @@
     "https://www.handspeak.com/word/l/loo/lookdown-nose.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK DOWN"
+  "word": "LOOK DOWN"
 },
 {
   "_id": {
@@ -14454,7 +14343,7 @@
     "https://www.handspeak.com/word/l/loo/look-for.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK FOR"
+  "word": "LOOK FOR"
 },
 {
   "_id": {
@@ -14464,7 +14353,7 @@
     "https://www.handspeak.com/word/l/loo/look-forward.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK FORWARD TO"
+  "word": "LOOK FORWARD TO"
 },
 {
   "_id": {
@@ -14475,7 +14364,7 @@
     "https://www.handspeak.com/word/m/mal/malicious2.mp4"
   ],
   "images": [],
-  "word": "Signs for MALICIOUS"
+  "word": "MALICIOUS"
 },
 {
   "_id": {
@@ -14486,7 +14375,7 @@
     "https://www.handspeak.com/word/l/loo/look-alike.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOK LIKE"
+  "word": "LOOK LIKE"
 },
 {
   "_id": {
@@ -14496,7 +14385,7 @@
     "https://www.handspeak.com/word/l/loo/loops.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOP"
+  "word": "LOOP"
 },
 {
   "_id": {
@@ -14517,7 +14406,7 @@
     "https://www.handspeak.com/word/s/sur/surpass.mp4"
   ],
   "images": [],
-  "word": "SURPASS sign language"
+  "word": "SURPASS"
 },
 {
   "_id": {
@@ -14538,7 +14427,7 @@
     "https://www.handspeak.com/word/l/lou/lousy.mp4"
   ],
   "images": [],
-  "word": "Signs for LOUSY"
+  "word": "LOUSY"
 },
 {
   "_id": {
@@ -14559,7 +14448,7 @@
     "https://www.handspeak.com/word/e/eac/each-other.mp4"
   ],
   "images": [],
-  "word": "Signs for EACH OTHER, ONE ANOTHER"
+  "word": "EACH OTHER, ONE ANOTHER"
 },
 {
   "_id": {
@@ -14569,7 +14458,7 @@
     "https://www.handspeak.com/word/s/sei/seizure.mp4"
   ],
   "images": [],
-  "word": "Signs for SEIZURE"
+  "word": "SEIZURE"
 },
 {
   "_id": {
@@ -14579,7 +14468,7 @@
     "https://www.handspeak.com/word/l/loy/loyal.mp4"
   ],
   "images": [],
-  "word": "Signs for LOYAL"
+  "word": "LOYAL"
 },
 {
   "_id": {
@@ -14603,7 +14492,7 @@
     "https://www.handspeak.com/word/l/luzern-ch.mp4"
   ],
   "images": [],
-  "word": "Signs for LUZERN (SWITZERLAND)"
+  "word": "LUZERN (SWITZERLAND)"
 },
 {
   "_id": {
@@ -14624,7 +14513,7 @@
     "https://www.handspeak.com/word/l/lus/lust2.mp4"
   ],
   "images": [],
-  "word": "Signs for LUST, LUSTFUL"
+  "word": "LUST, LUSTFUL"
 },
 {
   "_id": {
@@ -14634,7 +14523,7 @@
     "https://www.handspeak.com/word/p/pap/pap-smear.mp4"
   ],
   "images": [],
-  "word": "Signs for PAP SMEAR, PAP TEST"
+  "word": "PAP SMEAR, PAP TEST"
 },
 {
   "_id": {
@@ -14644,7 +14533,7 @@
     "https://www.handspeak.com/word/m/mac/machhindra.mp4"
   ],
   "images": [],
-  "word": "Signs for MACHHINDRA, RAINMAKER"
+  "word": "MACHHINDRA, RAINMAKER"
 },
 {
   "_id": {
@@ -14697,7 +14586,7 @@
     "https://www.handspeak.com/word/m/mag/magic-screenshot.jpg",
     "https://www.handspeak.com/word/m/mag/magic-aslwrite.jpg"
   ],
-  "word": "MAGIC in Sign Language"
+  "word": "MAGIC"
 },
 {
   "_id": {
@@ -14720,7 +14609,7 @@
     "https://www.handspeak.com/word/m/mak/make-up.mp4"
   ],
   "images": [],
-  "word": "Signs for MAKE UP"
+  "word": "MAKE UP"
 },
 {
   "_id": {
@@ -14741,7 +14630,7 @@
     "https://www.handspeak.com/word/m/mak/makeup-cosmetics2.mp4"
   ],
   "images": [],
-  "word": "Signs for MAKEUP"
+  "word": "MAKEUP"
 },
 {
   "_id": {
@@ -14751,7 +14640,7 @@
     "https://www.handspeak.com/word/m/makeup-cosmetics2.mp4"
   ],
   "images": [],
-  "word": "Signs for MAQUILLAGE"
+  "word": "MAQUILLAGE"
 },
 {
   "_id": {
@@ -14765,7 +14654,7 @@
     "https://www.handspeak.com/word/m/mba-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for MASTER'S DEGREE"
+  "word": "MASTER'S DEGREE"
 },
 {
   "_id": {
@@ -14775,7 +14664,7 @@
     "https://www.handspeak.com/word/m/mag/magazine.mp4"
   ],
   "images": [],
-  "word": "Signs for MAGAZINE"
+  "word": "MAGAZINE"
 },
 {
   "_id": {
@@ -14785,7 +14674,7 @@
     "https://www.handspeak.com/word/m/mal/malaysia.mp4"
   ],
   "images": [],
-  "word": "Signs for MALAYSIA"
+  "word": "MALAYSIA"
 },
 {
   "_id": {
@@ -14810,7 +14699,7 @@
     "https://www.handspeak.com/word/g/geezer.mp4"
   ],
   "images": [],
-  "word": "Signs for GEEZER"
+  "word": "GEEZER"
 },
 {
   "_id": {
@@ -14821,7 +14710,7 @@
     "https://www.handspeak.com/word/c/cou/counterpart2.mp4"
   ],
   "images": [],
-  "word": "Signs for COUNTERPART"
+  "word": "COUNTERPART"
 },
 {
   "_id": {
@@ -14831,7 +14720,7 @@
     "https://www.handspeak.com/word/m/man/manage.mp4"
   ],
   "images": [],
-  "word": "Signs for MANAGE"
+  "word": "MANAGE"
 },
 {
   "_id": {
@@ -14841,7 +14730,7 @@
     "https://www.handspeak.com/word/m/man/manager.mp4"
   ],
   "images": [],
-  "word": "Signs for MANAGER"
+  "word": "MANAGER"
 },
 {
   "_id": {
@@ -14851,7 +14740,7 @@
     "https://www.handspeak.com/word/m/man/manjushree.mp4"
   ],
   "images": [],
-  "word": "Signs for MANJUSHREE"
+  "word": "MANJUSHREE"
 },
 {
   "_id": {
@@ -14873,7 +14762,7 @@
     "https://www.handspeak.com/word/m/man/manner.mp4"
   ],
   "images": [],
-  "word": "Signs for MANNER"
+  "word": "MANNER"
 },
 {
   "_id": {
@@ -14897,7 +14786,7 @@
     "https://www.handspeak.com/word/c/cop/copious2.mp4"
   ],
   "images": [],
-  "word": "Signs for COPIOUS"
+  "word": "COPIOUS"
 },
 {
   "_id": {
@@ -14907,7 +14796,7 @@
     "https://www.handspeak.com/word/m/maoist.mp4"
   ],
   "images": [],
-  "word": "Signs for MAOIST"
+  "word": "MAOIST"
 },
 {
   "_id": {
@@ -14917,7 +14806,7 @@
     "https://www.handspeak.com/word/m/mar/march-parade.mp4"
   ],
   "images": [],
-  "word": "Signs for MARCH"
+  "word": "MARCH"
 },
 {
   "_id": {
@@ -14928,7 +14817,7 @@
     "https://www.handspeak.com/word/m/map/maple-syrup.mp4"
   ],
   "images": [],
-  "word": "Signs for MAPLE"
+  "word": "MAPLE"
 },
 {
   "_id": {
@@ -14938,7 +14827,7 @@
     "https://www.handspeak.com/word/c/can/cannabis.mp4"
   ],
   "images": [],
-  "word": "Signs for CANNABIS"
+  "word": "CANNABIS"
 },
 {
   "_id": {
@@ -14951,7 +14840,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mar/marijuana-aslwrite.jpg"
   ],
-  "word": "Signs for MARIJUANA"
+  "word": "MARIJUANA"
 },
 {
   "_id": {
@@ -14961,7 +14850,7 @@
     "https://www.handspeak.com/word/m/mar/mark-up.mp4"
   ],
   "images": [],
-  "word": "Signs for MARKUP"
+  "word": "MARKUP"
 },
 {
   "_id": {
@@ -14991,7 +14880,7 @@
     "https://www.handspeak.com/word/m/mas/massage.mp4"
   ],
   "images": [],
-  "word": "Signs for MASSAGE"
+  "word": "MASSAGE"
 },
 {
   "_id": {
@@ -15001,7 +14890,7 @@
     "https://www.handspeak.com/word/m/mas/master-position.mp4"
   ],
   "images": [],
-  "word": "Signs for MASTER"
+  "word": "MASTER"
 },
 {
   "_id": {
@@ -15014,7 +14903,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mat/match-fit-aslwrite.jpg"
   ],
-  "word": "Signs for MATCH"
+  "word": "MATCH"
 },
 {
   "_id": {
@@ -15037,7 +14926,7 @@
     "https://www.handspeak.com/word/m/max/maximum.mp4"
   ],
   "images": [],
-  "word": "Signs for MAXIMUM"
+  "word": "MAXIMUM"
 },
 {
   "_id": {
@@ -15081,7 +14970,7 @@
     "https://www.handspeak.com/word/m/mea/mean-cruel.mp4"
   ],
   "images": [],
-  "word": "Signs for MEAN, UNKIND"
+  "word": "MEAN, UNKIND"
 },
 {
   "_id": {
@@ -15093,7 +14982,7 @@
     "https://www.handspeak.com/word/g/gau/gauge-measure.mp4"
   ],
   "images": [],
-  "word": "Signs for GAUGE"
+  "word": "GAUGE"
 },
 {
   "_id": {
@@ -15105,7 +14994,7 @@
   "images": [
     "https://www.handspeak.com/word/m/med/medicine-aslwrite.jpg"
   ],
-  "word": "MEDICINE sign language"
+  "word": "MEDICINE"
 },
 {
   "_id": {
@@ -15164,7 +15053,7 @@
     "https://www.handspeak.com/word/e/enc/encounter.mp4"
   ],
   "images": [],
-  "word": "Signs for ENCOUNTER"
+  "word": "ENCOUNTER"
 },
 {
   "_id": {
@@ -15174,7 +15063,7 @@
     "https://www.handspeak.com/word/c/conv/convention.mp4"
   ],
   "images": [],
-  "word": "Signs for CONVENTION"
+  "word": "CONVENTION"
 },
 {
   "_id": {
@@ -15194,7 +15083,7 @@
     "https://www.handspeak.com/word/m/mem/memory.mp4"
   ],
   "images": [],
-  "word": "Signs for MEMORIZE"
+  "word": "MEMORIZE"
 },
 {
   "_id": {
@@ -15209,7 +15098,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mem/memory-lookback-aslwrite.jpg"
   ],
-  "word": "Signs for MEMORY"
+  "word": "MEMORY"
 },
 {
   "_id": {
@@ -15219,7 +15108,7 @@
     "https://www.handspeak.com/word/m/mer/merge.mp4"
   ],
   "images": [],
-  "word": "Signs for MERGE"
+  "word": "MERGE"
 },
 {
   "_id": {
@@ -15252,7 +15141,7 @@
     "https://www.handspeak.com/word/m/met/metaphor2.mp4"
   ],
   "images": [],
-  "word": "Signs for METAPHOR"
+  "word": "METAPHOR"
 },
 {
   "_id": {
@@ -15262,7 +15151,7 @@
     "https://www.handspeak.com/word/m/mid/midnight.mp4"
   ],
   "images": [],
-  "word": "Signs for MIDNIGHT"
+  "word": "MIDNIGHT"
 },
 {
   "_id": {
@@ -15295,7 +15184,7 @@
     "https://www.handspeak.com/word/m/mil/military.mp4"
   ],
   "images": [],
-  "word": "Signs for MILITARY"
+  "word": "MILITARY"
 },
 {
   "_id": {
@@ -15315,7 +15204,7 @@
     "https://www.handspeak.com/word/m/min/mind-reading.mp4"
   ],
   "images": [],
-  "word": "Signs for MIND READING"
+  "word": "MIND READING"
 },
 {
   "_id": {
@@ -15326,7 +15215,7 @@
     "https://www.handspeak.com/word/m/min/mind-object.mp4"
   ],
   "images": [],
-  "word": "Signs for MIND NOT"
+  "word": "MIND NOT"
 },
 {
   "_id": {
@@ -15336,7 +15225,7 @@
     "https://www.handspeak.com/word/b/bla/blank-minded.mp4"
   ],
   "images": [],
-  "word": "Signs for BLANK-MINDED"
+  "word": "BLANK-MINDED"
 },
 {
   "_id": {
@@ -15366,7 +15255,7 @@
     "https://www.handspeak.com/word/m/min/minus.mp4"
   ],
   "images": [],
-  "word": "Signs for MINUS"
+  "word": "MINUS"
 },
 {
   "_id": {
@@ -15410,7 +15299,7 @@
     "https://www.handspeak.com/word/m/mis/misspelling.mp4"
   ],
   "images": [],
-  "word": "Signs for MISSPELLING"
+  "word": "MISSPELLING"
 },
 {
   "_id": {
@@ -15458,7 +15347,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mis/miss-fail-aslwrite.jpg"
   ],
-  "word": "Signs for MISS"
+  "word": "MISS"
 },
 {
   "_id": {
@@ -15468,7 +15357,7 @@
     "https://www.handspeak.com/word/m/mis/miss-feeling.mp4"
   ],
   "images": [],
-  "word": "Signs for MISS (EMOTION)"
+  "word": "MISS (EMOTION)"
 },
 {
   "_id": {
@@ -15480,7 +15369,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mis/missing-aslwrite.jpg"
   ],
-  "word": "Signs for MISSING"
+  "word": "MISSING"
 },
 {
   "_id": {
@@ -15490,7 +15379,7 @@
     "https://www.handspeak.com/word/l/lac/lack-missing.mp4"
   ],
   "images": [],
-  "word": "Signs for LACK"
+  "word": "LACK"
 },
 {
   "_id": {
@@ -15541,7 +15430,7 @@
     "https://www.handspeak.com/word/f/fro/fromdayone.mp4"
   ],
   "images": [],
-  "word": "Signs for FROM DAY ONE, GET-GO"
+  "word": "FROM DAY ONE, GET-GO"
 },
 {
   "_id": {
@@ -15563,7 +15452,7 @@
     "https://www.handspeak.com/word/m/mul/mulroney-brain.mp4"
   ],
   "images": [],
-  "word": "Signs for MULRONEY, BRAIN"
+  "word": "MULRONEY, BRAIN"
 },
 {
   "_id": {
@@ -15574,7 +15463,7 @@
     "https://www.handspeak.com/word/g/gra/grant-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for GRANT"
+  "word": "GRANT"
 },
 {
   "_id": {
@@ -15596,7 +15485,7 @@
     "https://www.handspeak.com/word/m/mon/monotonous.mp4"
   ],
   "images": [],
-  "word": "Signs for MONOTONOUS"
+  "word": "MONOTONOUS"
 },
 {
   "_id": {
@@ -15607,7 +15496,7 @@
     "https://www.handspeak.com/word/m/mon/monologue2.mp4"
   ],
   "images": [],
-  "word": "Signs for MONOLOGUE"
+  "word": "MONOLOGUE"
 },
 {
   "_id": {
@@ -15619,7 +15508,7 @@
   "images": [
     "https://www.handspeak.com/word/m/mon/monster-aslwrite.jpg"
   ],
-  "word": "Signs for MONSTER"
+  "word": "MONSTER"
 },
 {
   "_id": {
@@ -15629,7 +15518,7 @@
     "https://www.handspeak.com/word/y/yog/yogurt.mp4"
   ],
   "images": [],
-  "word": "Signs for YOGURT"
+  "word": "YOGURT"
 },
 {
   "_id": {
@@ -15663,7 +15552,7 @@
     "https://www.handspeak.com/word/t/the/these-days.mp4"
   ],
   "images": [],
-  "word": "Signs for THESE DAYS"
+  "word": "THESE DAYS"
 },
 {
   "_id": {
@@ -15673,7 +15562,7 @@
     "https://www.handspeak.com/word/d/due/duet.mp4"
   ],
   "images": [],
-  "word": "Signs for DUET"
+  "word": "DUET"
 },
 {
   "_id": {
@@ -15683,7 +15572,7 @@
     "https://www.handspeak.com/word/d/dou/double-dealing.mp4"
   ],
   "images": [],
-  "word": "Signs for DOUBLE-DEALING"
+  "word": "DOUBLE-DEALING"
 },
 {
   "_id": {
@@ -15693,7 +15582,7 @@
     "https://www.handspeak.com/word/f/fou/four-way.mp4"
   ],
   "images": [],
-  "word": "Signs for FOUR-WAY"
+  "word": "FOUR-WAY"
 },
 {
   "_id": {
@@ -15703,7 +15592,7 @@
     "https://www.handspeak.com/word/f/fou/fourth-wall.mp4"
   ],
   "images": [],
-  "word": "Signs for FOURTH WALL"
+  "word": "FOURTH WALL"
 },
 {
   "_id": {
@@ -15714,7 +15603,7 @@
     "https://www.handspeak.com/word/c/cin/cinquefoil.mp4"
   ],
   "images": [],
-  "word": "Signs for PENTAD"
+  "word": "PENTAD"
 },
 {
   "_id": {
@@ -15724,7 +15613,7 @@
     "https://www.handspeak.com/word/f/fiv/five-star.mp4"
   ],
   "images": [],
-  "word": "Signs for FIVE-STAR, FIRST-RATE"
+  "word": "FIVE-STAR, FIRST-RATE"
 },
 {
   "_id": {
@@ -15735,7 +15624,7 @@
     "https://www.handspeak.com/word/a/as/aslongas-understand.mp4"
   ],
   "images": [],
-  "word": "Signs for AS LONG AS"
+  "word": "AS LONG AS"
 },
 {
   "_id": {
@@ -15748,7 +15637,7 @@
     "https://www.handspeak.com/word/t/tri/trimester3.mp4"
   ],
   "images": [],
-  "word": "Signs for TRIMESTER"
+  "word": "TRIMESTER"
 },
 {
   "_id": {
@@ -15758,7 +15647,7 @@
     "https://www.handspeak.com/word/n/nin/nine-months.mp4"
   ],
   "images": [],
-  "word": "Signs for NINE MONTHS"
+  "word": "NINE MONTHS"
 },
 {
   "_id": {
@@ -15770,7 +15659,7 @@
     "https://www.handspeak.com/word/t/tri/trimonthly2.mp4"
   ],
   "images": [],
-  "word": "Signs for QUARTERLY, TRIMONTHLY"
+  "word": "QUARTERLY, TRIMONTHLY"
 },
 {
   "_id": {
@@ -15780,7 +15669,7 @@
     "https://www.handspeak.com/word/e/eig/eighties.mp4"
   ],
   "images": [],
-  "word": "Signs for EIGHTIES"
+  "word": "EIGHTIES"
 },
 {
   "_id": {
@@ -15790,7 +15679,7 @@
     "https://www.handspeak.com/word/q/quintet.mp4"
   ],
   "images": [],
-  "word": "Signs for FIVESOME, QUINTET"
+  "word": "FIVESOME, QUINTET"
 },
 {
   "_id": {
@@ -15800,7 +15689,7 @@
     "https://www.handspeak.com/word/m/moo/moose.mp4"
   ],
   "images": [],
-  "word": "Signs for MOOSE"
+  "word": "MOOSE"
 },
 {
   "_id": {
@@ -15826,7 +15715,7 @@
     "https://www.handspeak.com/word/m/mor/moreorless3.mp4"
   ],
   "images": [],
-  "word": "Signs for MORE OR LESS, TO SOME EXTENT"
+  "word": "MORE OR LESS, TO SOME EXTENT"
 },
 {
   "_id": {
@@ -15905,7 +15794,7 @@
     "https://www.handspeak.com/word/m/mot/mother-law.mp4"
   ],
   "images": [],
-  "word": "MOTHER-in-LAW sign language"
+  "word": "MOTHER-in-LAW"
 },
 {
   "_id": {
@@ -15915,7 +15804,7 @@
     "https://www.handspeak.com/word/f/flo/flood.mp4"
   ],
   "images": [],
-  "word": "Signs for FLOOD"
+  "word": "FLOOD"
 },
 {
   "_id": {
@@ -15932,7 +15821,7 @@
     "https://www.handspeak.com/word/m/mou/mourn.mp4"
   ],
   "images": [],
-  "word": "Signs for MOURN"
+  "word": "MOURN"
 },
 {
   "_id": {
@@ -15957,7 +15846,7 @@
     "https://www.handspeak.com/word/m/mou/mouse-computer.mp4"
   ],
   "images": [],
-  "word": "Signs for MOUSE (COMPUTER)"
+  "word": "MOUSE (COMPUTER)"
 },
 {
   "_id": {
@@ -15981,7 +15870,7 @@
     "https://www.handspeak.com/word/p/pet/petting.mp4"
   ],
   "images": [],
-  "word": "Signs for PETTING"
+  "word": "PETTING"
 },
 {
   "_id": {
@@ -16030,7 +15919,7 @@
     "https://www.handspeak.com/word/m/mus/muscle.mp4"
   ],
   "images": [],
-  "word": "Signs for MUSCLE"
+  "word": "MUSCLE"
 },
 {
   "_id": {
@@ -16041,7 +15930,7 @@
     "https://www.handspeak.com/word/m/mul/multiply-otishillsr.mp4"
   ],
   "images": [],
-  "word": "Signs for MULTIPLY"
+  "word": "MULTIPLY"
 },
 {
   "_id": {
@@ -16078,7 +15967,7 @@
     "https://www.handspeak.com/word/m/mov/move-out.mp4"
   ],
   "images": [],
-  "word": "Signs for MOVE OUT"
+  "word": "MOVE OUT"
 },
 {
   "_id": {
@@ -16088,7 +15977,7 @@
     "https://www.handspeak.com/word/r/rel/relocate.mp4"
   ],
   "images": [],
-  "word": "Signs for RELOCATE"
+  "word": "RELOCATE"
 },
 {
   "_id": {
@@ -16098,7 +15987,7 @@
     "https://www.handspeak.com/word/m/mig/migrate.mp4"
   ],
   "images": [],
-  "word": "Signs for MIGRATE, MIGRATION"
+  "word": "MIGRATE, MIGRATION"
 },
 {
   "_id": {
@@ -16108,7 +15997,7 @@
     "https://www.handspeak.com/word/m/mov/move-in.mp4"
   ],
   "images": [],
-  "word": "Signs for MOVE IN"
+  "word": "MOVE IN"
 },
 {
   "_id": {
@@ -16138,7 +16027,7 @@
     "https://www.handspeak.com/word/n/nai/naive.mp4"
   ],
   "images": [],
-  "word": "Signs for NAIVE"
+  "word": "NAIVE"
 },
 {
   "_id": {
@@ -16158,7 +16047,7 @@
     "https://www.handspeak.com/word/n/naked.mp4"
   ],
   "images": [],
-  "word": "Signs for NAKED"
+  "word": "NAKED"
 },
 {
   "_id": {
@@ -16181,7 +16070,7 @@
     "https://www.handspeak.com/word/n/nam/namesake.mp4"
   ],
   "images": [],
-  "word": "Signs for NAMESAKE"
+  "word": "NAMESAKE"
 },
 {
   "_id": {
@@ -16191,7 +16080,7 @@
     "https://www.handspeak.com/word/o/obvious.mp4"
   ],
   "images": [],
-  "word": "Signs for OBVIOUS"
+  "word": "OBVIOUS"
 },
 {
   "_id": {
@@ -16214,7 +16103,7 @@
   "images": [
     "https://www.handspeak.com/word/n/nea/nearby-aslwrite.jpg"
   ],
-  "word": "Signs for NEARBY"
+  "word": "NEARBY"
 },
 {
   "_id": {
@@ -16226,7 +16115,7 @@
     "https://www.handspeak.com/word/n/nea/neat-cool.mp4"
   ],
   "images": [],
-  "word": "Signs for NEAT"
+  "word": "NEAT"
 },
 {
   "_id": {
@@ -16237,7 +16126,7 @@
     "https://www.handspeak.com/word/m/mak/makeout-ily.mp4"
   ],
   "images": [],
-  "word": "Signs for NECKING"
+  "word": "NECKING"
 },
 {
   "_id": {
@@ -16258,7 +16147,7 @@
     "https://www.handspeak.com/word/d/des/despondent-look.mp4"
   ],
   "images": [],
-  "word": "Signs for DESPONDENT, DOWNHEARTED, LOW-SPIRITED"
+  "word": "DESPONDENT, DOWNHEARTED, LOW-SPIRITED"
 },
 {
   "_id": {
@@ -16271,7 +16160,7 @@
   "images": [
     "https://www.handspeak.com/word/n/neg/negative-aslwrite.jpg"
   ],
-  "word": "Signs for NEGATIVE"
+  "word": "NEGATIVE"
 },
 {
   "_id": {
@@ -16281,7 +16170,7 @@
     "https://www.handspeak.com/word/n/neg/negotiation-meaning.mp4"
   ],
   "images": [],
-  "word": "Signs for NEGOTIATION OF MEANING"
+  "word": "NEGOTIATION OF MEANING"
 },
 {
   "_id": {
@@ -16307,7 +16196,7 @@
   "images": [
     "https://www.handspeak.com/word/n/nap/napkin-aslwrite.jpg"
   ],
-  "word": "Signs for NAPKIN, SERVIETTE, HANDKERCHIEF, HANKY"
+  "word": "NAPKIN, SERVIETTE, HANDKERCHIEF, HANKY"
 },
 {
   "_id": {
@@ -16317,7 +16206,7 @@
     "https://www.handspeak.com/word/n/nep/nepal.mp4"
   ],
   "images": [],
-  "word": "Signs for NEPAL"
+  "word": "NEPAL"
 },
 {
   "_id": {
@@ -16343,7 +16232,7 @@
     "https://www.handspeak.com/word/n/ner/nervous-system2.mp4"
   ],
   "images": [],
-  "word": "Signs for NERVOUS SYSTEM, NEUROLOGY"
+  "word": "NERVOUS SYSTEM, NEUROLOGY"
 },
 {
   "_id": {
@@ -16353,7 +16242,7 @@
     "https://www.handspeak.com/word/n/ner/nervous-breakdown.mp4"
   ],
   "images": [],
-  "word": "Signs for MELTDOWN"
+  "word": "MELTDOWN"
 },
 {
   "_id": {
@@ -16374,7 +16263,7 @@
     "https://www.handspeak.com/word/n/nec/neck.mp4"
   ],
   "images": [],
-  "word": "Signs for NECK"
+  "word": "NECK"
 },
 {
   "_id": {
@@ -16386,7 +16275,7 @@
   "images": [
     "https://www.handspeak.com/word/n/net/networking-aslwrite.jpg"
   ],
-  "word": "Signs for NETWORK"
+  "word": "NETWORK"
 },
 {
   "_id": {
@@ -16420,7 +16309,7 @@
     "https://www.handspeak.com/word/n/new/new-zealand.mp4"
   ],
   "images": [],
-  "word": "Signs for NEW ZEALAND"
+  "word": "NEW ZEALAND"
 },
 {
   "_id": {
@@ -16432,7 +16321,7 @@
   "images": [
     "https://www.handspeak.com/word/n/new/newspaper-aslwrite.jpg"
   ],
-  "word": "Signs for NEWSPAPER"
+  "word": "NEWSPAPER"
 },
 {
   "_id": {
@@ -16455,7 +16344,7 @@
     "https://www.handspeak.com/word/u/unh/unheard.mp4"
   ],
   "images": [],
-  "word": "Signs for UNHEARD, NEVER HEARD"
+  "word": "UNHEARD, NEVER HEARD"
 },
 {
   "_id": {
@@ -16502,7 +16391,7 @@
     "https://www.handspeak.com/word/n/nig/nightly.mp4"
   ],
   "images": [],
-  "word": "Signs for NIGHTLY, EVERY NIGHT"
+  "word": "NIGHTLY, EVERY NIGHT"
 },
 {
   "_id": {
@@ -16525,7 +16414,7 @@
     "https://www.handspeak.com/word/d/day/daybreak.mp4"
   ],
   "images": [],
-  "word": "Signs for DAYBREAK"
+  "word": "DAYBREAK"
 },
 {
   "_id": {
@@ -16553,7 +16442,7 @@
     "https://www.handspeak.com/word/n/no-way.mp4"
   ],
   "images": [],
-  "word": "Signs for NO WAY"
+  "word": "NO WAY"
 },
 {
   "_id": {
@@ -16564,7 +16453,7 @@
     "https://www.handspeak.com/word/n/nob/nobody-there.mp4"
   ],
   "images": [],
-  "word": "Signs for NOBODY"
+  "word": "NOBODY"
 },
 {
   "_id": {
@@ -16574,7 +16463,7 @@
     "https://www.handspeak.com/word/n/noise.mp4"
   ],
   "images": [],
-  "word": "Signs for NOISE"
+  "word": "NOISE"
 },
 {
   "_id": {
@@ -16609,7 +16498,7 @@
   "images": [
     "https://www.handspeak.com/word/n/nor/normal-aslwrite.jpg"
   ],
-  "word": "Signs for NORMAL"
+  "word": "NORMAL"
 },
 {
   "_id": {
@@ -16622,7 +16511,7 @@
     "https://www.handspeak.com/word/o/obl/obliterate-obscure.mp4"
   ],
   "images": [],
-  "word": "Signs for OBLITERATE"
+  "word": "OBLITERATE"
 },
 {
   "_id": {
@@ -16632,7 +16521,7 @@
     "https://www.handspeak.com/word/n/nic/nice-looking.mp4"
   ],
   "images": [],
-  "word": "Signs for NICE-LOOKING"
+  "word": "NICE-LOOKING"
 },
 {
   "_id": {
@@ -16642,7 +16531,7 @@
     "https://www.handspeak.com/word/p/pea/pea-brained.mp4"
   ],
   "images": [],
-  "word": "Signs for PEA-BRAINED"
+  "word": "PEA-BRAINED"
 },
 {
   "_id": {
@@ -16653,7 +16542,7 @@
     "https://www.handspeak.com/word/e/evi/evil-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for EVIL"
+  "word": "EVIL"
 },
 {
   "_id": {
@@ -16673,7 +16562,7 @@
     "https://www.handspeak.com/word/n/nafta-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for NAFTA"
+  "word": "NAFTA"
 },
 {
   "_id": {
@@ -16695,7 +16584,7 @@
   "images": [
     "https://www.handspeak.com/word/n/nos/nose-aslwrite.jpg"
   ],
-  "word": "Signs for NOSE"
+  "word": "NOSE"
 },
 {
   "_id": {
@@ -16708,7 +16597,7 @@
     "https://www.handspeak.com/word/c/cro/crooked-lie.mp4"
   ],
   "images": [],
-  "word": "Signs for CROOKED"
+  "word": "CROOKED"
 },
 {
   "_id": {
@@ -16719,7 +16608,7 @@
     "https://www.handspeak.com/word/p/poi/pointy-nose.mp4"
   ],
   "images": [],
-  "word": "Signs for POINTY"
+  "word": "POINTY"
 },
 {
   "_id": {
@@ -16729,7 +16618,7 @@
     "https://www.handspeak.com/word/l/lon/longnose.mp4"
   ],
   "images": [],
-  "word": "Signs for LONG-NOSED"
+  "word": "LONG-NOSED"
 },
 {
   "_id": {
@@ -16781,7 +16670,7 @@
     "https://www.handspeak.com/word/s/sus/sushi.mp4"
   ],
   "images": [],
-  "word": "Signs for SUSHI"
+  "word": "SUSHI"
 },
 {
   "_id": {
@@ -16789,7 +16678,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for UNCOMPLICATED"
+  "word": "UNCOMPLICATED"
 },
 {
   "_id": {
@@ -16826,7 +16715,7 @@
     "https://www.handspeak.com/word/b/bus/business-card.mp4"
   ],
   "images": [],
-  "word": "Signs for BUSINESS CARD"
+  "word": "BUSINESS CARD"
 },
 {
   "_id": {
@@ -16837,7 +16726,7 @@
     "https://www.handspeak.com/word/n/now/nowadays2.mp4"
   ],
   "images": [],
-  "word": "Signs for NOWADAYS"
+  "word": "NOWADAYS"
 },
 {
   "_id": {
@@ -16847,7 +16736,7 @@
     "https://www.handspeak.com/word/n/nude.mp4"
   ],
   "images": [],
-  "word": "Signs for NUDE"
+  "word": "NUDE"
 },
 {
   "_id": {
@@ -16858,7 +16747,7 @@
     "https://www.handspeak.com/word/s/str/stroke-medical.mp4"
   ],
   "images": [],
-  "word": "Signs for STROKE (HEART)"
+  "word": "STROKE (HEART)"
 },
 {
   "_id": {
@@ -16868,7 +16757,7 @@
     "https://www.handspeak.com/word/n/num/number.mp4"
   ],
   "images": [],
-  "word": "ASL signs for NUMBER"
+  "word": "ASL NUMBER"
 },
 {
   "_id": {
@@ -16915,7 +16804,7 @@
     "https://www.handspeak.com/word/n/nut/nut-blockhead.mp4"
   ],
   "images": [],
-  "word": "Signs for NUTCASE"
+  "word": "NUTCASE"
 },
 {
   "_id": {
@@ -16926,7 +16815,7 @@
     "https://www.handspeak.com/word/a/ast/astral-travel.mp4"
   ],
   "images": [],
-  "word": "Signs for ASTRAL, ASTRAL TRAVEL"
+  "word": "ASTRAL, ASTRAL TRAVEL"
 },
 {
   "_id": {
@@ -16946,7 +16835,7 @@
     "https://www.handspeak.com/word/r/rea/reagan-gray.mp4"
   ],
   "images": [],
-  "word": "Signs for REAGAN, RONALD"
+  "word": "REAGAN, RONALD"
 },
 {
   "_id": {
@@ -16956,7 +16845,7 @@
     "https://www.handspeak.com/word/o/oct/octopus.mp4"
   ],
   "images": [],
-  "word": "Signs for OCTOPUS"
+  "word": "OCTOPUS"
 },
 {
   "_id": {
@@ -16988,7 +16877,7 @@
     "https://www.handspeak.com/word/o/off/offhand.mp4"
   ],
   "images": [],
-  "word": "Signs for OFFHAND"
+  "word": "OFFHAND"
 },
 {
   "_id": {
@@ -17018,7 +16907,7 @@
     "https://www.handspeak.com/word/o/oh-i-see.mp4"
   ],
   "images": [],
-  "word": "Signs for OH"
+  "word": "OH"
 },
 {
   "_id": {
@@ -17050,7 +16939,7 @@
     "https://www.handspeak.com/word/o/oil/oily.mp4"
   ],
   "images": [],
-  "word": "Signs for OIL"
+  "word": "OIL"
 },
 {
   "_id": {
@@ -17062,7 +16951,7 @@
     "https://www.handspeak.com/word/r/ris/risk-taking.mp4"
   ],
   "images": [],
-  "word": "Signs for RISK"
+  "word": "RISK"
 },
 {
   "_id": {
@@ -17082,7 +16971,7 @@
     "https://www.handspeak.com/word/t/tra/transgender-leffers.mp4"
   ],
   "images": [],
-  "word": "Signs for TRANSGENDER"
+  "word": "TRANSGENDER"
 },
 {
   "_id": {
@@ -17103,7 +16992,7 @@
     "https://www.handspeak.com/word/e/eld/elderly.mp4"
   ],
   "images": [],
-  "word": "Signs for ELDERLY"
+  "word": "ELDERLY"
 },
 {
   "_id": {
@@ -17126,7 +17015,7 @@
     "https://www.handspeak.com/word/e/eld/elder.mp4"
   ],
   "images": [],
-  "word": "Signs for ELDER"
+  "word": "ELDER"
 },
 {
   "_id": {
@@ -17180,7 +17069,7 @@
     "https://www.handspeak.com/word/o/one/one-third.mp4"
   ],
   "images": [],
-  "word": "Signs for ONE-THIRD"
+  "word": "ONE-THIRD"
 },
 {
   "_id": {
@@ -17190,7 +17079,7 @@
     "https://www.handspeak.com/word/o/one/one-fourth.mp4"
   ],
   "images": [],
-  "word": "Signs for ONE-FOURTH"
+  "word": "ONE-FOURTH"
 },
 {
   "_id": {
@@ -17200,7 +17089,7 @@
     "https://www.handspeak.com/word/t/ter/tertiary.mp4"
   ],
   "images": [],
-  "word": "Signs for TERTIARY"
+  "word": "TERTIARY"
 },
 {
   "_id": {
@@ -17210,7 +17099,7 @@
     "https://www.handspeak.com/word/o/one/one-on-one.mp4"
   ],
   "images": [],
-  "word": "Signs for ONE-ON-ONE, ONE-TO-ONE"
+  "word": "ONE-ON-ONE, ONE-TO-ONE"
 },
 {
   "_id": {
@@ -17230,7 +17119,7 @@
     "https://www.handspeak.com/word/o/onl/only.mp4"
   ],
   "images": [],
-  "word": "Signs for ONLY"
+  "word": "ONLY"
 },
 {
   "_id": {
@@ -17253,7 +17142,7 @@
     "https://www.handspeak.com/word/o/opi/opinion.mp4"
   ],
   "images": [],
-  "word": "Signs for OPINION"
+  "word": "OPINION"
 },
 {
   "_id": {
@@ -17263,7 +17152,7 @@
     "https://www.handspeak.com/word/o/opp/opportunity.mp4"
   ],
   "images": [],
-  "word": "Signs for OPPORTUNITY"
+  "word": "OPPORTUNITY"
 },
 {
   "_id": {
@@ -17274,7 +17163,7 @@
     "https://www.handspeak.com/word/o/opp/oppose-contrary.mp4"
   ],
   "images": [],
-  "word": "Signs for OPPOSE"
+  "word": "OPPOSE"
 },
 {
   "_id": {
@@ -17304,7 +17193,7 @@
     "https://www.handspeak.com/word/o/opt/optimistic.mp4"
   ],
   "images": [],
-  "word": "Signs for OPTIMISTIC"
+  "word": "OPTIMISTIC"
 },
 {
   "_id": {
@@ -17347,7 +17236,7 @@
     "https://www.handspeak.com/word/v/voy/voyage.mp4"
   ],
   "images": [],
-  "word": "Signs for VOYAGE"
+  "word": "VOYAGE"
 },
 {
   "_id": {
@@ -17396,7 +17285,7 @@
     "https://www.handspeak.com/word/o/out/outsider.mp4"
   ],
   "images": [],
-  "word": "Signs for OUTSIDER"
+  "word": "OUTSIDER"
 },
 {
   "_id": {
@@ -17406,7 +17295,7 @@
     "https://www.handspeak.com/word/o/ove/overwhelmed.mp4"
   ],
   "images": [],
-  "word": "Signs for OVERWHELMED"
+  "word": "OVERWHELMED"
 },
 {
   "_id": {
@@ -17442,7 +17331,7 @@
     "https://www.handspeak.com/word/o/on-one-own.mp4"
   ],
   "images": [],
-  "word": "Signs for ON ONE'S OWN, BY ONESELF"
+  "word": "ON ONE'S OWN, BY ONESELF"
 },
 {
   "_id": {
@@ -17452,7 +17341,7 @@
     "https://www.handspeak.com/word/o/own/own-up.mp4"
   ],
   "images": [],
-  "word": "Signs for OWN UP"
+  "word": "OWN UP"
 },
 {
   "_id": {
@@ -17462,7 +17351,7 @@
     "https://www.handspeak.com/word/o/org/organization.mp4"
   ],
   "images": [],
-  "word": "Signs for ORGANIZATION"
+  "word": "ORGANIZATION"
 },
 {
   "_id": {
@@ -17485,7 +17374,7 @@
     "https://www.handspeak.com/word/o/our/ourselves.mp4"
   ],
   "images": [],
-  "word": "Signs for OURSELVES"
+  "word": "OURSELVES"
 },
 {
   "_id": {
@@ -17506,7 +17395,7 @@
     "https://www.handspeak.com/word/o/ove/overhear.mp4"
   ],
   "images": [],
-  "word": "Signs for OVERHEAR"
+  "word": "OVERHEAR"
 },
 {
   "_id": {
@@ -17528,7 +17417,7 @@
   "images": [
     "https://www.handspeak.com/word/o/ove/overlook-aslwrite.jpg"
   ],
-  "word": "Signs for OVERLOOK"
+  "word": "OVERLOOK"
 },
 {
   "_id": {
@@ -17539,7 +17428,7 @@
     "https://www.handspeak.com/word/p/pac/pacifier.mp4"
   ],
   "images": [],
-  "word": "Signs for PACIFIER"
+  "word": "PACIFIER"
 },
 {
   "_id": {
@@ -17566,7 +17455,7 @@
     "https://www.handspeak.com/word/p/pai/painting-screenshot.jpg",
     "https://www.handspeak.com/word/p/pai/painting-art-aslwrite.jpg"
   ],
-  "word": "Signs for PAINTING"
+  "word": "PAINTING"
 },
 {
   "_id": {
@@ -17589,7 +17478,7 @@
     "https://www.handspeak.com/word/p/pal/palm-tree.mp4"
   ],
   "images": [],
-  "word": "Signs for PALM TREE"
+  "word": "PALM TREE"
 },
 {
   "_id": {
@@ -17609,7 +17498,7 @@
     "https://www.handspeak.com/word/p/par/paragraph.mp4"
   ],
   "images": [],
-  "word": "Signs for PARAGRAPH"
+  "word": "PARAGRAPH"
 },
 {
   "_id": {
@@ -17675,7 +17564,7 @@
     "https://www.handspeak.com/word/p/pas/passcard.mp4"
   ],
   "images": [],
-  "word": "Signs for PASSCARD"
+  "word": "PASSCARD"
 },
 {
   "_id": {
@@ -17699,7 +17588,7 @@
     "https://www.handspeak.com/word/p/pap/paper-clip.mp4"
   ],
   "images": [],
-  "word": "Signs for PAPER CLIP"
+  "word": "PAPER CLIP"
 },
 {
   "_id": {
@@ -17709,7 +17598,7 @@
     "https://www.handspeak.com/word/p/pat/paternalism.mp4"
   ],
   "images": [],
-  "word": "Signs for PATERNALISM"
+  "word": "PATERNALISM"
 },
 {
   "_id": {
@@ -17723,7 +17612,7 @@
   "images": [
     "https://www.handspeak.com/word/p/par/parent-aslwrite.jpg"
   ],
-  "word": "Signs for PARENT"
+  "word": "PARENT"
 },
 {
   "_id": {
@@ -17734,7 +17623,7 @@
     "https://www.handspeak.com/word/p/pat/patient-healthcare.mp4"
   ],
   "images": [],
-  "word": "Signs for PATIENT"
+  "word": "PATIENT"
 },
 {
   "_id": {
@@ -17745,7 +17634,7 @@
     "https://www.handspeak.com/word/b/boo/bookworm2.mp4"
   ],
   "images": [],
-  "word": "Signs for BOOKWORM"
+  "word": "BOOKWORM"
 },
 {
   "_id": {
@@ -17755,7 +17644,7 @@
     "https://www.handspeak.com/word/b/boo/bookkeeping.mp4"
   ],
   "images": [],
-  "word": "Signs for BOOKKEEPING"
+  "word": "BOOKKEEPING"
 },
 {
   "_id": {
@@ -17777,7 +17666,7 @@
     "https://www.handspeak.com/word/p/pet/pet-peeve-inf.mp4"
   ],
   "images": [],
-  "word": "Signs for PET PEEVE"
+  "word": "PET PEEVE"
 },
 {
   "_id": {
@@ -17816,7 +17705,7 @@
     "https://www.handspeak.com/word/p/pea/peaceofmind-blankmind.mp4"
   ],
   "images": [],
-  "word": "Signs for PEACE OF MIND"
+  "word": "PEACE OF MIND"
 },
 {
   "_id": {
@@ -17878,7 +17767,7 @@
     "https://www.handspeak.com/word/t/tri/tribe-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for TRIBE"
+  "word": "TRIBE"
 },
 {
   "_id": {
@@ -17899,7 +17788,7 @@
     "https://www.handspeak.com/word/p/pen/penguin.mp4"
   ],
   "images": [],
-  "word": "Signs for PENGUIN"
+  "word": "PENGUIN"
 },
 {
   "_id": {
@@ -17920,7 +17809,7 @@
     "https://www.handspeak.com/word/y/yea/yearbook.mp4"
   ],
   "images": [],
-  "word": "Signs for YEARBOOK"
+  "word": "YEARBOOK"
 },
 {
   "_id": {
@@ -17941,7 +17830,7 @@
     "https://www.handspeak.com/word/o/ogle-looklust.mp4"
   ],
   "images": [],
-  "word": "Signs for OGLE"
+  "word": "OGLE"
 },
 {
   "_id": {
@@ -17955,7 +17844,7 @@
     "https://www.handspeak.com/word/p/per/person3-aslwrite.jpg",
     "https://www.handspeak.com/word/p/per/person-aslwrite.jpg"
   ],
-  "word": "Signs for PERSON"
+  "word": "PERSON"
 },
 {
   "_id": {
@@ -17965,7 +17854,7 @@
     "https://www.handspeak.com/word/i/ins/inseminate.mp4"
   ],
   "images": [],
-  "word": "Signs for INSEMINATE"
+  "word": "INSEMINATE"
 },
 {
   "_id": {
@@ -17976,7 +17865,7 @@
     "https://www.handspeak.com/word/p/per/personal-isl.mp4"
   ],
   "images": [],
-  "word": "Signs for PERSONAL"
+  "word": "PERSONAL"
 },
 {
   "_id": {
@@ -17987,7 +17876,7 @@
     "https://www.handspeak.com/word/p/per/perspective-art.mp4"
   ],
   "images": [],
-  "word": "Signs for PERSPECTIVE"
+  "word": "PERSPECTIVE"
 },
 {
   "_id": {
@@ -17997,7 +17886,7 @@
     "https://www.handspeak.com/word/v/van/vantage.mp4"
   ],
   "images": [],
-  "word": "Signs for VANTAGE"
+  "word": "VANTAGE"
 },
 {
   "_id": {
@@ -18007,7 +17896,7 @@
     "https://www.handspeak.com/word/p/pes/pessimistic.mp4"
   ],
   "images": [],
-  "word": "Signs for PESSIMISTIC, PESSIMISM"
+  "word": "PESSIMISTIC, PESSIMISM"
 },
 {
   "_id": {
@@ -18039,7 +17928,7 @@
     "https://www.handspeak.com/word/p/pho/phonathon.mp4"
   ],
   "images": [],
-  "word": "Signs for PHONATHON"
+  "word": "PHONATHON"
 },
 {
   "_id": {
@@ -18051,7 +17940,7 @@
   "images": [
     "https://www.handspeak.com/word/p/phy/physics-aslwrite.jpg"
   ],
-  "word": "Signs for PHYSICS"
+  "word": "PHYSICS"
 },
 {
   "_id": {
@@ -18064,7 +17953,7 @@
     "https://www.handspeak.com/word/p/pic/pickup-phone.mp4"
   ],
   "images": [],
-  "word": "Signs for PICK UP, PICK-UP"
+  "word": "PICK UP, PICK-UP"
 },
 {
   "_id": {
@@ -18075,7 +17964,7 @@
     "https://www.handspeak.com/word/p/pic/picky-fussy.mp4"
   ],
   "images": [],
-  "word": "Signs for PICKY"
+  "word": "PICKY"
 },
 {
   "_id": {
@@ -18086,7 +17975,7 @@
     "https://www.handspeak.com/word/p/pic/pick-on-me.mp4"
   ],
   "images": [],
-  "word": "Signs for PICK ON"
+  "word": "PICK ON"
 },
 {
   "_id": {
@@ -18121,7 +18010,7 @@
     "https://www.handspeak.com/word/n/nai/nail-biting.mp4"
   ],
   "images": [],
-  "word": "Signs for NAIL-BITING"
+  "word": "NAIL-BITING"
 },
 {
   "_id": {
@@ -18133,7 +18022,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pie/pie-food-aslwrite.jpg"
   ],
-  "word": "ASL signs for PIE"
+  "word": "ASL PIE"
 },
 {
   "_id": {
@@ -18165,7 +18054,7 @@
     "https://www.handspeak.com/word/p/pil/pill.mp4"
   ],
   "images": [],
-  "word": "Signs for PILL"
+  "word": "PILL"
 },
 {
   "_id": {
@@ -18188,7 +18077,7 @@
     "https://www.handspeak.com/word/a/all/alligator.mp4"
   ],
   "images": [],
-  "word": "Signs for ALLIGATOR"
+  "word": "ALLIGATOR"
 },
 {
   "_id": {
@@ -18198,7 +18087,7 @@
     "https://www.handspeak.com/word/z/zit-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for ZIT"
+  "word": "ZIT"
 },
 {
   "_id": {
@@ -18209,7 +18098,7 @@
     "https://www.handspeak.com/word/p/pim/pimples2.mp4"
   ],
   "images": [],
-  "word": "Signs for PIMPLES"
+  "word": "PIMPLES"
 },
 {
   "_id": {
@@ -18230,7 +18119,7 @@
     "https://www.handspeak.com/word/h/hig/high-bloodpressure.mp4"
   ],
   "images": [],
-  "word": "Signs for HIGH BLOOD PRESSURE, HYPERTENSION"
+  "word": "HIGH BLOOD PRESSURE, HYPERTENSION"
 },
 {
   "_id": {
@@ -18240,7 +18129,7 @@
     "https://www.handspeak.com/word/h/hoo/hookah.mp4"
   ],
   "images": [],
-  "word": "Signs for HOOKAH"
+  "word": "HOOKAH"
 },
 {
   "_id": {
@@ -18261,7 +18150,7 @@
     "https://www.handspeak.com/word/p/pis/pissedoff-gabrielstraitiff.mp4"
   ],
   "images": [],
-  "word": "Signs for PISSED OFF"
+  "word": "PISSED OFF"
 },
 {
   "_id": {
@@ -18282,7 +18171,7 @@
     "https://www.handspeak.com/word/p/pla/plain.mp4"
   ],
   "images": [],
-  "word": "Signs for PLAIN"
+  "word": "PLAIN"
 },
 {
   "_id": {
@@ -18292,7 +18181,7 @@
     "https://www.handspeak.com/word/l/low/low-bloodpressure.mp4"
   ],
   "images": [],
-  "word": "Signs for LOW BLOOD PRESSURE, HYPOTENSION"
+  "word": "LOW BLOOD PRESSURE, HYPOTENSION"
 },
 {
   "_id": {
@@ -18303,7 +18192,7 @@
     "https://www.handspeak.com/word/s/sch/scheme-dirtybiz.mp4"
   ],
   "images": [],
-  "word": "Signs for SCHEME"
+  "word": "SCHEME"
 },
 {
   "_id": {
@@ -18314,7 +18203,7 @@
     "https://www.handspeak.com/word/p/pla/plan2.mp4"
   ],
   "images": [],
-  "word": "Signs for PLAN"
+  "word": "PLAN"
 },
 {
   "_id": {
@@ -18349,7 +18238,7 @@
     "https://www.handspeak.com/word/f/for/for-a-while.mp4"
   ],
   "images": [],
-  "word": "Signs for FOR A WHILE, AWHILE"
+  "word": "FOR A WHILE, AWHILE"
 },
 {
   "_id": {
@@ -18371,7 +18260,7 @@
     "https://www.handspeak.com/word/p/poc/pocket.mp4"
   ],
   "images": [],
-  "word": "Signs for POCKET"
+  "word": "POCKET"
 },
 {
   "_id": {
@@ -18382,7 +18271,7 @@
     "https://www.handspeak.com/word/g/giv/give-birth.mp4"
   ],
   "images": [],
-  "word": "Signs for CHILDBIRTH, GIVE BIRTH"
+  "word": "CHILDBIRTH, GIVE BIRTH"
 },
 {
   "_id": {
@@ -18392,7 +18281,7 @@
     "https://www.handspeak.com/word/p/poi/pointless.mp4"
   ],
   "images": [],
-  "word": "Signs for POINTLESS"
+  "word": "POINTLESS"
 },
 {
   "_id": {
@@ -18403,7 +18292,7 @@
     "https://www.handspeak.com/word/p/poi/point-purpose.mp4"
   ],
   "images": [],
-  "word": "Signs for POINT"
+  "word": "POINT"
 },
 {
   "_id": {
@@ -18413,7 +18302,7 @@
     "https://www.handspeak.com/word/p/pol/pole.mp4"
   ],
   "images": [],
-  "word": "Signs for POLE"
+  "word": "POLE"
 },
 {
   "_id": {
@@ -18435,7 +18324,7 @@
     "https://www.handspeak.com/word/b/bri/bring-to-light2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNCOVER"
+  "word": "UNCOVER"
 },
 {
   "_id": {
@@ -18446,7 +18335,7 @@
     "https://www.handspeak.com/word/d/dem/demonstrate-protest.mp4"
   ],
   "images": [],
-  "word": "Signs for DEMONSTRATE, DEMONSTRATION"
+  "word": "DEMONSTRATE, DEMONSTRATION"
 },
 {
   "_id": {
@@ -18487,7 +18376,7 @@
     "https://www.handspeak.com/word/n/ner/nerd.mp4"
   ],
   "images": [],
-  "word": "Signs for NERD"
+  "word": "NERD"
 },
 {
   "_id": {
@@ -18511,7 +18400,7 @@
     "https://www.handspeak.com/word/l/lie-big.mp4"
   ],
   "images": [],
-  "word": "Signs for LYING"
+  "word": "LYING"
 },
 {
   "_id": {
@@ -18521,7 +18410,7 @@
     "https://www.handspeak.com/word/p/pol/politics.mp4"
   ],
   "images": [],
-  "word": "Signs for POLITICS"
+  "word": "POLITICS"
 },
 {
   "_id": {
@@ -18531,7 +18420,7 @@
     "https://www.handspeak.com/word/p/pol/political-science.mp4"
   ],
   "images": [],
-  "word": "Signs for POLITICAL SCIENCE"
+  "word": "POLITICAL SCIENCE"
 },
 {
   "_id": {
@@ -18553,7 +18442,7 @@
     "https://www.handspeak.com/word/p/pop/pope-benedict.mp4"
   ],
   "images": [],
-  "word": "Signs for POPE"
+  "word": "POPE"
 },
 {
   "_id": {
@@ -18563,7 +18452,7 @@
     "https://www.handspeak.com/word/p/pop/popular.mp4"
   ],
   "images": [],
-  "word": "Signs for POPULAR"
+  "word": "POPULAR"
 },
 {
   "_id": {
@@ -18604,7 +18493,7 @@
     "https://www.handspeak.com/word/j/joi/joint-bone2.mp4"
   ],
   "images": [],
-  "word": "Signs for JOINT (BONE)"
+  "word": "JOINT (BONE)"
 },
 {
   "_id": {
@@ -18614,7 +18503,7 @@
     "https://www.handspeak.com/word/p/pos/possible.mp4"
   ],
   "images": [],
-  "word": "Signs for POSSIBLE"
+  "word": "POSSIBLE"
 },
 {
   "_id": {
@@ -18624,7 +18513,7 @@
     "https://www.handspeak.com/word/l/ligament.mp4"
   ],
   "images": [],
-  "word": "Signs for LIGAMENT"
+  "word": "LIGAMENT"
 },
 {
   "_id": {
@@ -18635,7 +18524,7 @@
     "https://www.handspeak.com/word/r/res/reschedule2.mp4"
   ],
   "images": [],
-  "word": "Signs for RESCHEDULE"
+  "word": "RESCHEDULE"
 },
 {
   "_id": {
@@ -18681,7 +18570,7 @@
     "https://www.handspeak.com/word/p/pou/pour-out.mp4"
   ],
   "images": [],
-  "word": "ASL signs for POUR"
+  "word": "ASL POUR"
 },
 {
   "_id": {
@@ -18691,7 +18580,7 @@
     "https://www.handspeak.com/word/d/dow/downpour.mp4"
   ],
   "images": [],
-  "word": "Signs for DOWNPOUR"
+  "word": "DOWNPOUR"
 },
 {
   "_id": {
@@ -18724,7 +18613,7 @@
     "https://www.handspeak.com/word/p/pot/potential.mp4"
   ],
   "images": [],
-  "word": "Signs for POTENTIAL"
+  "word": "POTENTIAL"
 },
 {
   "_id": {
@@ -18767,7 +18656,7 @@
     "https://www.handspeak.com/word/p/pre/preach.mp4"
   ],
   "images": [],
-  "word": "Signs for PREACH"
+  "word": "PREACH"
 },
 {
   "_id": {
@@ -18779,7 +18668,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pre/prefer-aslwrite.jpg"
   ],
-  "word": "Signs for PREFER"
+  "word": "PREFER"
 },
 {
   "_id": {
@@ -18790,7 +18679,7 @@
     "https://www.handspeak.com/word/p/pre/prejudice.mp4"
   ],
   "images": [],
-  "word": "Signs for PREJUDICE"
+  "word": "PREJUDICE"
 },
 {
   "_id": {
@@ -18801,7 +18690,7 @@
     "https://www.handspeak.com/word/p/pre/preoccupied-drift.mp4"
   ],
   "images": [],
-  "word": "Signs for PREOCCUPIED"
+  "word": "PREOCCUPIED"
 },
 {
   "_id": {
@@ -18824,7 +18713,7 @@
     "https://www.handspeak.com/word/p/pre/pregnancy-brain.mp4"
   ],
   "images": [],
-  "word": "Signs for PREGNANCY BRAIN"
+  "word": "PREGNANCY BRAIN"
 },
 {
   "_id": {
@@ -18835,7 +18724,7 @@
     "https://www.handspeak.com/word/u/unp/unpredictable2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNPREDICTABLE"
+  "word": "UNPREDICTABLE"
 },
 {
   "_id": {
@@ -18855,7 +18744,7 @@
     "https://www.handspeak.com/word/p/pre/present-time.mp4"
   ],
   "images": [],
-  "word": "Signs for PRESENT, PRESENT-DAY"
+  "word": "PRESENT, PRESENT-DAY"
 },
 {
   "_id": {
@@ -18865,7 +18754,7 @@
     "https://www.handspeak.com/word/m/mob/mobile.mp4"
   ],
   "images": [],
-  "word": "Signs for MOBILE"
+  "word": "MOBILE"
 },
 {
   "_id": {
@@ -18877,7 +18766,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pre/present-talk-aslwrite.jpg"
   ],
-  "word": "Signs for PRESENTATION"
+  "word": "PRESENTATION"
 },
 {
   "_id": {
@@ -18887,7 +18776,7 @@
     "https://www.handspeak.com/word/p/pre/president.mp4"
   ],
   "images": [],
-  "word": "PRESIDENT sign language"
+  "word": "PRESIDENT"
 },
 {
   "_id": {
@@ -18897,7 +18786,7 @@
     "https://www.handspeak.com/word/n/not/not-matter.mp4"
   ],
   "images": [],
-  "word": "Signs for MATTER"
+  "word": "MATTER"
 },
 {
   "_id": {
@@ -18908,7 +18797,7 @@
     "https://www.handspeak.com/word/b/bil/billion-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for BILLION"
+  "word": "BILLION"
 },
 {
   "_id": {
@@ -18918,7 +18807,7 @@
     "https://www.handspeak.com/word/p/pre/pretend.mp4"
   ],
   "images": [],
-  "word": "Signs for PRETEND"
+  "word": "PRETEND"
 },
 {
   "_id": {
@@ -18958,7 +18847,7 @@
     "https://www.handspeak.com/word/p/pri/priority.mp4"
   ],
   "images": [],
-  "word": "Signs for PRIORITY"
+  "word": "PRIORITY"
 },
 {
   "_id": {
@@ -18968,7 +18857,7 @@
     "https://www.handspeak.com/word/p/pri/prison.mp4"
   ],
   "images": [],
-  "word": "Signs for PRISON, PENITENTIARY"
+  "word": "PRISON, PENITENTIARY"
 },
 {
   "_id": {
@@ -18991,7 +18880,7 @@
     "https://www.handspeak.com/word/p/pro/problem.jpg",
     "https://www.handspeak.com/word/p/pro/problem-aslwrite.jpg"
   ],
-  "word": "Signs for PROBLEM"
+  "word": "PROBLEM"
 },
 {
   "_id": {
@@ -19001,7 +18890,7 @@
     "https://www.handspeak.com/word/p/pro/problem-solving.mp4"
   ],
   "images": [],
-  "word": "Signs for PROBLEM SOLVING"
+  "word": "PROBLEM SOLVING"
 },
 {
   "_id": {
@@ -19024,7 +18913,7 @@
     "https://www.handspeak.com/word/p/pro/procedure.mp4"
   ],
   "images": [],
-  "word": "Signs for PROCEDURE"
+  "word": "PROCEDURE"
 },
 {
   "_id": {
@@ -19034,7 +18923,7 @@
     "https://www.handspeak.com/word/p/pro/profit.mp4"
   ],
   "images": [],
-  "word": "Signs for PROFIT"
+  "word": "PROFIT"
 },
 {
   "_id": {
@@ -19044,7 +18933,7 @@
     "https://www.handspeak.com/word/p/pro/profit-margin.mp4"
   ],
   "images": [],
-  "word": "Signs for PROFIT MARGIN"
+  "word": "PROFIT MARGIN"
 },
 {
   "_id": {
@@ -19081,7 +18970,7 @@
     "https://www.handspeak.com/word/r/rab/rabbi-r.mp4"
   ],
   "images": [],
-  "word": "Signs for RABBI"
+  "word": "RABBI"
 },
 {
   "_id": {
@@ -19091,7 +18980,7 @@
     "https://www.handspeak.com/word/p/pri/printer.mp4"
   ],
   "images": [],
-  "word": "Signs for PRINTER"
+  "word": "PRINTER"
 },
 {
   "_id": {
@@ -19103,7 +18992,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pro/program-aslwrite.jpg"
   ],
-  "word": "Signs for PROGRAM"
+  "word": "PROGRAM"
 },
 {
   "_id": {
@@ -19129,7 +19018,7 @@
     "https://www.handspeak.com/word/p/pro/project-transfer.mp4"
   ],
   "images": [],
-  "word": "Signs for PROJECT"
+  "word": "PROJECT"
 },
 {
   "_id": {
@@ -19150,7 +19039,7 @@
     "https://www.handspeak.com/word/a/atm/atmosphere-scene.mp4"
   ],
   "images": [],
-  "word": "Signs for ATMOSPHERE"
+  "word": "ATMOSPHERE"
 },
 {
   "_id": {
@@ -19160,7 +19049,7 @@
     "https://www.handspeak.com/word/p/pro/promiscuity.mp4"
   ],
   "images": [],
-  "word": "Signs for PROMISCUOUS, PROMISCUITY"
+  "word": "PROMISCUOUS, PROMISCUITY"
 },
 {
   "_id": {
@@ -19180,7 +19069,7 @@
     "https://www.handspeak.com/word/h/hoist.mp4"
   ],
   "images": [],
-  "word": "Signs for HOIST"
+  "word": "HOIST"
 },
 {
   "_id": {
@@ -19211,7 +19100,7 @@
     "https://www.handspeak.com/word/p/pro/protest.mp4"
   ],
   "images": [],
-  "word": "Signs for PROTEST"
+  "word": "PROTEST"
 },
 {
   "_id": {
@@ -19222,7 +19111,7 @@
     "https://www.handspeak.com/word/v/ver/verify2.mp4"
   ],
   "images": [],
-  "word": "Signs for VERIFY"
+  "word": "VERIFY"
 },
 {
   "_id": {
@@ -19235,7 +19124,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pro/prove-aslwrite.jpg"
   ],
-  "word": "Signs for PROVE"
+  "word": "PROVE"
 },
 {
   "_id": {
@@ -19257,7 +19146,7 @@
     "https://www.handspeak.com/word/p/pub/publish.mp4"
   ],
   "images": [],
-  "word": "Signs for PUBLISH"
+  "word": "PUBLISH"
 },
 {
   "_id": {
@@ -19267,7 +19156,7 @@
     "https://www.handspeak.com/word/p/puja.mp4"
   ],
   "images": [],
-  "word": "Signs for PUJA"
+  "word": "PUJA"
 },
 {
   "_id": {
@@ -19280,7 +19169,7 @@
   "images": [
     "https://www.handspeak.com/word/p/pul/pull-rope-aslwrite.jpg"
   ],
-  "word": "Signs for PULL"
+  "word": "PULL"
 },
 {
   "_id": {
@@ -19320,7 +19209,7 @@
     "https://www.handspeak.com/word/p/pur/purpose.mp4"
   ],
   "images": [],
-  "word": "Signs for PURPOSE"
+  "word": "PURPOSE"
 },
 {
   "_id": {
@@ -19366,7 +19255,7 @@
   "images": [
     "https://www.handspeak.com/word/e/eve/every-afternoon-aslwrite.jpg"
   ],
-  "word": "Signs for AFTERGLOW, AFTERLIGHT"
+  "word": "AFTERGLOW, AFTERLIGHT"
 },
 {
   "_id": {
@@ -19376,7 +19265,7 @@
     "https://www.handspeak.com/word/w/war/warmup.mp4"
   ],
   "images": [],
-  "word": "Signs for WARM-UP, WARM UP"
+  "word": "WARM-UP, WARM UP"
 },
 {
   "_id": {
@@ -19387,7 +19276,7 @@
     "https://www.handspeak.com/word/q/que/questionable-doubt.mp4"
   ],
   "images": [],
-  "word": "Signs for QUESTIONABLE"
+  "word": "QUESTIONABLE"
 },
 {
   "_id": {
@@ -19443,7 +19332,7 @@
     "https://www.handspeak.com/word/r/rad/radiant-face.mp4"
   ],
   "images": [],
-  "word": "Signs for RADIANT"
+  "word": "RADIANT"
 },
 {
   "_id": {
@@ -19453,7 +19342,7 @@
     "https://www.handspeak.com/word/c/chi/chirp-bird.mp4"
   ],
   "images": [],
-  "word": "Signs for CHIRP"
+  "word": "CHIRP"
 },
 {
   "_id": {
@@ -19465,7 +19354,7 @@
   "images": [
     "https://www.handspeak.com/word/r/rai/rain-shot.jpg"
   ],
-  "word": "RAIN in Sign Language"
+  "word": "RAIN"
 },
 {
   "_id": {
@@ -19479,7 +19368,7 @@
     "https://www.handspeak.com/word/r/rai/rainbow2-aslwrite.jpg",
     "https://www.handspeak.com/word/r/rai/rainbow-aslwrite.jpg"
   ],
-  "word": "RAINBOW in Sign Language"
+  "word": "RAINBOW"
 },
 {
   "_id": {
@@ -19493,7 +19382,7 @@
   "images": [
     "https://www.handspeak.com/word/e/eye/eyebrows-aslwrite.jpg"
   ],
-  "word": "Signs for EYEBROW"
+  "word": "EYEBROW"
 },
 {
   "_id": {
@@ -19504,7 +19393,7 @@
     "https://www.handspeak.com/word/r/rai/raise-grow.mp4"
   ],
   "images": [],
-  "word": "Signs for RAISE"
+  "word": "RAISE"
 },
 {
   "_id": {
@@ -19514,7 +19403,7 @@
     "https://www.handspeak.com/word/a/adj/adjourn.mp4"
   ],
   "images": [],
-  "word": "Signs for ADJOURN"
+  "word": "ADJOURN"
 },
 {
   "_id": {
@@ -19546,7 +19435,7 @@
     "https://www.handspeak.com/word/r/rea/reach-contact.mp4"
   ],
   "images": [],
-  "word": "Signs for REACH OUT"
+  "word": "REACH OUT"
 },
 {
   "_id": {
@@ -19572,7 +19461,7 @@
     "https://www.handspeak.com/word/r/rea/really-real.mp4"
   ],
   "images": [],
-  "word": "Signs for REALLY"
+  "word": "REALLY"
 },
 {
   "_id": {
@@ -19582,7 +19471,7 @@
     "https://www.handspeak.com/word/r/rea/reasonable.mp4"
   ],
   "images": [],
-  "word": "Signs for REASONABLE"
+  "word": "REASONABLE"
 },
 {
   "_id": {
@@ -19592,7 +19481,7 @@
     "https://www.handspeak.com/word/r/reb/rebut.mp4"
   ],
   "images": [],
-  "word": "Signs for REBUT"
+  "word": "REBUT"
 },
 {
   "_id": {
@@ -19602,7 +19491,7 @@
     "https://www.handspeak.com/word/w/wat/water-closet.mp4"
   ],
   "images": [],
-  "word": "Signs for WATER CLOSET (WC)"
+  "word": "WATER CLOSET (WC)"
 },
 {
   "_id": {
@@ -19630,7 +19519,7 @@
     "https://www.handspeak.com/word/r/rec/rectangle.mp4"
   ],
   "images": [],
-  "word": "Signs for RECTANGLE"
+  "word": "RECTANGLE"
 },
 {
   "_id": {
@@ -19657,7 +19546,7 @@
     "https://www.handspeak.com/word/r/red/red-tape2.mp4"
   ],
   "images": [],
-  "word": "Signs for RED TAPE, BUREAUCRATIC PROCEDURE"
+  "word": "RED TAPE, BUREAUCRATIC PROCEDURE"
 },
 {
   "_id": {
@@ -19669,7 +19558,7 @@
     "https://www.handspeak.com/word/r/red/reduce-mikeykrajnak.mp4"
   ],
   "images": [],
-  "word": "Signs for REDUCE"
+  "word": "REDUCE"
 },
 {
   "_id": {
@@ -19714,7 +19603,7 @@
     "https://www.handspeak.com/word/u/ushers-syndrome.mp4"
   ],
   "images": [],
-  "word": "Signs for USHERS SYNDROME"
+  "word": "USHERS SYNDROME"
 },
 {
   "_id": {
@@ -19725,7 +19614,7 @@
     "https://www.handspeak.com/word/r/reg/regret-sorry.mp4"
   ],
   "images": [],
-  "word": "Signs for REGRET, REGRETFUL"
+  "word": "REGRET, REGRETFUL"
 },
 {
   "_id": {
@@ -19746,7 +19635,7 @@
     "https://www.handspeak.com/word/r/rei/rein-horse.mp4"
   ],
   "images": [],
-  "word": "Signs for REIN"
+  "word": "REIN"
 },
 {
   "_id": {
@@ -19756,7 +19645,7 @@
     "https://www.handspeak.com/word/r/rej/reject.mp4"
   ],
   "images": [],
-  "word": "Signs for REJECT"
+  "word": "REJECT"
 },
 {
   "_id": {
@@ -19768,7 +19657,7 @@
   "images": [
     "https://www.handspeak.com/word/r/rel/relate-aslwrite.jpg"
   ],
-  "word": "Signs for RELATE"
+  "word": "RELATE"
 },
 {
   "_id": {
@@ -19780,7 +19669,7 @@
   "images": [
     "https://www.handspeak.com/word/r/rel/relationship-aslwrite.png"
   ],
-  "word": "Signs for RELATIONSHIP"
+  "word": "RELATIONSHIP"
 },
 {
   "_id": {
@@ -19790,7 +19679,7 @@
     "https://www.handspeak.com/word/r/rel/relax.mp4"
   ],
   "images": [],
-  "word": "Signs for RELAX"
+  "word": "RELAX"
 },
 {
   "_id": {
@@ -19800,7 +19689,7 @@
     "https://www.handspeak.com/word/r/rel/relieved.mp4"
   ],
   "images": [],
-  "word": "Signs for RELIEVED"
+  "word": "RELIEVED"
 },
 {
   "_id": {
@@ -19820,7 +19709,7 @@
     "https://www.handspeak.com/word/r/rel/reluctant.mp4"
   ],
   "images": [],
-  "word": "Signs for RELUCTANT"
+  "word": "RELUCTANT"
 },
 {
   "_id": {
@@ -19845,7 +19734,7 @@
     "https://www.handspeak.com/word/t/tur/turn-on-light.mp4"
   ],
   "images": [],
-  "word": "Signs for TURN ON"
+  "word": "TURN ON"
 },
 {
   "_id": {
@@ -19855,7 +19744,7 @@
     "https://www.handspeak.com/word/r/rem/remote-control.mp4"
   ],
   "images": [],
-  "word": "Signs for REMOTE CONTROL"
+  "word": "REMOTE CONTROL"
 },
 {
   "_id": {
@@ -19865,7 +19754,7 @@
     "https://www.handspeak.com/word/r/rep/repair.mp4"
   ],
   "images": [],
-  "word": "Signs for REPAIR"
+  "word": "REPAIR"
 },
 {
   "_id": {
@@ -19887,7 +19776,7 @@
     "https://www.handspeak.com/word/r/rep/replace.mp4"
   ],
   "images": [],
-  "word": "Signs for REPLACE"
+  "word": "REPLACE"
 },
 {
   "_id": {
@@ -19897,7 +19786,7 @@
     "https://www.handspeak.com/word/r/rep/representative.mp4"
   ],
   "images": [],
-  "word": "Signs for REPRESENT"
+  "word": "REPRESENT"
 },
 {
   "_id": {
@@ -19918,7 +19807,7 @@
     "https://www.handspeak.com/word/r/res/research.mp4"
   ],
   "images": [],
-  "word": "Signs for RESEARCH"
+  "word": "RESEARCH"
 },
 {
   "_id": {
@@ -19928,7 +19817,7 @@
     "https://www.handspeak.com/word/r/res/resign.mp4"
   ],
   "images": [],
-  "word": "Signs for RESIGN"
+  "word": "RESIGN"
 },
 {
   "_id": {
@@ -19938,7 +19827,7 @@
     "https://www.handspeak.com/word/t/ter/terminology.mp4"
   ],
   "images": [],
-  "word": "Signs for TERMINOLOGY"
+  "word": "TERMINOLOGY"
 },
 {
   "_id": {
@@ -19949,7 +19838,7 @@
     "https://www.handspeak.com/word/w/wit/withstand2.mp4"
   ],
   "images": [],
-  "word": "Signs for WITHSTAND"
+  "word": "WITHSTAND"
 },
 {
   "_id": {
@@ -19960,7 +19849,7 @@
     "https://www.handspeak.com/word/r/res/resist2.mp4"
   ],
   "images": [],
-  "word": "Signs for RESIST, RESISTANCE, RESISTANT"
+  "word": "RESIST, RESISTANCE, RESISTANT"
 },
 {
   "_id": {
@@ -20014,7 +19903,7 @@
     "https://www.handspeak.com/word/r/res/restless-lay.mp4"
   ],
   "images": [],
-  "word": "Signs for RESTLESS"
+  "word": "RESTLESS"
 },
 {
   "_id": {
@@ -20024,7 +19913,7 @@
     "https://www.handspeak.com/word/i/ins/insomnia.mp4"
   ],
   "images": [],
-  "word": "Signs for INSOMNIA"
+  "word": "INSOMNIA"
 },
 {
   "_id": {
@@ -20035,7 +19924,7 @@
     "https://www.handspeak.com/word/o/obs/obsolete-old.mp4"
   ],
   "images": [],
-  "word": "Signs for OBSOLETE"
+  "word": "OBSOLETE"
 },
 {
   "_id": {
@@ -20045,7 +19934,7 @@
     "https://www.handspeak.com/word/r/ret/return.mp4"
   ],
   "images": [],
-  "word": "Signs for RETURN"
+  "word": "RETURN"
 },
 {
   "_id": {
@@ -20066,7 +19955,7 @@
     "https://www.handspeak.com/word/r/reg/regress-deteriotate.mp4"
   ],
   "images": [],
-  "word": "Signs for REGRESS"
+  "word": "REGRESS"
 },
 {
   "_id": {
@@ -20076,7 +19965,7 @@
     "https://www.handspeak.com/word/r/rev/review.mp4"
   ],
   "images": [],
-  "word": "Signs for REVIEW"
+  "word": "REVIEW"
 },
 {
   "_id": {
@@ -20086,7 +19975,7 @@
     "https://www.handspeak.com/word/b/blo/blood-pressure.mp4"
   ],
   "images": [],
-  "word": "Signs for BLOOD PRESSURE"
+  "word": "BLOOD PRESSURE"
 },
 {
   "_id": {
@@ -20096,7 +19985,7 @@
     "https://www.handspeak.com/word/r/rev/revise.mp4"
   ],
   "images": [],
-  "word": "Signs for REVISE"
+  "word": "REVISE"
 },
 {
   "_id": {
@@ -20106,7 +19995,7 @@
     "https://www.handspeak.com/word/r/rhinoceros.mp4"
   ],
   "images": [],
-  "word": "Signs for RHINOCEROS"
+  "word": "RHINOCEROS"
 },
 {
   "_id": {
@@ -20116,7 +20005,7 @@
     "https://www.handspeak.com/word/r/rhy/rhythm.mp4"
   ],
   "images": [],
-  "word": "Signs for RHYTHM"
+  "word": "RHYTHM"
 },
 {
   "_id": {
@@ -20129,7 +20018,7 @@
     "https://www.handspeak.com/word/t/tur/turn-off-feel.mp4"
   ],
   "images": [],
-  "word": "Signs for TURN OFF"
+  "word": "TURN OFF"
 },
 {
   "_id": {
@@ -20140,7 +20029,7 @@
     "https://www.handspeak.com/word/r/rib/ribbon-award.mp4"
   ],
   "images": [],
-  "word": "Signs for RIBBON"
+  "word": "RIBBON"
 },
 {
   "_id": {
@@ -20164,7 +20053,7 @@
     "https://www.handspeak.com/word/a/aff/affluent.mp4"
   ],
   "images": [],
-  "word": "Signs for AFFLUENT"
+  "word": "AFFLUENT"
 },
 {
   "_id": {
@@ -20174,7 +20063,7 @@
     "https://www.handspeak.com/word/m/mou/mount-geton.mp4"
   ],
   "images": [],
-  "word": "Signs for MOUNT"
+  "word": "MOUNT"
 },
 {
   "_id": {
@@ -20198,7 +20087,7 @@
     "https://www.handspeak.com/word/m/man/maneuver.mp4"
   ],
   "images": [],
-  "word": "Signs for MANEUVER"
+  "word": "MANEUVER"
 },
 {
   "_id": {
@@ -20208,7 +20097,7 @@
     "https://www.handspeak.com/word/r/rig/right-dir.mp4"
   ],
   "images": [],
-  "word": "Signs for RIGHT, RIGHT-SIDED"
+  "word": "RIGHT, RIGHT-SIDED"
 },
 {
   "_id": {
@@ -20230,7 +20119,7 @@
     "https://www.handspeak.com/word/r/rig/right-on-yes.mp4"
   ],
   "images": [],
-  "word": "Signs for RIGHT ON"
+  "word": "RIGHT ON"
 },
 {
   "_id": {
@@ -20272,7 +20161,7 @@
     "https://www.handspeak.com/word/r/rin/ring-jewelry.mp4"
   ],
   "images": [],
-  "word": "Signs for RING (JEWELRY)"
+  "word": "RING (JEWELRY)"
 },
 {
   "_id": {
@@ -20282,7 +20171,7 @@
     "https://www.handspeak.com/word/b/blo/bloodbath.mp4"
   ],
   "images": [],
-  "word": "Signs for BLOODBATH"
+  "word": "BLOODBATH"
 },
 {
   "_id": {
@@ -20292,7 +20181,7 @@
     "https://www.handspeak.com/word/b/blo/bloodline.mp4"
   ],
   "images": [],
-  "word": "Signs for BLOODLINE"
+  "word": "BLOODLINE"
 },
 {
   "_id": {
@@ -20303,7 +20192,7 @@
     "https://www.handspeak.com/word/j/jeo/jeopardy2.mp4"
   ],
   "images": [],
-  "word": "Signs for JEOPARDY"
+  "word": "JEOPARDY"
 },
 {
   "_id": {
@@ -20334,7 +20223,7 @@
     "https://www.handspeak.com/word/r/roc/rock-stone.mp4"
   ],
   "images": [],
-  "word": "Signs for ROCK"
+  "word": "ROCK"
 },
 {
   "_id": {
@@ -20344,7 +20233,7 @@
     "https://www.handspeak.com/word/r/rom/romance.mp4"
   ],
   "images": [],
-  "word": "Signs for ROMANCE"
+  "word": "ROMANCE"
 },
 {
   "_id": {
@@ -20354,7 +20243,7 @@
     "https://www.handspeak.com/word/a/amb/ambulance-siren.mp4"
   ],
   "images": [],
-  "word": "Signs for AMBULANCE SIREN"
+  "word": "AMBULANCE SIREN"
 },
 {
   "_id": {
@@ -20374,7 +20263,7 @@
     "https://www.handspeak.com/word/f/fog/fog-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for FOG"
+  "word": "FOG"
 },
 {
   "_id": {
@@ -20405,7 +20294,7 @@
     "https://www.handspeak.com/word/p/pro/progeny.mp4"
   ],
   "images": [],
-  "word": "Signs for PROGENY"
+  "word": "PROGENY"
 },
 {
   "_id": {
@@ -20416,7 +20305,7 @@
     "https://www.handspeak.com/word/d/dep/dependent2.mp4"
   ],
   "images": [],
-  "word": "Signs for DEPENDENT"
+  "word": "DEPENDENT"
 },
 {
   "_id": {
@@ -20437,7 +20326,7 @@
     "https://www.handspeak.com/word/r/rul/ruling.mp4"
   ],
   "images": [],
-  "word": "Signs for RULING"
+  "word": "RULING"
 },
 {
   "_id": {
@@ -20461,7 +20350,7 @@
     "https://www.handspeak.com/word/r/rum/rumor.mp4"
   ],
   "images": [],
-  "word": "Signs for RUMOR"
+  "word": "RUMOR"
 },
 {
   "_id": {
@@ -20471,7 +20360,7 @@
     "https://www.handspeak.com/word/h/hur/hurtle.mp4"
   ],
   "images": [],
-  "word": "Signs for HURTLE"
+  "word": "HURTLE"
 },
 {
   "_id": {
@@ -20507,7 +20396,7 @@
     "https://www.handspeak.com/word/r/run/run-into.mp4"
   ],
   "images": [],
-  "word": "Signs for RUN INTO"
+  "word": "RUN INTO"
 },
 {
   "_id": {
@@ -20525,7 +20414,7 @@
     "https://www.handspeak.com/word/r/run/run-out.mp4"
   ],
   "images": [],
-  "word": "Signs for RUN OUT"
+  "word": "RUN OUT"
 },
 {
   "_id": {
@@ -20536,7 +20425,7 @@
     "https://www.handspeak.com/word/b/bre/brezhnew-leonid.mp4"
   ],
   "images": [],
-  "word": "Signs for RUSSIAN"
+  "word": "RUSSIAN"
 },
 {
   "_id": {
@@ -20574,7 +20463,7 @@
     "https://www.handspeak.com/word/s/sai/sail-canvas3.mp4"
   ],
   "images": [],
-  "word": "Signs for SAIL"
+  "word": "SAIL"
 },
 {
   "_id": {
@@ -20610,7 +20499,7 @@
     "https://www.handspeak.com/word/s/smu/smurf-screenshot.jpg",
     "https://www.handspeak.com/word/s/smu/smurf-tv.jpg"
   ],
-  "word": "SMURF in Sign Language"
+  "word": "SMURF"
 },
 {
   "_id": {
@@ -20635,7 +20524,7 @@
     "https://www.handspeak.com/word/s/sar/saree.mp4"
   ],
   "images": [],
-  "word": "Signs for SAREE, SARI"
+  "word": "SAREE, SARI"
 },
 {
   "_id": {
@@ -20643,7 +20532,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for INDEBTED, BEHOLDEN"
+  "word": "INDEBTED, BEHOLDEN"
 },
 {
   "_id": {
@@ -20675,7 +20564,7 @@
     "https://www.handspeak.com/word/s/sabbath-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for SABBATH"
+  "word": "SABBATH"
 },
 {
   "_id": {
@@ -20688,7 +20577,7 @@
     "https://www.handspeak.com/word/r/rea/react-say.mp4"
   ],
   "images": [],
-  "word": "Signs for REACT, REACTION"
+  "word": "REACT, REACTION"
 },
 {
   "_id": {
@@ -20710,7 +20599,7 @@
     "https://www.handspeak.com/word/s/saf/safety-box.mp4"
   ],
   "images": [],
-  "word": "Signs for SAFETY BOX"
+  "word": "SAFETY BOX"
 },
 {
   "_id": {
@@ -20721,7 +20610,7 @@
     "https://www.handspeak.com/word/e/ext/extricate-escape.mp4"
   ],
   "images": [],
-  "word": "Signs for EXTRICATE"
+  "word": "EXTRICATE"
 },
 {
   "_id": {
@@ -20731,7 +20620,7 @@
     "https://www.handspeak.com/word/s/say/say.mp4"
   ],
   "images": [],
-  "word": "Signs for SAY"
+  "word": "SAY"
 },
 {
   "_id": {
@@ -20743,7 +20632,7 @@
     "https://www.handspeak.com/word/s/sca/scan-look.mp4"
   ],
   "images": [],
-  "word": "Signs for SCAN"
+  "word": "SCAN"
 },
 {
   "_id": {
@@ -20753,7 +20642,7 @@
     "https://www.handspeak.com/word/s/sca/scandinavian.mp4"
   ],
   "images": [],
-  "word": "Signs for SCANDINAVIA"
+  "word": "SCANDINAVIA"
 },
 {
   "_id": {
@@ -20776,7 +20665,7 @@
     "https://www.handspeak.com/word/t/try/try-square.mp4"
   ],
   "images": [],
-  "word": "Signs for SQUARE MEASURE, TRY SQUARE"
+  "word": "SQUARE MEASURE, TRY SQUARE"
 },
 {
   "_id": {
@@ -20786,7 +20675,7 @@
     "https://www.handspeak.com/word/s/sch/schedule.mp4"
   ],
   "images": [],
-  "word": "Signs for SCHEDULE"
+  "word": "SCHEDULE"
 },
 {
   "_id": {
@@ -20798,7 +20687,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sca/scarce-aslwrite.jpg"
   ],
-  "word": "Signs for SCARCE, SCARCITY"
+  "word": "SCARCE, SCARCITY"
 },
 {
   "_id": {
@@ -20838,7 +20727,7 @@
     "https://www.handspeak.com/word/s/sch/schizophrenic.mp4"
   ],
   "images": [],
-  "word": "Signs for SCHIZOPHRENIC"
+  "word": "SCHIZOPHRENIC"
 },
 {
   "_id": {
@@ -20860,7 +20749,7 @@
     "https://www.handspeak.com/word/s/sci/scientist.mp4"
   ],
   "images": [],
-  "word": "Signs for SCIENTIST"
+  "word": "SCIENTIST"
 },
 {
   "_id": {
@@ -20870,7 +20759,7 @@
     "https://www.handspeak.com/word/s/sci/scissors.mp4"
   ],
   "images": [],
-  "word": "Signs for SCISSORS"
+  "word": "SCISSORS"
 },
 {
   "_id": {
@@ -20891,7 +20780,7 @@
     "https://www.handspeak.com/word/s/sco/scorpion.mp4"
   ],
   "images": [],
-  "word": "Signs for SCORPION"
+  "word": "SCORPION"
 },
 {
   "_id": {
@@ -20913,7 +20802,7 @@
     "https://www.handspeak.com/word/s/sco/scout.mp4"
   ],
   "images": [],
-  "word": "Signs for SCOUT"
+  "word": "SCOUT"
 },
 {
   "_id": {
@@ -20923,7 +20812,7 @@
     "https://www.handspeak.com/word/s/scr/scream.mp4"
   ],
   "images": [],
-  "word": "Signs for SCREAM"
+  "word": "SCREAM"
 },
 {
   "_id": {
@@ -20934,7 +20823,7 @@
     "https://www.handspeak.com/word/p/phe/phelgm.mp4"
   ],
   "images": [],
-  "word": "Signs for MUCUS, PHELGM"
+  "word": "MUCUS, PHELGM"
 },
 {
   "_id": {
@@ -20956,7 +20845,7 @@
     "https://www.handspeak.com/word/s/scu/sculpt.mp4"
   ],
   "images": [],
-  "word": "Signs for SCULPT"
+  "word": "SCULPT"
 },
 {
   "_id": {
@@ -20966,7 +20855,7 @@
     "https://www.handspeak.com/word/t/thr/throw-together.mp4"
   ],
   "images": [],
-  "word": "Signs for THROW TOGETHER"
+  "word": "THROW TOGETHER"
 },
 {
   "_id": {
@@ -20976,7 +20865,7 @@
     "https://www.handspeak.com/word/s/se-me-two.mp4"
   ],
   "images": [],
-  "word": "Signs for SE-AND-ME"
+  "word": "SE-AND-ME"
 },
 {
   "_id": {
@@ -20986,7 +20875,7 @@
     "https://www.handspeak.com/word/s/sea/search-engine.mp4"
   ],
   "images": [],
-  "word": "Signs for SEARCH ENGINE"
+  "word": "SEARCH ENGINE"
 },
 {
   "_id": {
@@ -20996,7 +20885,7 @@
     "https://www.handspeak.com/word/s/sec/second-time.mp4"
   ],
   "images": [],
-  "word": "Signs for SECOND, SEC (TIME)"
+  "word": "SECOND, SEC (TIME)"
 },
 {
   "_id": {
@@ -21007,7 +20896,7 @@
     "https://www.handspeak.com/word/t/two/two-of-three.mp4"
   ],
   "images": [],
-  "word": "Signs for SECONDLY"
+  "word": "SECONDLY"
 },
 {
   "_id": {
@@ -21030,7 +20919,7 @@
     "https://www.handspeak.com/word/f/fur/furtive.mp4"
   ],
   "images": [],
-  "word": "Signs for FURTIVE"
+  "word": "FURTIVE"
 },
 {
   "_id": {
@@ -21073,7 +20962,7 @@
     "https://www.handspeak.com/word/t/tat/tattle.mp4"
   ],
   "images": [],
-  "word": "Signs for TATTLE"
+  "word": "TATTLE"
 },
 {
   "_id": {
@@ -21083,7 +20972,7 @@
     "https://www.handspeak.com/word/s/sel/self-control.mp4"
   ],
   "images": [],
-  "word": "Signs for SELF-CONTROL"
+  "word": "SELF-CONTROL"
 },
 {
   "_id": {
@@ -21094,7 +20983,7 @@
     "https://www.handspeak.com/word/m/mis/miser2.mp4"
   ],
   "images": [],
-  "word": "Signs for MISERLY"
+  "word": "MISERLY"
 },
 {
   "_id": {
@@ -21115,7 +21004,7 @@
     "https://www.handspeak.com/word/v/ven/vend.mp4"
   ],
   "images": [],
-  "word": "Signs for VEND"
+  "word": "VEND"
 },
 {
   "_id": {
@@ -21125,7 +21014,7 @@
     "https://www.handspeak.com/word/d/dis/dispatch.mp4"
   ],
   "images": [],
-  "word": "Signs for DISPATCH"
+  "word": "DISPATCH"
 },
 {
   "_id": {
@@ -21135,7 +21024,7 @@
     "https://www.handspeak.com/word/s/sen/senior-college.mp4"
   ],
   "images": [],
-  "word": "Signs for SENIOR"
+  "word": "SENIOR"
 },
 {
   "_id": {
@@ -21146,7 +21035,7 @@
     "https://www.handspeak.com/word/p/pro/pros.mp4"
   ],
   "images": [],
-  "word": "Signs for PROS AND CONS"
+  "word": "PROS AND CONS"
 },
 {
   "_id": {
@@ -21157,7 +21046,7 @@
     "https://www.handspeak.com/word/s/sen/sensitive-very.mp4"
   ],
   "images": [],
-  "word": "Signs for SENSITIVE"
+  "word": "SENSITIVE"
 },
 {
   "_id": {
@@ -21224,7 +21113,7 @@
   "images": [
     "https://www.handspeak.com/word/s/ser/service-aslwrite.jpg"
   ],
-  "word": "Signs for SERVICE"
+  "word": "SERVICE"
 },
 {
   "_id": {
@@ -21236,7 +21125,7 @@
   "images": [
     "https://www.handspeak.com/word/s/set/settle-down-aslwrite.jpg"
   ],
-  "word": "Signs for SETTLE"
+  "word": "SETTLE"
 },
 {
   "_id": {
@@ -21258,7 +21147,7 @@
     "https://www.handspeak.com/word/s/sex/sexy.mp4"
   ],
   "images": [],
-  "word": "Signs for SEXY"
+  "word": "SEXY"
 },
 {
   "_id": {
@@ -21280,7 +21169,7 @@
     "https://www.handspeak.com/word/s/sha/shampoo.mp4"
   ],
   "images": [],
-  "word": "Signs for SHAMPOO"
+  "word": "SHAMPOO"
 },
 {
   "_id": {
@@ -21290,7 +21179,7 @@
     "https://www.handspeak.com/word/s/sil/silhoutte.mp4"
   ],
   "images": [],
-  "word": "Signs for SILHOUTTE"
+  "word": "SILHOUTTE"
 },
 {
   "_id": {
@@ -21302,7 +21191,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sha/share-aslwrite.png"
   ],
-  "word": "Signs for SHARE"
+  "word": "SHARE"
 },
 {
   "_id": {
@@ -21335,7 +21224,7 @@
     "https://www.handspeak.com/word/s/she/shear-sheep.mp4"
   ],
   "images": [],
-  "word": "Signs for SHEAR"
+  "word": "SHEAR"
 },
 {
   "_id": {
@@ -21355,7 +21244,7 @@
     "https://www.handspeak.com/word/m/man/mantelpiece.mp4"
   ],
   "images": [],
-  "word": "Signs for MANTEL"
+  "word": "MANTEL"
 },
 {
   "_id": {
@@ -21395,7 +21284,7 @@
     "https://www.handspeak.com/word/c/can/candy-cane.mp4"
   ],
   "images": [],
-  "word": "Signs for CANDY CANE"
+  "word": "CANDY CANE"
 },
 {
   "_id": {
@@ -21419,7 +21308,7 @@
     "https://www.handspeak.com/word/u/uns/unsettled-flip.mp4"
   ],
   "images": [],
-  "word": "Signs for UNSETTLED"
+  "word": "UNSETTLED"
 },
 {
   "_id": {
@@ -21429,7 +21318,7 @@
     "https://www.handspeak.com/word/s/sta/startled.mp4"
   ],
   "images": [],
-  "word": "Signs for STARTLED"
+  "word": "STARTLED"
 },
 {
   "_id": {
@@ -21466,7 +21355,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sho/shopping-aslwrite.jpg"
   ],
-  "word": "Signs for SHOPPING"
+  "word": "SHOPPING"
 },
 {
   "_id": {
@@ -21493,7 +21382,7 @@
     "https://www.handspeak.com/word/s/sni/snipe.mp4"
   ],
   "images": [],
-  "word": "Signs for SNIPE"
+  "word": "SNIPE"
 },
 {
   "_id": {
@@ -21525,7 +21414,7 @@
     "https://www.handspeak.com/word/s/sho/shout.mp4"
   ],
   "images": [],
-  "word": "Signs for SHOUT"
+  "word": "SHOUT"
 },
 {
   "_id": {
@@ -21549,7 +21438,7 @@
     "https://www.handspeak.com/word/s/sho/show-off.mp4"
   ],
   "images": [],
-  "word": "Signs for SHOW OFF"
+  "word": "SHOW OFF"
 },
 {
   "_id": {
@@ -21559,7 +21448,7 @@
     "https://www.handspeak.com/word/s/shu/shut-up.mp4"
   ],
   "images": [],
-  "word": "Signs for SHUT UP"
+  "word": "SHUT UP"
 },
 {
   "_id": {
@@ -21570,7 +21459,7 @@
     "https://www.handspeak.com/word/p/pro/pros.mp4"
   ],
   "images": [],
-  "word": "Signs for PRO"
+  "word": "PRO"
 },
 {
   "_id": {
@@ -21603,7 +21492,7 @@
     "https://www.handspeak.com/word/s/sic/sick-of.mp4"
   ],
   "images": [],
-  "word": "Signs for SICK OF"
+  "word": "SICK OF"
 },
 {
   "_id": {
@@ -21617,7 +21506,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sid/side-aslwrite.jpg"
   ],
-  "word": "Signs for SIDE"
+  "word": "SIDE"
 },
 {
   "_id": {
@@ -21627,7 +21516,7 @@
     "https://www.handspeak.com/word/s/sid/sidewalk.mp4"
   ],
   "images": [],
-  "word": "Signs for SIDEWALK"
+  "word": "SIDEWALK"
 },
 {
   "_id": {
@@ -21635,7 +21524,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for ONSIDE"
+  "word": "ONSIDE"
 },
 {
   "_id": {
@@ -21646,7 +21535,7 @@
     "https://www.handspeak.com/word/s/sig/sign-board.mp4"
   ],
   "images": [],
-  "word": "Signs for SIGN, SIGNPOST"
+  "word": "SIGN, SIGNPOST"
 },
 {
   "_id": {
@@ -21669,7 +21558,7 @@
     "https://www.handspeak.com/word/s/sig/signature.mp4"
   ],
   "images": [],
-  "word": "Signs for SIGN, SIGNATURE"
+  "word": "SIGN, SIGNATURE"
 },
 {
   "_id": {
@@ -21713,7 +21602,7 @@
     "https://www.handspeak.com/word/s/sim/simple-minded.mp4"
   ],
   "images": [],
-  "word": "Signs for SIMPLE-MINDED"
+  "word": "SIMPLE-MINDED"
 },
 {
   "_id": {
@@ -21734,7 +21623,7 @@
     "https://www.handspeak.com/word/s/sin/sin.mp4"
   ],
   "images": [],
-  "word": "Signs for SIN"
+  "word": "SIN"
 },
 {
   "_id": {
@@ -21769,7 +21658,7 @@
     "https://www.handspeak.com/word/u/unm/unmarried2.mp4"
   ],
   "images": [],
-  "word": "Signs for UNMARRIED, UNWED"
+  "word": "UNMARRIED, UNWED"
 },
 {
   "_id": {
@@ -21779,7 +21668,7 @@
     "https://www.handspeak.com/word/s/sir/siren.mp4"
   ],
   "images": [],
-  "word": "Signs for SIREN"
+  "word": "SIREN"
 },
 {
   "_id": {
@@ -21827,7 +21716,7 @@
     "https://www.handspeak.com/word/c/cle/clerk-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for CLERK"
+  "word": "CLERK"
 },
 {
   "_id": {
@@ -21837,7 +21726,7 @@
     "https://www.handspeak.com/word/j/jet/jet-ski.mp4"
   ],
   "images": [],
-  "word": "Signs for JET SKI, SEADOO, WATER SCOOTER"
+  "word": "JET SKI, SEADOO, WATER SCOOTER"
 },
 {
   "_id": {
@@ -21864,7 +21753,7 @@
   "images": [
     "https://www.handspeak.com/word/s/ski/skip-miss-aslwrite.jpg"
   ],
-  "word": "Signs for SKIP"
+  "word": "SKIP"
 },
 {
   "_id": {
@@ -21896,7 +21785,7 @@
     "https://www.handspeak.com/word/s/sho/shop.mp4"
   ],
   "images": [],
-  "word": "Signs for SHOP"
+  "word": "SHOP"
 },
 {
   "_id": {
@@ -21909,7 +21798,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sle/sleepy-aslwrite.jpg"
   ],
-  "word": "Signs for SLEEPY"
+  "word": "SLEEPY"
 },
 {
   "_id": {
@@ -21919,7 +21808,7 @@
     "https://www.handspeak.com/word/s/sle/sleep-in.mp4"
   ],
   "images": [],
-  "word": "Signs for SLEEP IN"
+  "word": "SLEEP IN"
 },
 {
   "_id": {
@@ -21929,7 +21818,7 @@
     "https://www.handspeak.com/word/f/fal/fall-asleep.mp4"
   ],
   "images": [],
-  "word": "Signs for DORMANT"
+  "word": "DORMANT"
 },
 {
   "_id": {
@@ -21939,7 +21828,7 @@
     "https://www.handspeak.com/word/s/sle/sleigh.mp4"
   ],
   "images": [],
-  "word": "Signs for SLEIGH"
+  "word": "SLEIGH"
 },
 {
   "_id": {
@@ -21949,7 +21838,7 @@
     "https://www.handspeak.com/word/s/slo/slopitch.mp4"
   ],
   "images": [],
-  "word": "Signs for SLOPITCH"
+  "word": "SLOPITCH"
 },
 {
   "_id": {
@@ -21973,7 +21862,7 @@
     "https://www.handspeak.com/word/p/poc/pocket-sized.mp4"
   ],
   "images": [],
-  "word": "Signs for POCKET-SIZED, POCKETABLE"
+  "word": "POCKET-SIZED, POCKETABLE"
 },
 {
   "_id": {
@@ -21993,7 +21882,7 @@
     "https://www.handspeak.com/word/s/sne/sneaky.mp4"
   ],
   "images": [],
-  "word": "Signs for SNEAKY"
+  "word": "SNEAKY"
 },
 {
   "_id": {
@@ -22044,7 +21933,7 @@
     "https://www.handspeak.com/word/s/smi/smirk.mp4"
   ],
   "images": [],
-  "word": "Signs for SMIRK"
+  "word": "SMIRK"
 },
 {
   "_id": {
@@ -22076,7 +21965,7 @@
     "https://www.handspeak.com/word/s/sno/snob.mp4"
   ],
   "images": [],
-  "word": "Signs for SNOBBISH, SNOBBY"
+  "word": "SNOBBISH, SNOBBY"
 },
 {
   "_id": {
@@ -22113,7 +22002,7 @@
     "https://www.handspeak.com/word/s/sni/sniffle.mp4"
   ],
   "images": [],
-  "word": "Signs for SNIFFLE"
+  "word": "SNIFFLE"
 },
 {
   "_id": {
@@ -22123,7 +22012,7 @@
     "https://www.handspeak.com/word/c/cons/cons.mp4"
   ],
   "images": [],
-  "word": "Signs for CONS"
+  "word": "CONS"
 },
 {
   "_id": {
@@ -22135,7 +22024,7 @@
     "https://www.handspeak.com/word/p/pap/papertowel-hand.mp4"
   ],
   "images": [],
-  "word": "Signs for PAPER TOWEL"
+  "word": "PAPER TOWEL"
 },
 {
   "_id": {
@@ -22158,7 +22047,7 @@
     "https://www.handspeak.com/word/s/sur/sure-thing-go.mp4"
   ],
   "images": [],
-  "word": "Signs for SURE THING, NO PROBLEM"
+  "word": "SURE THING, NO PROBLEM"
 },
 {
   "_id": {
@@ -22169,7 +22058,7 @@
     "https://www.handspeak.com/word/s/so-conj.mp4"
   ],
   "images": [],
-  "word": "Signs for SO"
+  "word": "SO"
 },
 {
   "_id": {
@@ -22180,7 +22069,7 @@
     "https://www.handspeak.com/word/s/sob/sober-drink.mp4"
   ],
   "images": [],
-  "word": "Signs for SOBER"
+  "word": "SOBER"
 },
 {
   "_id": {
@@ -22190,7 +22079,7 @@
     "https://www.handspeak.com/word/s/soc/soccer.mp4"
   ],
   "images": [],
-  "word": "Signs for SOCCER"
+  "word": "SOCCER"
 },
 {
   "_id": {
@@ -22200,7 +22089,7 @@
     "https://www.handspeak.com/word/s/soc/society.mp4"
   ],
   "images": [],
-  "word": "Signs for SOCIETY"
+  "word": "SOCIETY"
 },
 {
   "_id": {
@@ -22211,7 +22100,7 @@
     "https://www.handspeak.com/word/s/soc/socialize2.mp4"
   ],
   "images": [],
-  "word": "Signs for SOCIALIZE"
+  "word": "SOCIALIZE"
 },
 {
   "_id": {
@@ -22221,7 +22110,7 @@
     "https://www.handspeak.com/word/s/soc/social-justice.mp4"
   ],
   "images": [],
-  "word": "Signs for SOCIAL JUSTICE"
+  "word": "SOCIAL JUSTICE"
 },
 {
   "_id": {
@@ -22231,7 +22120,7 @@
     "https://www.handspeak.com/word/s/soc/socialization.mp4"
   ],
   "images": [],
-  "word": "Signs for SOCIALIZATION"
+  "word": "SOCIALIZATION"
 },
 {
   "_id": {
@@ -22253,7 +22142,7 @@
     "https://www.handspeak.com/word/s/sol/solve.mp4"
   ],
   "images": [],
-  "word": "Signs for SOLVE, SOLUTION"
+  "word": "SOLVE, SOLUTION"
 },
 {
   "_id": {
@@ -22306,7 +22195,7 @@
     "https://www.handspeak.com/word/s/sop/sophisticated.mp4"
   ],
   "images": [],
-  "word": "Signs for SOPHISTICATED"
+  "word": "SOPHISTICATED"
 },
 {
   "_id": {
@@ -22331,7 +22220,7 @@
     "https://www.handspeak.com/word/s/sop/sophomore.mp4"
   ],
   "images": [],
-  "word": "Signs for SOPHOMORE"
+  "word": "SOPHOMORE"
 },
 {
   "_id": {
@@ -22344,7 +22233,7 @@
     "https://www.handspeak.com/word/s/sor/sorry.jpg",
     "https://www.handspeak.com/word/s/sor/sorry-aslwrite.jpg"
   ],
-  "word": "SORRY in Sign Language"
+  "word": "SORRY"
 },
 {
   "_id": {
@@ -22352,7 +22241,7 @@
   },
   "videos": [],
   "images": [],
-  "word": "Signs for PENINENT"
+  "word": "PENINENT"
 },
 {
   "_id": {
@@ -22362,7 +22251,7 @@
     "https://www.handspeak.com/word/p/pret/pretoria-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for PRETORIA, SOUTH AFRICA"
+  "word": "PRETORIA, SOUTH AFRICA"
 },
 {
   "_id": {
@@ -22387,7 +22276,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sor/sortof-fair-aslwrite.jpg"
   ],
-  "word": "Signs for SORT"
+  "word": "SORT"
 },
 {
   "_id": {
@@ -22398,7 +22287,7 @@
     "https://www.handspeak.com/word/s/sou/soul-spirit.mp4"
   ],
   "images": [],
-  "word": "Signs for SOUL"
+  "word": "SOUL"
 },
 {
   "_id": {
@@ -22423,7 +22312,7 @@
     "https://www.handspeak.com/word/s/spe/speech-oral.mp4"
   ],
   "images": [],
-  "word": "Signs for SPEECH"
+  "word": "SPEECH"
 },
 {
   "_id": {
@@ -22453,7 +22342,7 @@
     "https://www.handspeak.com/word/u/uruguay.mp4"
   ],
   "images": [],
-  "word": "Signs for URUGUAY"
+  "word": "URUGUAY"
 },
 {
   "_id": {
@@ -22463,7 +22352,7 @@
     "https://www.handspeak.com/word/s/spa/spaghetti.mp4"
   ],
   "images": [],
-  "word": "Signs for SPAGHETTI"
+  "word": "SPAGHETTI"
 },
 {
   "_id": {
@@ -22473,7 +22362,7 @@
     "https://www.handspeak.com/word/s/spa/spanish.mp4"
   ],
   "images": [],
-  "word": "Signs for SPANISH"
+  "word": "SPANISH"
 },
 {
   "_id": {
@@ -22489,7 +22378,7 @@
     "https://www.handspeak.com/word/s/spe/speak-manual.jpg",
     "https://www.handspeak.com/word/s/spe/speak-vocal.jpg"
   ],
-  "word": "Signs for SPEAK"
+  "word": "SPEAK"
 },
 {
   "_id": {
@@ -22501,7 +22390,7 @@
   "images": [
     "https://www.handspeak.com/word/s/spe/special-aslwrite.jpg"
   ],
-  "word": "Signs for SPECIAL"
+  "word": "SPECIAL"
 },
 {
   "_id": {
@@ -22511,7 +22400,7 @@
     "https://www.handspeak.com/word/s/spe/specific.mp4"
   ],
   "images": [],
-  "word": "Signs for SPECIFIC"
+  "word": "SPECIFIC"
 },
 {
   "_id": {
@@ -22521,7 +22410,7 @@
     "https://www.handspeak.com/word/p/pro/proximity.mp4"
   ],
   "images": [],
-  "word": "Signs for PROXIMITY"
+  "word": "PROXIMITY"
 },
 {
   "_id": {
@@ -22534,7 +22423,7 @@
     "https://www.handspeak.com/word/a/aud/auditory-processing-disorder.mp4"
   ],
   "images": [],
-  "word": "DISORDER sign language"
+  "word": "DISORDER"
 },
 {
   "_id": {
@@ -22544,7 +22433,7 @@
     "https://www.handspeak.com/word/k/key/keynote-speech.mp4"
   ],
   "images": [],
-  "word": "Signs for KEYNOTE"
+  "word": "KEYNOTE"
 },
 {
   "_id": {
@@ -22557,7 +22446,7 @@
   "images": [
     "https://www.handspeak.com/word/s/spe/speed-aslwrite.jpg"
   ],
-  "word": "Signs for SPEED"
+  "word": "SPEED"
 },
 {
   "_id": {
@@ -22567,7 +22456,7 @@
     "https://www.handspeak.com/word/s/spe/spell-magic.mp4"
   ],
   "images": [],
-  "word": "Signs for MAGIC SPELL"
+  "word": "MAGIC SPELL"
 },
 {
   "_id": {
@@ -22592,7 +22481,7 @@
   "images": [
     "https://www.handspeak.com/word/t/top/top-aslwrite.jpg"
   ],
-  "word": "Signs for TOP"
+  "word": "TOP"
 },
 {
   "_id": {
@@ -22602,7 +22491,7 @@
     "https://www.handspeak.com/word/s/spo/spoil-ruin.mp4"
   ],
   "images": [],
-  "word": "Signs for SPOIL, SPOILED"
+  "word": "SPOIL, SPOILED"
 },
 {
   "_id": {
@@ -22612,7 +22501,7 @@
   "images": [
     "https://www.handspeak.com/word/s/spo/spoiled-aslwrite.jpg"
   ],
-  "word": "Signs for CRADLE"
+  "word": "CRADLE"
 },
 {
   "_id": {
@@ -22667,7 +22556,7 @@
     "https://www.handspeak.com/word/s/spr/sprint.mp4"
   ],
   "images": [],
-  "word": "Signs for SPRINT"
+  "word": "SPRINT"
 },
 {
   "_id": {
@@ -22678,7 +22567,7 @@
     "https://www.handspeak.com/word/s/spy/spy-fs.mp4"
   ],
   "images": [],
-  "word": "Signs for SPY"
+  "word": "SPY"
 },
 {
   "_id": {
@@ -22689,7 +22578,7 @@
     "https://www.handspeak.com/word/s/squ/square.mp4"
   ],
   "images": [],
-  "word": "Signs for SQUARE"
+  "word": "SQUARE"
 },
 {
   "_id": {
@@ -22699,7 +22588,7 @@
     "https://www.handspeak.com/word/c/cli/click-rate.mp4"
   ],
   "images": [],
-  "word": "Signs for CLICK RATE"
+  "word": "CLICK RATE"
 },
 {
   "_id": {
@@ -22709,7 +22598,7 @@
     "https://www.handspeak.com/word/s/sta/stairs.mp4"
   ],
   "images": [],
-  "word": "Signs for STAIRS, STAIRCASE, STAIRWAY"
+  "word": "STAIRS, STAIRCASE, STAIRWAY"
 },
 {
   "_id": {
@@ -22720,7 +22609,7 @@
     "https://www.handspeak.com/word/s/sta/stamp-foot.mp4"
   ],
   "images": [],
-  "word": "Signs for STAMP"
+  "word": "STAMP"
 },
 {
   "_id": {
@@ -22754,7 +22643,7 @@
     "https://www.handspeak.com/word/e/enl/enlarge.mp4"
   ],
   "images": [],
-  "word": "Signs for ENLARGE"
+  "word": "ENLARGE"
 },
 {
   "_id": {
@@ -22764,7 +22653,7 @@
     "https://www.handspeak.com/word/s/sta/stapler.mp4"
   ],
   "images": [],
-  "word": "Signs for STAPLER"
+  "word": "STAPLER"
 },
 {
   "_id": {
@@ -22788,7 +22677,7 @@
     "https://www.handspeak.com/word/c/cos/cosmos.mp4"
   ],
   "images": [],
-  "word": "Signs for COSMOS, COSMIC"
+  "word": "COSMOS, COSMIC"
 },
 {
   "_id": {
@@ -22828,7 +22717,7 @@
     "https://www.handspeak.com/word/s/sta/start-gun2.mp4"
   ],
   "images": [],
-  "word": "Signs for STARTER PISTOL, SIGNAL GUN"
+  "word": "STARTER PISTOL, SIGNAL GUN"
 },
 {
   "_id": {
@@ -22851,7 +22740,7 @@
     "https://www.handspeak.com/word/s/ste/steady-relationship.mp4"
   ],
   "images": [],
-  "word": "Signs for STEADY, UNFLUCTUATING"
+  "word": "STEADY, UNFLUCTUATING"
 },
 {
   "_id": {
@@ -22861,7 +22750,7 @@
     "https://www.handspeak.com/word/l/loo/loot.mp4"
   ],
   "images": [],
-  "word": "Signs for LOOT"
+  "word": "LOOT"
 },
 {
   "_id": {
@@ -22871,7 +22760,7 @@
     "https://www.handspeak.com/word/s/ste/step.mp4"
   ],
   "images": [],
-  "word": "Signs for STEP"
+  "word": "STEP"
 },
 {
   "_id": {
@@ -22882,7 +22771,7 @@
     "https://www.handspeak.com/word/t/tap/tape-supply2.mp4"
   ],
   "images": [],
-  "word": "Signs for TAPE"
+  "word": "TAPE"
 },
 {
   "_id": {
@@ -22908,7 +22797,7 @@
     ""
   ],
   "images": [],
-  "word": "Signs for STONED"
+  "word": "STONED"
 },
 {
   "_id": {
@@ -22918,7 +22807,7 @@
     "https://www.handspeak.com/word/s/sto/stone-rock.mp4"
   ],
   "images": [],
-  "word": "Signs for STONE"
+  "word": "STONE"
 },
 {
   "_id": {
@@ -22943,7 +22832,7 @@
   "images": [
     "https://www.handspeak.com/word/s/sto/store-aslwrite.jpg"
   ],
-  "word": "Signs for STORE"
+  "word": "STORE"
 },
 {
   "_id": {
@@ -22968,7 +22857,7 @@
     "https://www.handspeak.com/word/s/sto/storyboard2.mp4"
   ],
   "images": [],
-  "word": "Signs for STORYBOARD"
+  "word": "STORYBOARD"
 },
 {
   "_id": {
@@ -22995,7 +22884,7 @@
     "https://www.handspeak.com/word/s/str/straightforward.mp4"
   ],
   "images": [],
-  "word": "Signs for STRAIGHTFORWARD"
+  "word": "STRAIGHTFORWARD"
 },
 {
   "_id": {
@@ -23018,7 +22907,7 @@
     "https://www.handspeak.com/word/s/spa/sparse.mp4"
   ],
   "images": [],
-  "word": "Signs for SPARSE"
+  "word": "SPARSE"
 },
 {
   "_id": {
@@ -23028,7 +22917,7 @@
     "https://www.handspeak.com/word/s/str/straw-sip.mp4"
   ],
   "images": [],
-  "word": "Signs for STRAW"
+  "word": "STRAW"
 },
 {
   "_id": {
@@ -23060,7 +22949,7 @@
     "https://www.handspeak.com/word/s/str/streamline-swim.mp4"
   ],
   "images": [],
-  "word": "Signs for STREAMLINE"
+  "word": "STREAMLINE"
 },
 {
   "_id": {
@@ -23090,7 +22979,7 @@
     "https://www.handspeak.com/word/s/str/stressed-out.mp4"
   ],
   "images": [],
-  "word": "Signs for STRESSFUL"
+  "word": "STRESSFUL"
 },
 {
   "_id": {
@@ -23100,7 +22989,7 @@
     "https://www.handspeak.com/word/s/str/stress.mp4"
   ],
   "images": [],
-  "word": "Signs for STRESS"
+  "word": "STRESS"
 },
 {
   "_id": {
@@ -23122,7 +23011,7 @@
     "https://www.handspeak.com/word/r/rob/robust.mp4"
   ],
   "images": [],
-  "word": "Signs for ROBUST"
+  "word": "ROBUST"
 },
 {
   "_id": {
@@ -23170,7 +23059,7 @@
     "https://www.handspeak.com/word/t/ten/tend2.mp4"
   ],
   "images": [],
-  "word": "Signs for TENDENCY"
+  "word": "TENDENCY"
 },
 {
   "_id": {
@@ -23180,5 +23069,5 @@
     "https://www.handspeak.com/word/s/stu/stuck.mp4"
   ],
   "images": [],
-  "word": "Signs for STUCK"
+  "word": "STUCK"
 }]

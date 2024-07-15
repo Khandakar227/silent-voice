@@ -1,14 +1,16 @@
-import { Button } from "@/components/ui/button"
+import Navbar from "@/components/Navbar";
+import Head from "next/head";
+
 
 export default function Home() {
   return (
-    <div className='text-4xl text-center p-10 max-w-7xl mx-auto'>
-      <h1 className='text-rose-600'>Goodbye App Router</h1>
+    <>
+      <Head>
+        <title>Silent Voice</title>
+      </Head>
       <div>
-        <Button variant='outline' size='sm'>
-          F Off
-        </Button>
+        <Navbar/>
       </div>
-    </div>
+    </>
   )
 }
