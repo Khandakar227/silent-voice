@@ -25,9 +25,9 @@ export default async function handler(
         const admin = await getAdminByEmail(email);
         console.log('Admin fetch result:', admin);
 
-        if (!admin) {
-            return res.status(404).json({ error: 'Admin not found' });
-        }
+        // if (!admin) {
+        //     return res.status(404).json({ error: 'Admin not found' });
+        // }
 
         res.status(200).json({ message: 'Logged in successfully' });
     } catch (error) {
