@@ -7,7 +7,7 @@ export const getWordStartingWith = async (prefix:string, page=1, limit=20) => {
     // Calculate the number of items to skip
     const skip = (page - 1) * limit;
     const query = { word: { $regex: `^${prefix}`, $options: 'i' } };
-    const signs = await Sign.find(query).skip(skip).limit(limit).sort({ word: 1 });
+    const signs = await Sign.find(query).skip(skip).limit(limit).sort({ word: 1 }).select('word');;
     const totalItems = await Sign.countDocuments(query);
 
     return {
