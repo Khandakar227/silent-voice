@@ -1,17 +1,17 @@
-import mongoose, { model, Model, models, Schema } from 'mongoose';
+import mongoose, { Document, model, Model, models, Schema } from 'mongoose';
 
-export interface ISign {
+export interface ISign extends Document {
     word: string,
     videos: string[],
     images: string[],
 }
 
-export const SignSchema: Schema = new Schema({
+export const signSchema: Schema = new Schema({
     word: { type: String, required: true, index: true, unique: true },
-    videos: [{ type: String, required: true }],
-    images: [{ type: String, required: true }],
+    videos: [{ type: String }],
+    images: [{ type: String }],
 });
 
-const Sign = models.Sign || model("sign", SignSchema);
+const Sign = models.sign ?? model("sign", signSchema);
 
 export default Sign;

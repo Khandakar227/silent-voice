@@ -5,6 +5,7 @@ import Head from "next/head"
 import { useEffect, useRef, useState } from "react";
 import { FaVideo, FaVideoSlash } from "react-icons/fa";
 import { io, Socket } from "socket.io-client";
+import { MdClose } from "react-icons/md";
 
 
 const poppins = Poppins({ weight: ['400', '600', '800'], subsets: ['latin'] })
@@ -15,13 +16,12 @@ function SignDetection() {
     const [mediaStream, setMediaStream] = useState(null as MediaStream | null);
     const [interval, _setInterval] = useState(null as NodeJS.Timeout | null);
     const [enableCam, setEnableCam] = useState(false);
+    const [words, setWords] = useState([] as string[]);
     const [socket, setSocket] = useState({} as Socket);
 
 
     useEffect(() => {
-        const s = io(modelServerUrl, {
-            autoConnect: false
-        });
+        const s = io(modelServerUrl);
         s.on('connect', onSocketConnect);
         s.on('word', onWordRecieved);
         s.on('disconnect', onSocketDisconnect);
@@ -88,7 +88,7 @@ function SignDetection() {
     }
 
     function processVideo() {
-        const frameRate = 20;
+        const frameRate = 2;
         const captureFrame = () => {
             const video = videoRef.current;
             if (!video) return;
@@ -101,12 +101,10 @@ function SignDetection() {
                 context.drawImage(video, 0, 0, canvas.width, canvas.height);
                 const dataURL = canvas.toDataURL('image/jpeg');
                 const base64Data = dataURL.split(',')[1];
-                console.log("Captured frame:", base64Data.substring(0, 30) + "...");
                 socket.emit('frame', base64Data);
             }
-            _setInterval(setInterval(captureFrame, 1000 / frameRate));
         };
-        captureFrame();
+        _setInterval(setInterval(captureFrame, 1000 / frameRate));
     }
 
 
@@ -117,14 +115,21 @@ function SignDetection() {
         console.log('Socket Disconnected');
     }
 
-    function onWordRecieved(word: string) {
-        console.log('Word Recieved:', word);
+    function onWordRecieved(data: {word:string}) {
+        console.log('Word Recieved:', data.word);
+        setWords(w => {
+            if(!data.word || w[w.length-1] == data.word) return w
+            else return [...w, data.word];
+        });
     }
 
     function onFrameRecieved(data: string) {
         const img = imgRef.current;
         if (!img) return;
         img.src = 'data:image/jpeg;base64,' + data;
+    }
+    function clearWords() {
+        setWords([]);
     }
     return (
         <>
@@ -137,19 +142,38 @@ function SignDetection() {
                     <h1 className="text-3xl text-center font-bold">Realtime ASL(American Sign Language) Detection</h1>
                     <p className="pt-6 text-lg text-center">Detect signs from camera feed realtime. Use the power of our custom tailored AI to recognize sign language gestures and convert them into text.</p>
                 </div>
-                <div className="p-4 py-12 grid md:grid-cols-2 gap-4">
-                    <div className="relative">
-                        <video ref={videoRef} width={640} height={480} autoPlay className="aspect-[1.6] bg-black rounded-lg w-full"></video>
+                {
+                    enableCam && (
+                    <div className="py-2 max-w-7xl mx-auto px-4">
+                        <div className="p-1 rounded shadow border px-4 min-h-8">
+                        {
+                            words.length == 0 && <span className="text-gray-400">No signs detected</span>
+                        }
+                        {
+                            words.map((word, i) => (
+                                <span key={`${word} ${i}`} className="rounded-full m-2"> {word} </span>
+                            ))
+                        }
+                        </div>
+                        {
+                            words.length ? <button onClick={clearWords} className="px-2 py-1 bg-primary text-sm my-4 rounded">Clear</button>: ""
+                        }
+                    </div>
+                    )
+                }
+                <div className={`p-4 py-6 ${enableCam ? 'grid md:grid-cols-2' : ''} gap-4 justify-center items-center`}>
+                    <div className="relative max-w-xl mx-auto">
+                        <video ref={videoRef} width={640} height={480} autoPlay className="aspect-[1.6] max-w-xl mx-auto bg-black rounded-lg w-full"></video>
                         {
                             enableCam ?
-                                <button onClick={stopCam} className="bg-blue-500 shadow text-white absolute bottom-1 left-1/2 p-2 rounded-full"><FaVideoSlash size={25} /></button>
+                                <button onClick={stopCam} className="bg-blue-500 shadow text-white absolute bottom-2 left-1/2 p-2 rounded-full"><FaVideoSlash size={22} /></button>
                                 :
-                                <button onClick={startCam} className="bg-blue-500 shadow text-white absolute bottom-1 left-1/2 p-2 rounded-full"><FaVideo size={25} /></button>
+                                <button onClick={startCam} className="bg-blue-500 shadow text-white absolute bottom-2 left-1/2 p-2 rounded-full"><FaVideo size={22} /></button>
                         }
                     </div>
                     {
                         enableCam && (
-                            <img ref={imgRef} width={640} height={480} className="aspect-[1.6] bg-black rounded-lg w-full" />
+                            <img ref={imgRef} width={640} height={480} className="aspect-[1.6] max-w-xl mx-auto bg-black rounded-lg w-full" />
                         )
                     }
                 </div>

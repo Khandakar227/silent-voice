@@ -1,1 +1,1 @@
-export const modelServerUrl = 'http://0.0.0.0:8000';
+export const modelServerUrl = 'http://localhost:8000';

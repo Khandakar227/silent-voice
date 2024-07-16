@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Head from "next/head";
 import { Poppins } from "next/font/google";
+import Link from "next/link";
 
 const poppins = Poppins({ weight: ['400', '600', '800'], subsets: ['latin'] })
 
@@ -18,7 +19,7 @@ export default function Home() {
             <h2 className="text-2xl pt-2">Learn to Communicate with Your Hands</h2>
             <p className="pt-6 text-lg">Empowering the hearing impaired to connect effortlessly. Dive into the vibrant world of American Sign Language (ASL) and let your hands become the voice.</p>
             <div className="pt-12">
-              <button className="bg-primary font-semibold px-6 py-3 rounded-md shadow">START DETECTION</button>
+              <Link href={"/sign-detection"} className="bg-primary font-semibold px-6 py-3 rounded-md shadow">START DETECTION</Link>
             </div>
           </div>
 
