@@ -9,13 +9,22 @@ import socketio
 
 
 detector = HandDetector()
+
+model_path = "Model/keras_model.h5"
+label_path = "Model/labels.txt"
+
 classifier = Classifier("Model/keras_model.h5" , "Model/labels.txt")
 offset = 20
 imgSize = 300
 counter = 0
 
-# labels = ["Hello","I love you","No","Okay","Please","Thank you","Yes"]
-labels = [ "Hello", "I Love You", "Ok", "No", "Yes"]
+labels = []
+
+with open(label_path, 'r') as file:
+    for line in file:
+        label = line.split(maxsplit=1)[1]
+        labels.append(label.strip())
+
 
 # Define connections between landmarks (based on the standard hand model)
 connections = [
