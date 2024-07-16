@@ -5,7 +5,7 @@ import Head from "next/head"
 import { useEffect, useRef, useState } from "react";
 import { FaVideo, FaVideoSlash } from "react-icons/fa";
 import { io, Socket } from "socket.io-client";
-import { MdClose } from "react-icons/md";
+import { HiMiniSpeakerWave,HiMiniSpeakerXMark } from "react-icons/hi2";
 
 
 const poppins = Poppins({ weight: ['400', '600', '800'], subsets: ['latin'] })
@@ -18,7 +18,17 @@ function SignDetection() {
     const [enableCam, setEnableCam] = useState(false);
     const [words, setWords] = useState([] as string[]);
     const [socket, setSocket] = useState({} as Socket);
+    const [isAudioEnabled, setIsAudioEnabled] = useState(false);
 
+    useEffect(() => {
+        if(!isAudioEnabled || !words.length) return;
+        const utterance = new SpeechSynthesisUtterance(words[words.length-1]);
+        // Select a voice
+        const voices = speechSynthesis.getVoices();
+        utterance.voice = voices[0]; // Choose a specific voice
+        // Speak the text
+        speechSynthesis.speak(utterance);
+    }, [isAudioEnabled, words])
 
     useEffect(() => {
         const s = io(modelServerUrl);
@@ -131,6 +141,9 @@ function SignDetection() {
     function clearWords() {
         setWords([]);
     }
+    function toggleAudio() {
+        setIsAudioEnabled(!isAudioEnabled);
+    }
     return (
         <>
             <Head>
@@ -145,18 +158,27 @@ function SignDetection() {
                 {
                     enableCam && (
                     <div className="py-2 max-w-7xl mx-auto px-4">
-                        <div className="p-1 rounded shadow border px-4 min-h-8">
-                        {
-                            words.length == 0 && <span className="text-gray-400">No signs detected</span>
-                        }
-                        {
-                            words.map((word, i) => (
-                                <span key={`${word} ${i}`} className="rounded-full m-2"> {word} </span>
-                            ))
-                        }
+                        <div className="flex items-center gap-4 justify-between">
+                            <div className="p-1 rounded shadow border px-4 min-h-8 w-full">
+                            {
+                                words.length == 0 && <span className="text-gray-400">No signs detected</span>
+                            }
+                            {
+                                words.map((word, i) => (
+                                    <span key={`${word} ${i}`} className="rounded-full m-2"> {word} </span>
+                                ))
+                            }
+                            </div>
+                            <button onClick={toggleAudio} className="px-2 py-1 bg-primary text-sm my-4 rounded">
+                                {isAudioEnabled ? <HiMiniSpeakerWave size={22} /> : <HiMiniSpeakerXMark size={22} />}
+                            </button>
                         </div>
                         {
-                            words.length ? <button onClick={clearWords} className="px-2 py-1 bg-primary text-sm my-4 rounded">Clear</button>: ""
+                            words.length ?
+                            <div className="flex items-center gap-4">
+                                <button onClick={clearWords} className="px-2 py-1 bg-primary text-sm my-4 rounded">Clear</button>
+                            </div>
+                            : ""
                         }
                     </div>
                     )
