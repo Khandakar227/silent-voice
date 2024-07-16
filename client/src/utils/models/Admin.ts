@@ -1,19 +1,17 @@
-import mongoose, { model, Model, models, Schema } from 'mongoose';
+import { model, models, Schema } from 'mongoose';
 
 export interface IAdmin {
     email: string,
     password: string,
-    username: string,
     role: string,
-
 }
 
-export const SignSchema: Schema = new Schema({
-    word: { type: String, required: true, index: true, unique: true },
-    videos: [{ type: String, required: true }],
-    images: [{ type: String, required: true }],
+const AdminSchema = new Schema<IAdmin>({
+    email: { type: String, required: true },
+    password: { type: String, required: true },
+    role: { type: String, required: true, default: 'admin' },
 });
 
-const Sign = models.Sign || model("sign", SignSchema);
+const Admin = models.Admin || model('admin', AdminSchema);
 
-export default Sign;
+export default Admin;
