@@ -12,6 +12,6 @@ const AdminSchema = new Schema<IAdmin>({
     role: { type: String, required: true, default: 'admin' },
 });
 
-const Admin = models.Admin || model('admin', AdminSchema);
+const Admin = models.admin || model('admin', AdminSchema);
 
 export default Admin;
