@@ -22,9 +22,7 @@ export default function Navbar() {
           <Link href={"/dictionary"} className='hover:underline'>
             Dictionary
           </Link>
-          <Link href={"/admin"} className='hover:underline'>
-            Admin
-          </Link>
+          <Link href={"/quiz"}>Quiz</Link>
         </div>
       </div>
     </div>

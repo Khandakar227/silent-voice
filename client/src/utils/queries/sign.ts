@@ -86,3 +86,8 @@ export const getAllWords = async (page = 1, limit = 20) => {
         currentPage: page
     };
 }
+
+export const getRandom4Words = async () => {
+    const signs = await Sign.aggregate([{ $sample: { size: 4 } }]);
+    return signs;
+}
