@@ -4,6 +4,8 @@ import Head from "next/head"
 import { useRouter } from "next/router"
 import { useEffect, useState } from "react"
 
+import toast from "react-hot-toast"
+
 import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
 import { Pencil2Icon, TrashIcon } from "@radix-ui/react-icons"
 import { Button } from "@/components/ui/button"
@@ -13,8 +15,10 @@ const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 function Word() {
   const router = useRouter()
   const [word, setWord] = useState(
-    {} as { word: string; videos: string[]; images: string[] }
+    {} as { _id: string; word: string; videos: string[]; images: string[] }
   )
+  const [isDeleting, setIsDeleting] = useState(false)
+
   useEffect(() => {
     fetch(`/api/signs/word?word=${router.query.word}`)
       .then((response) => response.json())
@@ -29,18 +33,37 @@ function Word() {
     router.push(`/admin/dictionary/word/edit/${router.query.word}`)
   }
 
-  const handleDelete = () => {
-    console.log("delete")
+  const handleDelete = async () => {
+    if (
+      window.confirm(`Are you sure you want to delete the word "${word.word}"?`)
+    ) {
+      setIsDeleting(true)
+      try {
+        const response = await fetch(`/api/signs/delete`, {
+          method: "DELETE",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ wordId: word._id }),
+        })
 
-    // fetch(`/api/signs/word?word=${router.query.word}`, {
-    //   method: "DELETE",
-    // })
-    //   .then((response) => response.json())
-    //   .then((response) => {
-    //     console.log(response)
-    //     router.push("/admin/dictionary")
-    //   })
-    //   .catch((err) => console.error(err))
+        if (!response.ok) {
+          throw new Error("Failed to delete word")
+        }
+
+        toast.success(`Word "${word.word}" has been deleted successfully`, {
+          icon: "✅",
+        })
+        router.push("/admin/dictionary")
+      } catch (error) {
+        console.error("Error deleting word:", error)
+        toast.error(`Failed to delete word "${word.word}"`, {
+          icon: "❌",
+        })
+      } finally {
+        setIsDeleting(false)
+      }
+    }
   }
 
   return (

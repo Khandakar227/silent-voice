@@ -8,6 +8,7 @@ import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
+import toast from "react-hot-toast"
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
@@ -60,10 +61,20 @@ function EditWord() {
       }
 
       const updatedWord = await response.json()
+
+      toast.success(
+        `Word "${updatedWord.word}" has been updated successfully`,
+        {
+          icon: "✅",
+        }
+      )
       console.log("Word updated successfully:", updatedWord)
 
       router.push(`/admin/dictionary/word/${updatedWord.word}`)
     } catch (error) {
+      toast.error(`Failed to update word "${word.word}"`, {
+        icon: "❌",
+      })
       console.error("Error updating word:", error)
     }
   }

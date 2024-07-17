@@ -56,8 +56,8 @@ export const updateWordById = async (id: string, sign: ISign) => {
     return updatedSign;
 }
 
-export const deleteWordByWord = async (word: string) => {
-    const deletedSign = await Sign.findOneAndDelete({ word });
+export const deleteWordById = async (id: string) => {
+    const deletedSign = await Sign.findOneAndDelete({ _id: id });
     return deletedSign;
 }
 
