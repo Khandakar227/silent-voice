@@ -10,7 +10,7 @@ function Word() {
     const router = useRouter();
     const [word, setWord] = useState({} as { word: string, videos: string[], images: string[] });
     useEffect(() => {
-        fetch('/api/signs/word?word=ADMIRE')
+        fetch(`/api/signs/word?word=${router.query.word}`)
         .then(response => response.json())
         .then(response => {
             console.log(response)

@@ -1,9 +1,10 @@
 import Navbar from "@/components/Navbar";
+import Searchbar from "@/components/Searchbar";
 import { Poppins } from "next/font/google";
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { FaSearch } from "react-icons/fa";
+import {  } from "react-icons/fa";
 import ReactPaginate from "react-paginate";
 
 const poppins = Poppins({ weight: ['400', '600', '800'], subsets: ['latin'] })
@@ -47,10 +48,7 @@ export default function Dictionary() {
                 <div className="px-4">
                     <div className="glass-primary my-12 p-4 rounded border mx-auto max-w-7xl">
                         <h1 className="text-2xl font-bold">Explore, discover, and learn sign language</h1>
-                        <div className="flex gap-4 w-full py-12">
-                            <input type="search" name="search" id="search" className="px-4 py-2 rounded shadow border flex-1 outline-none" placeholder="Search a word..." />
-                            <button className="px-3 shadow-sm rounded bg-primary"><FaSearch/></button>
-                        </div>
+                        <Searchbar />
                     </div>
 
                     <div className="glass-primary my-4 p-e rounded border mx-auto max-w-7xl flex flex-wrap justify-center items-center">
