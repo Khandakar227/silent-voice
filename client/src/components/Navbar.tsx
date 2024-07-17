@@ -17,9 +17,7 @@ export default function Navbar() {
         <div className='flex gap-8 font-semibold items-center justify-center'>
           <Link href={"/sign-detection"}>Sign Detection</Link>
           <Link href={"/dictionary"}>Dictionary</Link>
-          <Link href={"/admin"} className='hover:underline'>
-            Admin
-          </Link>
+          <Link href={"/quiz"}>Quiz</Link>
         </div>
       </div>
     </div>
