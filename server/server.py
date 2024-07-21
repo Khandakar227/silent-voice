@@ -19,7 +19,6 @@ imgSize = 300
 counter = 0
 
 labels = []
-
 with open(label_path, 'r') as file:
     for line in file:
         label = line.split(maxsplit=1)[1]

@@ -1,31 +1,33 @@
 import Navbar from "@/components/Navbar";
 import Searchbar from "@/components/Searchbar";
+import Spinner from "@/components/Spinner";
 import { Poppins } from "next/font/google";
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import {  } from "react-icons/fa";
 import ReactPaginate from "react-paginate";
 
 const poppins = Poppins({ weight: ['400', '600', '800'], subsets: ['latin'] })
 
 const alphabets = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 export default function Dictionary() {
-    const [words, setWords] = useState([] as {word:string, _id: string}[]);
+    const [words, setWords] = useState([] as { word: string, _id: string }[]);
     const [totalPages, setTotalPages] = useState(0);
     const [page, setPage] = useState(0);
     const [alphabet, setAlphabet] = useState('');
+    const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch(`/api/signs?prefix=${alphabet}&page=${page+1}`)
-        .then(response => response.json())
-        .then(response => {
-            console.log(response)
-            setWords(response.contents || []);
-            setTotalPages(response.totalPages);    
-        })
-        .catch(err => console.error(err));
-            }, [page, alphabet])
+        fetch(`/api/signs?prefix=${alphabet}&page=${page + 1}`)
+            .then(response => response.json())
+            .then(response => {
+                console.log(response)
+                setWords(response.contents || []);
+                setTotalPages(response.totalPages);
+                setLoading(false);
+            })
+            .catch(err => console.error(err));
+    }, [page, alphabet])
 
     function onPageChange(selectedItem: { selected: number; }) {
         console.log("selectedItem ", selectedItem)
@@ -36,7 +38,7 @@ export default function Dictionary() {
         setAlphabet(alphabet);
         setPage(0);
     }
-    
+
     return (
         <>
             <Head>
@@ -60,8 +62,11 @@ export default function Dictionary() {
                         }
                     </div>
 
+                    {
+                        loading ? <Spinner/>
+                        :
                     <div className="pt-8">
-                <div className="grid justify-between items-center gap-4 lg:grid-cols-3 md:grid-cols-2 text-center">
+                        <div className="grid justify-between items-center gap-4 lg:grid-cols-3 md:grid-cols-2 text-center">
                             {
                                 words.map((word, i) => (
                                     <div key={word._id + i}>
@@ -70,22 +75,23 @@ export default function Dictionary() {
                                 ))
                             }
                         </div>
-                    <ReactPaginate
-                    className="flex justify-center items-center gap-4 flex-wrap py-12"
-                    pageLinkClassName={'px-4 py-2 rounded-md shadow outline-none bg-primary text-white text-sm hover:bg-blue-500 hover:text-white'}
-                    pageCount={totalPages}
-                    breakLabel="..."
-                    nextLabel=">"
-                    previousLinkClassName="px-4 py-2 rounded-md outline-none hover:bg-blue-500 hover:text-white"
-                    nextLinkClassName="px-4 py-2 rounded-md outline-none hover:bg-blue-500 hover:text-white"
-                    pageRangeDisplayed={5}
-                    previousLabel="<"
-                    renderOnZeroPageCount={null}
-                    activeLinkClassName="!bg-blue-700 !text-white"
-                    initialPage={page}
-                    onPageChange={onPageChange}
-                    />
-                </div>
+                        <ReactPaginate
+                            className="flex justify-center items-center gap-4 flex-wrap py-12"
+                            pageLinkClassName={'px-4 py-2 rounded-md shadow outline-none bg-primary text-white text-sm hover:bg-blue-500 hover:text-white'}
+                            pageCount={totalPages}
+                            breakLabel="..."
+                            nextLabel=">"
+                            previousLinkClassName="px-4 py-2 rounded-md outline-none hover:bg-blue-500 hover:text-white"
+                            nextLinkClassName="px-4 py-2 rounded-md outline-none hover:bg-blue-500 hover:text-white"
+                            pageRangeDisplayed={5}
+                            previousLabel="<"
+                            renderOnZeroPageCount={null}
+                            activeLinkClassName="!bg-blue-700 !text-white"
+                            initialPage={page}
+                            onPageChange={onPageChange}
+                        />
+                    </div>
+                    }
                 </div>
             </div>
         </>

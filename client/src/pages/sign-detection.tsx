@@ -90,10 +90,9 @@ function SignDetection() {
             console.log(err);
         })
     }
+    
     function stopCam() {
         setEnableCam(false);
-        // const video = videoRef.current;
-        // if(!video) return;
 
     }
 

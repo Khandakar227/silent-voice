@@ -3,6 +3,7 @@ import Head from "next/head"
 import { Poppins } from "next/font/google"
 import Link from "next/link"
 import Image from "next/image"
+import ChessBoard from "@/components/ChessBoard"
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
@@ -37,9 +38,9 @@ export default function Home() {
 
           <div>
             <Image
-              height={1000}
-              width={1000}
-              className='max-w-md mx-auto rounded-xl shadow shadow-primary'
+              height={500}
+              width={500}
+              className='max-w-md mx-auto w-full rounded-xl shadow shadow-primary'
               src='/gesture.jpg'
               alt='sign language alphabets'
             />

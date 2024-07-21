@@ -43,7 +43,7 @@ export default function Quiz() {
                                 <Image
                                     height={500}
                                     width={500}
-                                    className='max-w-md mx-auto rounded-xl shadow shadow-primary'
+                                    className='max-w-md w-full mx-auto rounded-xl shadow shadow-primary'
                                     src='/sign-language-alphabets.jpg'
                                     alt='sign language alphabets'
                                 />

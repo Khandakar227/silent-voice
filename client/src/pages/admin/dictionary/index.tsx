@@ -5,7 +5,6 @@ import { Poppins } from "next/font/google"
 import Head from "next/head"
 import Link from "next/link"
 import { useEffect, useState } from "react"
-import {} from "react-icons/fa"
 import ReactPaginate from "react-paginate"
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })

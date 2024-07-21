@@ -1,14 +1,15 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { createManyWords } from '@/utils/queries/sign';
 import { dbConnect } from "@/utils/mongodb";
+import { createUser } from "@/utils/queries/user";
 
 
 const POST = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
-    const signs = req.body;
+    const { name, email, password } = req.body;
     await dbConnect();
-    await createManyWords(signs);
-    res.status(201).json({message: 'Signs added'});
+    await createUser({name, email, password});
+    // Send verification mail
+    res.status(201).json({message: 'Account created'});
   } catch (error) {
     console.log(error);
     res.status(500).json({error: (error as Error).message});
