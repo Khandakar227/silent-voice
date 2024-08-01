@@ -6,12 +6,6 @@ import Link from "next/link"
 import { useEffect, useState } from "react"
 import ReactPaginate from "react-paginate"
 
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import { FiPlusCircle } from "react-icons/fi"
-import { FiMinusCircle } from "react-icons/fi"
-import toast from "react-hot-toast"
-
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
 const alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
@@ -43,66 +37,6 @@ const Dictionary = () => {
     setPage(0)
   }
 
-  const handleAddWordModal = () => {
-    setShowWordModal(true)
-  }
-
-  const handleModalClose = () => {
-    setShowWordModal(false)
-  }
-
-  const addImageField = () => setImages([...images, ""])
-  const removeImageField = (index: number) => {
-    const newImages = images.filter((_, i) => i !== index)
-    setImages(newImages)
-  }
-
-  const addVideoField = () => setVideos([...videos, ""])
-  const removeVideoField = (index: number) => {
-    const newVideos = videos.filter((_, i) => i !== index)
-    setVideos(newVideos)
-  }
-
-  const handleAddWord = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault()
-
-    try {
-      const response = await fetch("/api/signs/add", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          word,
-          videos: videos.filter((v) => v.trim() !== ""),
-          images: images.filter((i) => i.trim() !== ""),
-        }),
-      })
-
-      if (!response.ok) {
-        const errorData = await response.json()
-        throw new Error(errorData.error || "Failed to add word")
-      }
-
-      const data = await response.json()
-
-      toast.success(`Word "${data.word}" has been added successfully`, {
-        icon: "✅",
-      })
-      console.log("Word added successfully:", data)
-
-      setWord("")
-      setVideos([""])
-      setImages([""])
-      setShowWordModal(false)
-    } catch (error) {
-      toast.error(`Failed to add word`, {
-        icon: "❌",
-      })
-      console.error("Error adding word:", error)
-    }
-  }
-
   return (
     <>
       <Head>
@@ -113,18 +47,9 @@ const Dictionary = () => {
         <Navbar />
         <div className='px-4'>
           <div className='glass-primary my-12 p-4 rounded border mx-auto max-w-7xl'>
-            <div className='flex justify-between'>
-              <h1 className='text-2xl font-bold'>
-                American Sign Language Dictionary
-              </h1>
-              <Button
-                onClick={handleAddWordModal}
-                variant='default'
-                className='hover:bg-[#4fb7da] hover:text-white font-bold'
-              >
-                Add Word
-              </Button>
-            </div>
+            <h1 className='text-2xl font-bold'>
+              Explore, discover, and learn sign language
+            </h1>
             <AdminSearchbar />
           </div>
 
@@ -179,111 +104,6 @@ const Dictionary = () => {
           </div>
         </div>
       </div>
-
-      {showWordModal && (
-        <div className='fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center overflow-auto'>
-          <div className='bg-white rounded-md p-6 w-11/12 max-w-4xl max-h-[90vh] overflow-auto'>
-            <form
-              className='bg-white p-4 m-4 rounded space-y-6'
-              onSubmit={handleAddWord}
-            >
-              <h1 className='text-2xl font-bold text-center'>Add Word</h1>
-
-              <div className='flex flex-col items-start justify-center gap-3'>
-                <Label htmlFor='word' className='font-semibold'>
-                  Word
-                </Label>
-                <Input
-                  type='text'
-                  id='word'
-                  placeholder='Word'
-                  value={word}
-                  onChange={(e) => setWord(e.target.value)}
-                />
-              </div>
-
-              <div className='flex flex-col items-start justify-center gap-3'>
-                <Label className='font-semibold'>Image URLs</Label>
-                {images.map((image, index) => (
-                  <div key={index} className='flex items-center gap-2 w-full'>
-                    <Input
-                      type='text'
-                      placeholder='Image URL'
-                      value={image}
-                      onChange={(e) => {
-                        const newImages = [...images]
-                        newImages[index] = e.target.value
-                        setImages(newImages)
-                      }}
-                    />
-                    <Button
-                      type='button'
-                      onClick={() => removeImageField(index)}
-                      size='icon'
-                      variant='outline'
-                      className='hover:bg-rose-600 hover:text-white border border-rose-500'
-                    >
-                      <FiMinusCircle className='h-4 w-4' />
-                    </Button>
-                  </div>
-                ))}
-                <Button type='button' onClick={addImageField} size='sm'>
-                  <FiPlusCircle className='h-4 w-4 mr-2' /> Add Image URL
-                </Button>
-              </div>
-
-              <div className='flex flex-col items-start justify-center gap-3'>
-                <Label className='font-semibold'>Video URLs</Label>
-                {videos.map((video, index) => (
-                  <div key={index} className='flex items-center gap-2 w-full'>
-                    <Input
-                      type='text'
-                      placeholder='Video URL'
-                      value={video}
-                      onChange={(e) => {
-                        const newVideos = [...videos]
-                        newVideos[index] = e.target.value
-                        setVideos(newVideos)
-                      }}
-                    />
-                    <Button
-                      type='button'
-                      onClick={() => removeVideoField(index)}
-                      size='icon'
-                      variant='outline'
-                      className='hover:bg-rose-600 hover:text-white border border-rose-500'
-                    >
-                      <FiMinusCircle className='h-4 w-4' />
-                    </Button>
-                  </div>
-                ))}
-                <Button type='button' onClick={addVideoField} size='sm'>
-                  <FiPlusCircle className='h-4 w-4 mr-2' /> Add Video URL
-                </Button>
-              </div>
-
-              <div className='flex justify-between'>
-                <Button
-                  type='submit'
-                  size='sm'
-                  className='bg-lime-600 hover:bg-lime-700'
-                >
-                  Add Word
-                </Button>
-
-                <Button
-                  onClick={handleModalClose}
-                  className='hover:bg-rose-600 hover:text-white border border-rose-500'
-                  size='sm'
-                  variant='outline'
-                >
-                  Close
-                </Button>
-              </div>
-            </form>
-          </div>
-        </div>
-      )}
     </>
   )
 }
