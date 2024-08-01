@@ -1,6 +1,6 @@
 import { randomBytes, scryptSync, timingSafeEqual } from "crypto";
 import User from "./models/User";
-// import jwt from 'jsonwebtoken';
+import jwt from 'jsonwebtoken';
 
 const LOGIN_DURATION = '7d'
 
@@ -34,6 +34,7 @@ export async function login(email: string, password: string) {
       name: user.name,
       email: user.email,
       isVerified: user.isVerified,
+      role: user.role,
     };
 
     const token = jwt.sign(userInfo, process.env.JWT_SECRET_KEY as string, {
@@ -43,16 +44,9 @@ export async function login(email: string, password: string) {
   } else throw Error("Invalid email or password.");
 }
 
-export const getLoggedInUser = async () => {
-  const token = localStorage.getItem("token");
-  const res = await (await fetch("/user/profile", {
-    headers: {
-      Authorization: `Bearer ${token}`,
-    },
-  })).json();
-  if (res.error) {
-    localStorage.removeItem("token");
-    return;
-  }
-  return res;
+
+export const getProfile = async (token: string) => {
+  const payload = jwt.verify(token, process.env.JWT_SECRET_KEY as string);
+  console.log(payload)
+  return payload;
 }

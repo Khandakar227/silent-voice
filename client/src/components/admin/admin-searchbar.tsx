@@ -21,7 +21,7 @@ export default function AdminSearchbar() {
         className='px-4 py-2 rounded shadow border flex-1 outline-none'
         placeholder='Search a word...'
       />
-      <button type='submit' className='px-3 shadow-sm rounded bg-primary'>
+      <button type='submit' className='px-3 min-h-8 shadow-sm rounded bg-primary'>
         <FaSearch />
       </button>
     </form>

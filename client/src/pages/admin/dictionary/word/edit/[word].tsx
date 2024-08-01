@@ -4,11 +4,11 @@ import Head from "next/head"
 import { useRouter } from "next/router"
 import { useEffect, useState } from "react"
 
-import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import toast from "react-hot-toast"
+import Spinner from "@/components/Spinner"
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
@@ -17,6 +17,7 @@ function EditWord() {
   const [word, setWord] = useState(
     {} as { _id: string; word: string; videos: string[]; images: string[] }
   )
+
   useEffect(() => {
     fetch(`/api/signs/word?word=${router.query.word}`)
       .then((response) => response.json())
@@ -27,32 +28,20 @@ function EditWord() {
       .catch((err) => console.error(err))
   }, [router.query.word])
 
-  const handleImageChange = (index: number, value: string) => {
-    const newImages = [...word.images]
-    newImages[index] = value
-    setWord({ ...word, images: newImages })
-  }
-
-  const handleVideoChange = (index: number, value: string) => {
-    const newVideos = [...word.videos]
-    newVideos[index] = value
-    setWord({ ...word, videos: newVideos })
-  }
-
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault()
-
+    e.preventDefault();
     try {
-      const response = await fetch("/api/signs/update", {
+      const token = localStorage.getItem("token");
+      const data = Object.fromEntries(new FormData(e.target as HTMLFormElement));
+      const response = await fetch(`/api/signs?word=${word.word}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`,
         },
         body: JSON.stringify({
-          oldWord: router.query.word,
-          newWord: word.word,
-          images: word.images,
-          videos: word.videos,
+          ...data,
+          videos: (data.videos as string).split(",").map((video) => video.trim()),
         }),
       })
 
@@ -82,9 +71,14 @@ function EditWord() {
   return (
     <>
       <Head>
-        <title>{word.word ? word.word : ""} - Silent Voice</title>
+        <title>{word && word?.word ? word.word : ""} - Silent Voice</title>
       </Head>
 
+      {
+        !word || !word.word ? (
+        <Spinner/>
+        )
+        :
       <div className={`${poppins.className} min-h-screen bg-box`}>
         <Navbar />
         <div className='max-w-7xl mx-auto py-5 grid md:grid-cols-1 items-center'>
@@ -107,46 +101,12 @@ function EditWord() {
                   type='text'
                   id='word'
                   placeholder='Word'
-                  value={word.word}
-                  onChange={(e) => setWord({ ...word, word: e.target.value })}
+                  name="word"
                 />
               </div>
-
-              <div className='flex flex-col items-start justify-center gap-3'>
-                <Label htmlFor='images' className='font-semibold'>
-                  Image URLs
-                </Label>
-                {word.images.map((image, index) => {
-                  return (
-                    <Input
-                      key={index}
-                      type='text'
-                      id={`image-${index}`}
-                      placeholder='Image URL'
-                      value={image}
-                      onChange={(e) => handleImageChange(index, e.target.value)}
-                    />
-                  )
-                })}
-              </div>
-
-              <div className='flex flex-col items-start justify-center gap-3'>
-                <Label htmlFor='videos' className='font-semibold'>
-                  Video URLs
-                </Label>
-                {word.videos.map((video, index) => {
-                  return (
-                    <Input
-                      key={index}
-                      type='text'
-                      id={`video-${index}`}
-                      placeholder='Video URL'
-                      value={video}
-                      onChange={(e) => handleVideoChange(index, e.target.value)}
-                    />
-                  )
-                })}
-              </div>
+              <textarea name="videos" id="videos" className="">
+                {word.videos.join(",")}
+              </textarea>
 
               <Button
                 type='submit'
@@ -159,8 +119,10 @@ function EditWord() {
           )}
         </div>
       </div>
+      }
+
     </>
   )
 }
 
-export default withPageAuthRequired(EditWord)
+export default EditWord

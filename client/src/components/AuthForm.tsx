@@ -2,6 +2,7 @@ import { Input } from "./ui/input";
 import { Button } from "./ui/button";
 import { FormEvent, useState } from "react";
 import { useRouter } from "next/router";
+import { useUser } from "@/hooks/user";
 
 type LoginModalProps = {
 }
@@ -10,6 +11,7 @@ export default function AuthForm(props: LoginModalProps) {
     const router = useRouter();
     const [isLoginForm, setIsLoginForm] = useState(true);
     const [loading, setLoading] = useState(false);
+    const [user, setUser] = useUser();
 
     const changeForm = () => {
         setIsLoginForm(!isLoginForm);
@@ -36,6 +38,10 @@ export default function AuthForm(props: LoginModalProps) {
                 if(response.error) {
                     alert(response.error)
                     return;
+                }
+                if(isLoginForm) {
+                    localStorage.setItem("token", response.data?.token);
+                    setUser(response.data?.userInfo);
                 }
                 router.push("/");
             })

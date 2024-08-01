@@ -1,15 +1,29 @@
 import Navbar from "@/components/Navbar";
 import QuizBox from "@/components/QuizBox";
+import { useUser } from "@/hooks/user";
 import { Poppins } from "next/font/google";
 import Head from "next/head";
 import Image from "next/image";
+import { useRouter } from "next/router";
 import { useState } from "react";
+import toast from "react-hot-toast";
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
 export default function Quiz() {
+    const router = useRouter();
     const [isQuizStarted, setIsQuizStarted] = useState(false);
+    const [user, _] = useUser();
     const stopQuiz = () => setIsQuizStarted(false);
+
+    const startQuiz = () => {
+        if(!user) {
+            toast.error("Please Login to start a quiz");
+            router.push("/login");
+            return;
+        }
+        setIsQuizStarted(true);
+    }
     return (
         <>
             <Head>
@@ -32,7 +46,7 @@ export default function Quiz() {
                                 </p>
                                 <div className='pt-12'>
                                     <button
-                                        className='bg-primary font-semibold px-6 py-3 rounded-md shadow' onClick={() => setIsQuizStarted(true)}
+                                        className='bg-primary font-semibold px-6 py-3 rounded-md shadow' onClick={startQuiz}
                                     >
                                         START QUIZ
                                     </button>

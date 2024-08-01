@@ -16,6 +16,6 @@ const UserSchema = new Schema<IUser>({
     role: { type: String, required: true, default: 'user' },
 });
 
-const User = models.user || model('user', UserSchema);
+const User = models?.user || model('user', UserSchema);
 
 export default User;

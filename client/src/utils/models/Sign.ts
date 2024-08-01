@@ -1,9 +1,9 @@
 import mongoose, { Document, model, Model, models, Schema } from 'mongoose';
 
-export interface ISign extends Document {
+export interface ISign {
     word: string,
     videos: string[],
-    images: string[],
+    images?: string[],
 }
 
 export const signSchema: Schema = new Schema({

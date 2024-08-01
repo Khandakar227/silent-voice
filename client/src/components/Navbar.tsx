@@ -3,10 +3,15 @@ import Link from "next/link"
 import { useState } from "react"
 import { FaBars } from 'react-icons/fa'
 import MobileSidebar from "./MobileSidebar"
+import { userUserLoaded, useUser } from "@/hooks/user"
+import Spinner from "./Spinner"
+import Avatar from "./Avatar"
 
 
 export default function Navbar() {
   const [showMobileNav, setShowMobileNav] = useState(false);
+  const [user, _] = useUser();
+  const [loaded, __] = userUserLoaded();
 
   return (
     <div className='px-4 py-1 bg-primary shadow'>
@@ -31,12 +36,20 @@ export default function Navbar() {
           <Link href={"/quiz"} className='hover:underline'>
             Quiz
           </Link>
+          {
+            !loaded ? <Spinner size={1}/> : user ? <Avatar/> :
           <Link href={"/login"} className='hover:underline'>
             Login
           </Link>
+          }
           
         </div>
-        <button className="md:hidden" onClick={() => setShowMobileNav(!showMobileNav)}><FaBars size={22}/></button>
+        <div className="flex gap-3 items-center justify-center md:hidden">
+          {user && (
+            <Avatar/>
+          )}
+          <button onClick={() => setShowMobileNav(!showMobileNav)}><FaBars size={22}/></button>
+        </div>
       </div>
       <MobileSidebar show={showMobileNav} setShow={() => setShowMobileNav(!showMobileNav)} />
     </div>

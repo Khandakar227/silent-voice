@@ -55,7 +55,7 @@ export default function QuizBox(props: { stopQuiz: () => void }) {
                 <ShowQuizOverModal open={showAlert} score={score} totalQuestions={totalQuestions} onAction={handleAlertAction} />
                 <h1 className='text-4xl font-bold text-center pb-4'>Quiz</h1>
             </div>
-            <div className="py-4 flex justify-between items-center gap-4 mx-auto max-w-6xl">
+            <div className="p-4 flex justify-between items-center gap-4 mx-auto max-w-6xl">
                 <h2 className="text-xl font-semibold text-center">Score: {score}</h2>
                 <h3 className="text-xl font-semibold text-center">Question: {questionCount + 1}/{totalQuestions}</h3>
             </div>
@@ -67,7 +67,7 @@ export default function QuizBox(props: { stopQuiz: () => void }) {
                         )
                     }
                 </div>
-                <div className="grid grid-cols-2 gap-4 justify-center items-start">
+                <div className="grid grid-cols-2 gap-4 justify-center items-stretch">
                     {
                         words.map((word, index) =>
                             <button

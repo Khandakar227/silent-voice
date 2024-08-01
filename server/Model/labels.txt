@@ -1,8 +1,10 @@
-0 Hello
-1 I Love You
-2 Ok
-3 No
-4 Yes
-5 S
-6 Name
-7 My
+0 A
+1 B
+2 S
+3 I
+4 Hello
+5 Name
+6 My
+7 Ok
+8 Yes
+9 K

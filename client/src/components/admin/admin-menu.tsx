@@ -91,14 +91,6 @@ const AdminMenu = () => {
                   Dictionary
                 </Link>
               </motion.li>
-              <motion.li variants={menuItemVariants}>
-                <Link
-                  className={getMenuItemClass("/admin/dictionary")}
-                  href='/admin/quiz'
-                >
-                  Quiz
-                </Link>
-              </motion.li>
             </motion.ul>
           </motion.section>
         )}

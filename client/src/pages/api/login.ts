@@ -13,8 +13,9 @@ const POST = async (req: NextApiRequest, res: NextApiResponse) => {
   } catch (error) {
     console.log(error);
     res.status(500).json({error: (error as Error).message});
-  } 
+  }
 }
+
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse,

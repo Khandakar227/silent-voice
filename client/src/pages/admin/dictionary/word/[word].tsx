@@ -9,13 +9,14 @@ import toast from "react-hot-toast"
 import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
 import { Pencil2Icon, TrashIcon } from "@radix-ui/react-icons"
 import { Button } from "@/components/ui/button"
+import Spinner from "@/components/Spinner"
 
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
 function Word() {
   const router = useRouter()
   const [word, setWord] = useState(
-    {} as { _id: string; word: string; videos: string[]; images: string[] }
+    {} as { _id: string; word: string; videos: string[]; images: string[] } | null
   )
   const [isDeleting, setIsDeleting] = useState(false)
 
@@ -34,6 +35,7 @@ function Word() {
   }
 
   const handleDelete = async () => {
+    if(!word) return;
     if (
       window.confirm(`Are you sure you want to delete the word "${word.word}"?`)
     ) {
@@ -69,11 +71,16 @@ function Word() {
   return (
     <>
       <Head>
-        <title>{word.word ? word.word : ""} - Silent Voice</title>
+        <title>{word && word?.word ? word.word : ""} - Silent Voice</title>
       </Head>
 
       <div className={`${poppins.className} min-h-screen bg-box`}>
         <Navbar />
+        {
+          !word || !word.word ? (
+          <Spinner/>
+          )
+          :
         <div className='max-w-7xl mx-auto grid py-5 md:grid-cols-1 items-center'>
           {!word.word ? (
             <div className='flex justify-center items-center h-screen'>
@@ -128,9 +135,10 @@ function Word() {
             </div>
           )}
         </div>
+        }
       </div>
     </>
   )
 }
 
-export default withPageAuthRequired(Word)
+export default Word

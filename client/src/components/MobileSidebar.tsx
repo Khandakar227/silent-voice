@@ -1,5 +1,7 @@
+import { userUserLoaded, useUser } from "@/hooks/user";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import Spinner from "./Spinner";
 
 type MobileSidebarProps = {
     show: boolean;
@@ -13,6 +15,8 @@ const navsmenu = [
 ]
 const MobileSidebar = ({ show, setShow }:MobileSidebarProps) => {
     const router = useRouter();
+    const [user, _] = useUser();
+    const [loaded, __] = userUserLoaded();
 
     return (
         <div className={`fixed top-0 left-0 h-screen right-0 bottom-0 ${show ? "z-[1]" : "-z-10 invisible"}`}>
@@ -24,9 +28,15 @@ const MobileSidebar = ({ show, setShow }:MobileSidebarProps) => {
                             className={`px-6 py-2 block hover:bg-primary hover:text-white ${router.pathname == n.href ? "bg-blue-700 text-white" : ""}`}
                             key={n.href}>{n.label}</Link>)
                     }
-                    <Link href={'/login'}
-                    className={`px-6 py-2 block hover:bg-primary hover:text-white ${router.pathname == '/login' ? "bg-blue-700 text-white" : ""}`}
-                    >Login</Link>
+                    {
+                        !loaded ? <Spinner size={1}/>
+                        :
+                        !user && (
+                            <Link href={'/login'}
+                                className={`px-6 py-2 block hover:bg-primary hover:text-white ${router.pathname == '/login' ? "bg-blue-700 text-white" : ""}`}
+                            >Login</Link>
+                        )
+                    }
                 </div>
             </div>
         </div>

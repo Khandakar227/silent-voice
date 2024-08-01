@@ -7,8 +7,6 @@ import { useRouter } from "next/router"
 import { useEffect, useState } from "react"
 import ReactPaginate from "react-paginate"
 
-import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
-
 const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 
 const Search = () => {
@@ -90,4 +88,4 @@ const Search = () => {
   )
 }
 
-export default withPageAuthRequired(Search)
+export default Search

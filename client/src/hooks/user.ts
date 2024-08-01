@@ -6,6 +6,7 @@ export type User = {
     name: string;
     email: string;
     isVerified: boolean;
+    role: 'admin' | 'user';
 }
 
 const userAtom = atom<User | null>(null);

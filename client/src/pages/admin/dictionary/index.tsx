@@ -1,6 +1,5 @@
 import AdminSearchbar from "@/components/admin/admin-searchbar"
 import Navbar from "@/components/Navbar"
-import { withPageAuthRequired } from "@auth0/nextjs-auth0/client"
 import { Poppins } from "next/font/google"
 import Head from "next/head"
 import Link from "next/link"
@@ -12,10 +11,10 @@ const poppins = Poppins({ weight: ["400", "600", "800"], subsets: ["latin"] })
 const alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
 
 const Dictionary = () => {
-  const [words, setWords] = useState([] as { word: string; _id: string }[])
-  const [totalPages, setTotalPages] = useState(0)
-  const [page, setPage] = useState(0)
-  const [alphabet, setAlphabet] = useState("")
+  const [words, setWords] = useState([] as { word: string; _id: string }[]);
+  const [totalPages, setTotalPages] = useState(0);
+  const [page, setPage] = useState(0);
+  const [alphabet, setAlphabet] = useState("");
 
   useEffect(() => {
     fetch(`/api/signs?prefix=${alphabet}&page=${page + 1}`)
@@ -109,4 +108,4 @@ const Dictionary = () => {
   )
 }
 
-export default withPageAuthRequired(Dictionary)
+export default Dictionary
