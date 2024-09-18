@@ -41,10 +41,11 @@ function Word() {
     ) {
       setIsDeleting(true)
       try {
-        const response = await fetch(`/api/signs/delete`, {
+        const response = await fetch(`/api/signs?wordId=${word._id}`, {
           method: "DELETE",
           headers: {
             "Content-Type": "application/json",
+            "Authorization": `Bearer ${localStorage.getItem("token")}`,
           },
           body: JSON.stringify({ wordId: word._id }),
         })

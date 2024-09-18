@@ -33,7 +33,7 @@ function EditWord() {
     try {
       const token = localStorage.getItem("token");
       const data = Object.fromEntries(new FormData(e.target as HTMLFormElement));
-      const response = await fetch(`/api/signs?word=${word.word}`, {
+      const response = await fetch(`/api/signs/word?word=${word.word}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -102,9 +102,10 @@ function EditWord() {
                   id='word'
                   placeholder='Word'
                   name="word"
+                  defaultValue={word.word}
                 />
               </div>
-              <textarea name="videos" id="videos" className="">
+              <textarea name="videos" id="videos" className="w-full min-h-10 rounded-md border border-slate-200 bg-transparent px-3 py-1 shadow-sm">
                 {word.videos.join(",")}
               </textarea>
 
